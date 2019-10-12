@@ -85,7 +85,7 @@ author:
   bio              : "I am a 3rd year PhD student in Operations Research in Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. I am currently working on stochastic methods for non-convex optimization with applications in machine learning, deep learning, and reinforcement learnig."
   location         : "Chapel Hill, NC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=nB_GbvYAAAAJ"
   email            : "nhanph@live.unc.edu"
   researchgate     : "https://www.researchgate.net/profile/Nhan_Pham8"# example: "https://www.researchgate.net/profile/yourprofile"
