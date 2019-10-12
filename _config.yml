@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nhan H. Pham"
-  avatar           : "NP_Profile.jpg"
+  avatar           : "NhanPham_Profile.JPG"
   bio              : "I am a 3rd year PhD student in Operations Research in Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. I am currently working on stochastic methods for non-convex optimization with applications in machine learning, deep learning, and reinforcement learnig."
   location         : "Chapel Hill, NC"
   employer         :
