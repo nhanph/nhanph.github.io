@@ -3,7 +3,7 @@ title: "Spring 2019"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-spring-teaching
-venue: "University of North Carolina at Chapel Hill, Department of Statistics and Operations Research"
+venue: "Department of Statistics and Operations Research, University of North Carolina at Chapel Hill"
 date: 2019-01-09
 location: "Chapel Hill, NC"
 ---
