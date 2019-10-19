@@ -3,7 +3,7 @@ title: "ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite N
 collection: publications
 permalink: /publication/2019-02-ProxSARAH
 excerpt: 'We propose a new stochastic first-order algorithmic framework to solve stochastic composite nonconvex optimization problems that covers both finite-sum and expectation settings.'
-date: 2019-02
+date: 2019-02-01
 venue: 'Submitted to JMLR'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
