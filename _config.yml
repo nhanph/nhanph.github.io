@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nhan H. Pham"
   avatar           : "NP_Profile.jpg"
-  bio              : "I am a 3rd year PhD student in Operations Research in Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. I am currently working on stochastic methods for non-convex optimization with applications in machine learning, deep learning, and reinforcement learnig."
+  bio              : "I am a 3rd year PhD student in Operations Research in Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. I am currently working on stochastic methods for non-convex optimization with applications in machine learning, deep learning, and reinforcement learning."
   location         : "Chapel Hill, NC"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
