@@ -18,7 +18,7 @@ Stochastic optimization methods for machine learning, deep learning, and reinfor
 
 ## Publications
 
-- H. M. La, T. H. Dinh, **N. H. Pham**, Q. P. Ha, and A. Q. Pham. Automated robotic monitoring and inspection of steel structures and bridges. *Robotica*, Cambridge University Press, 1-21. 2018.
+- H. M. La, T. H. Dinh, **N. H. Pham**, Q. P. Ha, and A. Q. Pham. Automated robotic monitoring and inspection of steel structures and bridges. *Robotica*, Cambridge University Press, 1-21, 2018.
 
 - T. D. Le, S. Gibb, **N. H. Pham**, H. M. La, L. Falk, and T.  Berendsen. Autonomous Robotic System using Non-Destructive Evaluation methods for Bridge Deck Inspection. *In Proceedings of the 2017 IEEE International Conference on Robotics and Automation (ICRA)*, May 29-June 3, 2017, Singapore. <a href="https://www.researchgate.net/profile/Hung_La/publication/316190868_Autonomous_Robotic_System_using_Non-Destructive_Evaluation_methods_for_Bridge_Deck_Inspection/links/58fb75e30f7e9ba3ba523d10/Autonomous-Robotic-System-using-Non-Destructive-Evaluation-methods-for-Bridge-Deck-Inspection.pdf" target="_blank">[Preprint]</a>
 
