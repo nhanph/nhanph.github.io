@@ -31,9 +31,7 @@ Stochastic optimization methods for machine learning, deep learning, and reinfor
   journal={ArXiv},
   year={2019},
   volume={abs/1907.03793}
-}
-</code></pre>
-</div>
+}</code></pre></div>
 
 - **N. H. Pham**, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh. {\em ProxSARAH: An efficient algorithmic frame- work for stochastic composite nonconvex optimization}. *arXiv:1902.05679* , 2019. (Under review for Journal of Machine Learning Research) [Preprint](https://arxiv.org/pdf/1902.05679) <a href="javascript:showhide('papercite_8_block')"> [Bibtex] </a>
     <div id="papercite_8_block" style="display:none;">
@@ -43,9 +41,7 @@ Stochastic optimization methods for machine learning, deep learning, and reinfor
   journal={ArXiv},
   year={2019},
   volume={abs/1902.05679}
-}
-</code></pre>
-</div>
+}</code></pre></div>
 
 ## Talks
 
