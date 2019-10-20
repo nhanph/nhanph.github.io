@@ -23,7 +23,10 @@ Stochastic optimization methods for machine learning, deep learning, and reinfor
 
 ## Preprints
 
-- Q. Tran-Dinh, **N. H. Pham**, D. T. Phan, and L. M. Nguyen. A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization. *arXiv:1907.03793*, 2019. (Under review for Mathematical Programming) [Preprint]{https://arxiv.org/pdf/1907.03793} <details><summary>Bibtex</summary>
+- Q. Tran-Dinh, **N. H. Pham**, D. T. Phan, and L. M. Nguyen. A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization. *arXiv:1907.03793*, 2019. (Under review for Mathematical Programming) [Preprint]{https://arxiv.org/pdf/1907.03793} 
+
+<details>
+<summary>Bibtex</summary>
 <br>
 <pre><code class="tex bibtex">@article{TranDinh2019ProxHybrid,
   title={A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization},
@@ -35,7 +38,9 @@ Stochastic optimization methods for machine learning, deep learning, and reinfor
 </code></pre>
 </details>
 
-- **N. H. Pham**, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh. {\em ProxSARAH: An efficient algorithmic frame- work for stochastic composite nonconvex optimization}. *arXiv:1902.05679* , 2019. (Under review for Journal of Machine Learning Research) [Preprint]{https://arxiv.org/pdf/1902.05679} <details><summary>Bibtex</summary>
+- **N. H. Pham**, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh. {\em ProxSARAH: An efficient algorithmic frame- work for stochastic composite nonconvex optimization}. *arXiv:1902.05679* , 2019. (Under review for Journal of Machine Learning Research) [Preprint]{https://arxiv.org/pdf/1902.05679} 
+<details>
+<summary>Bibtex</summary>
 <br>
 <pre><code class="tex bibtex">@article{Pham2019ProxSARAH,
   title={ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization},
