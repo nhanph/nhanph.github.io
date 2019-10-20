@@ -1,15 +1,15 @@
 ---
 title: "ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization"
 collection: publications
-permalink: /publication/2019-02-ProxSARAH
+permalink: /publication/2019-02-01-ProxSARAH
 excerpt: 'We propose a new stochastic first-order algorithmic framework to solve stochastic composite nonconvex optimization problems that covers both finite-sum and expectation settings.'
 date: 2019-02-01
 venue: 'Submitted to JMLR'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://arxiv.org/abs/1902.05679'
+citation: 'N. H. Pham, L. M. Nguyen, D. T. Phan, and T.D. \mblue{ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization}. Preprint: arXiv:1902.05679, 2019.'
 ---
 
-<details open>
+<details>
 <summary>Paper abtract.</summary>
 <br>
 We propose a new stochastic first-order algorithmic framework to solve stochastic  composite nonconvex optimization problems that covers both finite-sum and expectation settings.
@@ -26,16 +26,15 @@ We test the proposed algorithms on two composite nonconvex problems and neural n
 
 [Preprint](https://arxiv.org/abs/1902.05679)
 
-<details open>
+<details>
 <summary>Bibtex</summary>
 <br>
-```
-@article{Pham2019ProxSARAH,
+<pre><code class="tex bibtex">@article{Pham2019ProxSARAH,
   title={ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization},
   author={Nhan H. Pham and Lam M. Nguyen and Dzung T. Phan and Quoc Tran-Dinh},
   journal={ArXiv},
   year={2019},
   volume={abs/1902.05679}
 }
-```
+</code></pre>
 </details>
