@@ -6,7 +6,7 @@ excerpt: 'We propose a new stochastic first-order algorithmic framework to solve
 date: 2019-02-01
 venue: 'Submitted to JMLR'
 paperurl: 'https://arxiv.org/abs/1902.05679'
-citation: 'N. H. Pham, L. M. Nguyen, D. T. Phan, and T.D. ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization. Preprint: arXiv:1902.05679, 2019.'
+citation: 'N. H. Pham, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh. ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization. Preprint: arXiv:1902.05679, 2019.'
 ---
 
 <details>
