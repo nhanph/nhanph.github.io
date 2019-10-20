@@ -8,7 +8,7 @@ redirect_from:
 
 ## 2019-10-19
 
-This year I will travel to Seattle for the 2019 INFORMS Annual Meeting to present "ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization", a joint work with Lam Nguyen, Dzung Phan, and Quoc Tran-Dinh.
+This year I will travel to Seattle for the 2019 INFORMS Annual Meeting to present "ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization", a joint work with Dr. Lam Nguyen, Dr. Dzung Phan, Dr. and Quoc Tran-Dinh.
 
 ## 2019-08-15
 
@@ -16,8 +16,8 @@ I will be working with Dr. Quoc Tran-Dinh as a SAMSI (The Statistical and Applie
 
 ## 2019-07-08
 
-Together with Lam Nguyen, Dzung Phan, and Quoc Tran-Dinh, we have completed the manuscript "A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization". Checkout my <a href="https://nhanph.github.io/research/" target="_blank">research page</a> for more details.
+Together with Dr. Lam Nguyen, Dr. Dzung Phan, and Dr. Quoc Tran-Dinh, we have completed the manuscript "A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization". Checkout my <a href="https://nhanph.github.io/research/" target="_blank">research page</a> for more details.
 
 ## 2019-02-15
 
-Together with Lam Nguyen, Dzung Phan, and Quoc Tran-Dinh, we have completed the manuscript "ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization". Checkout my <a href="https://nhanph.github.io/research/" target="_blank">research page</a> for more details.
+Together with Dr. Lam Nguyen, Dr. Dzung Phan, and Dr. Quoc Tran-Dinh, we have completed the manuscript "ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization". Checkout my <a href="https://nhanph.github.io/research/" target="_blank">research page</a> for more details.
