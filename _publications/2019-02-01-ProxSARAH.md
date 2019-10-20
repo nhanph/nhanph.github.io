@@ -10,7 +10,7 @@ citation: 'N. H. Pham, L. M. Nguyen, D. T. Phan, and T.D. \mblue{ProxSARAH: An E
 ---
 
 <details>
-<summary>Paper abtract.</summary>
+<summary>Paper abtract</summary>
 <br>
 We propose a new stochastic first-order algorithmic framework to solve stochastic  composite nonconvex optimization problems that covers both finite-sum and expectation settings.
 Our algorithms rely on the SARAH estimator introduced in (Nguyen et al., 2017) and consist of two steps: a proximal gradient  and an averaging step making them different from existing nonconvex proximal-type algorithms.
@@ -23,8 +23,6 @@ We also specify the algorithm to the non-composite case that covers  existing st
 Our  update also allows one to trade-off between step-sizes and mini-batch sizes to improve performance.
 We test the proposed algorithms on two composite nonconvex problems and neural networks using several well-known datasets. 
 </details>
-
-[Preprint](https://arxiv.org/abs/1902.05679)
 
 <details>
 <summary>Bibtex</summary>
