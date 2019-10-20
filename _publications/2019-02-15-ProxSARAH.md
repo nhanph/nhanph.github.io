@@ -1,9 +1,9 @@
 ---
 title: "ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization"
 collection: publications
-permalink: /publication/2019-02-01-ProxSARAH
+permalink: /publication/2019-02-15-ProxSARAH
 excerpt: 'We propose a new stochastic first-order algorithmic framework to solve stochastic composite nonconvex optimization problems that covers both finite-sum and expectation settings.'
-date: 2019-02-01
+date: 2019-02-15
 venue: 'Submitted to JMLR'
 paperurl: 'https://arxiv.org/abs/1902.05679'
 citation: 'N. H. Pham, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh. ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization. Preprint: arXiv:1902.05679, 2019.'
