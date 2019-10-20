@@ -6,7 +6,7 @@ excerpt: 'We introduce a new approach to develop stochastic optimization algorit
 date: 2019-07-08
 venue: 'Submitted to Math. Prog.'
 paperurl: 'https://arxiv.org/abs/1907.03793'
-citation: 'Q. Tran-Dinh, N. H. Pham, D. T. Phan, and L. M. Nguyen. A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization. reprint: arXiv:1907.03793, 2019.'
+citation: 'Q. Tran-Dinh, N. H. Pham, D. T. Phan, and L. M. Nguyen. A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization. Preprint: arXiv:1907.03793, 2019.'
 ---
 
 <details>
