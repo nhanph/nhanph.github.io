@@ -32,4 +32,4 @@ Stochastic optimization methods for machine learning, deep learning, and reinfor
 
 - Q. Tran-Dinh, **N. H. Pham**, D. T. Phan, and L. M. Nguyen. A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization. *arXiv:1907.03793*, 2019. (Under review for Mathematical Programming) <a href="https://arxiv.org/pdf/1907.03793" target="_blank">[Preprint]</a>
 
-- **N. H. Pham**, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh. {\em ProxSARAH: An efficient algorithmic frame- work for stochastic composite nonconvex optimization}. *arXiv:1902.05679* , 2019. (Under review for Journal of Machine Learning Research) <a href="https://arxiv.org/pdf/1902.05679" target="_blank">[Preprint]</a>
+- **N. H. Pham**, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh. ProxSARAH: An efficient algorithmic frame- work for stochastic composite nonconvex optimization. *arXiv:1902.05679* , 2019. (Under review for Journal of Machine Learning Research) <a href="https://arxiv.org/pdf/1902.05679" target="_blank">[Preprint]</a> <a href="https://github.com/unc-optimization/StochasticProximalMethods" target="_blank">[Python Code]</a>[]
