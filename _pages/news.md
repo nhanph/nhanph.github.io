@@ -6,6 +6,14 @@ redirect_from:
   - /wordpress/news/
 ---
 
+## 2020-02-09
+
+Together with Dr. Lam Nguyen (IBM Research), Dr. Dzung Phan (IBM Research), and Dr. Quoc Tran-Dinh (UNC Chapel Hill), we have completed the manuscript "Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization". Another manuscript is out "Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning", joint work with Dr. Thinh Doan (GA Tech), Dr. Lam Nguyen (IBM Research), Dr. Justin Romberg (GA Tech).
+
+## 2020-01-23
+
+Our manuscript "ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization" has been accepted for publication at Journal of Machine Learning Research (JMLR) with minor revision.
+
 ## 2020-01-07
 
 Our paper "A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning" has been accepted for AISTATS 2020. This is a joint work with Dr. Lam Nguyen (IBM Research), Dr. Dzung Phan (IBM Research), Dr. Phuong-Ha Nguyen (UConn), Dr. Marten van Dijk (UConn), and Dr. Quoc Tran-Dinh (UNC Chapel Hill). Full paper and source code will be available soon.

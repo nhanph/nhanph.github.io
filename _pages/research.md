@@ -18,6 +18,8 @@ Stochastic optimization methods for machine learning, deep learning, and reinfor
 
 ## Publications
 
+- N. H. Pham, L. M. Nguyen, D. T. Phan, P. H. Nguyen, M. van Dijk, and Q. Tran-Dinh. A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning. The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS 2020), 2020 <a href="https://arxiv.org/pdf/2003.00430" target="_blank">[Preprint]</a> <a href="https://github.com/unc-optimization/ProxHSPGA" target="_blank">[Python Code]</a>
+
 - H. M. La, T. H. Dinh, **N. H. Pham**, Q. P. Ha, and A. Q. Pham. Automated robotic monitoring and inspection of steel structures and bridges. *Robotica*, Cambridge University Press, 1-21, 2018.
 
 - T. D. Le, S. Gibb, **N. H. Pham**, H. M. La, L. Falk, and T.  Berendsen. Autonomous Robotic System using Non-Destructive Evaluation methods for Bridge Deck Inspection. *In Proceedings of the 2017 IEEE International Conference on Robotics and Automation (ICRA)*, May 29-June 3, 2017, Singapore. <a href="https://www.researchgate.net/profile/Hung_La/publication/316190868_Autonomous_Robotic_System_using_Non-Destructive_Evaluation_methods_for_Bridge_Deck_Inspection/links/58fb75e30f7e9ba3ba523d10/Autonomous-Robotic-System-using-Non-Destructive-Evaluation-methods-for-Bridge-Deck-Inspection.pdf" target="_blank">[Preprint]</a>
@@ -29,6 +31,10 @@ Stochastic optimization methods for machine learning, deep learning, and reinfor
 - T.-D. D. Phan, **N. H. Pham**, K.-N. Le-Huu, and A.-V. D. Dinh. Quadrotor Helicopter: A Practical Design Approach. *IEICE International Conference on Integrated Circuits, Design and Verification*, pp.156-163, 2013, Ho Chi Minh, Vietnam.
 
 ## Preprints
+
+- T. T. Doan, L. M. Nguyen, N. H. Pham, and J. Romberg. Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning. *arXiv:2002.02873*, 2020 <a href="https://arxiv.org/pdf/2002.02873" target="_blank">[Preprint]</a>
+
+- Q. Tran-Dinh, **N. H. Pham**, and L. M. Nguyen. Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization. *arXiv:2002.07290*, 2020 <a href="https://arxiv.org/pdf/2002.07290" target="_blank">[Preprint]</a>
 
 - Q. Tran-Dinh, **N. H. Pham**, D. T. Phan, and L. M. Nguyen. A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization. *arXiv:1907.03793*, 2019. (Under review for Mathematical Programming) <a href="https://arxiv.org/pdf/1907.03793" target="_blank">[Preprint]</a>
 
