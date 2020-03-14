@@ -8,7 +8,7 @@ redirect_from:
 
 ## 2020-02-09
 
-Together with Dr. Lam Nguyen (IBM Research), Dr. Dzung Phan (IBM Research), and Dr. Quoc Tran-Dinh (UNC Chapel Hill), we have completed the manuscript "Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization". Another manuscript is out "Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning", joint work with Dr. Thinh Doan (GA Tech), Dr. Lam Nguyen (IBM Research), Dr. Justin Romberg (GA Tech).
+Together with Dr. Lam Nguyen (IBM Research) and Dr. Quoc Tran-Dinh (UNC Chapel Hill), we have completed the manuscript "Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization". Another manuscript is out "Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning", joint work with Dr. Thinh Doan (GA Tech), Dr. Lam Nguyen (IBM Research), Dr. Justin Romberg (GA Tech).
 
 ## 2020-01-23
 
