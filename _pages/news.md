@@ -6,6 +6,10 @@ redirect_from:
   - /wordpress/news/
 ---
 
+## 2020-05-03
+
+The paper "ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization"-a joint work with Dr. Lam Nguyen (IBM Research), Dr. Dzung Phan (IBM Research), and Dr. Quoc Tran-Dinh (UNC Chapel Hill)- has been accepted for publication at the Journal of Machine Learning Research (JMLR).
+
 ## 2020-02-09
 
 Together with Dr. Lam Nguyen (IBM Research) and Dr. Quoc Tran-Dinh (UNC Chapel Hill), we have completed the manuscript "Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization". Another manuscript is out "Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning", joint work with Dr. Thinh Doan (GA Tech), Dr. Lam Nguyen (IBM Research), Dr. Justin Romberg (GA Tech).
