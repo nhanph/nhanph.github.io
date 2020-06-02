@@ -20,7 +20,7 @@ Stochastic optimization methods for machine learning, deep learning, and reinfor
 
 - **N. H. Pham**, L. M. Nguyen, D. T. Phan, P. H. Nguyen, M. van Dijk, and Q. Tran-Dinh. <span style="color:blue">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning.</span> *The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS 2020)*, 2020 <a href="https://arxiv.org/pdf/2003.00430" target="_blank">[Preprint]</a> <a href="https://github.com/unc-optimization/ProxHSPGA" target="_blank">[Python Code]</a>
 
-- H. M. La, T. H. Dinh, **N. H. Pham**, Q. P. Ha, and A. Q. Pham. Automated robotic monitoring and inspection of steel structures and bridges.</span> *Robotica*, Cambridge University Press, 1-21, 2018.
+- H. M. La, T. H. Dinh, **N. H. Pham**, Q. P. Ha, and A. Q. Pham. <span style="color:blue"> Automated robotic monitoring and inspection of steel structures and bridges.</span> *Robotica*, Cambridge University Press, 1-21, 2018.
 
 - T. D. Le, S. Gibb, **N. H. Pham**, H. M. La, L. Falk, and T.  Berendsen. <span style="color:blue">Autonomous Robotic System using Non-Destructive Evaluation methods for Bridge Deck Inspection.</span> *In Proceedings of the 2017 IEEE International Conference on Robotics and Automation (ICRA)*, May 29-June 3, 2017, Singapore. <a href="https://www.researchgate.net/profile/Hung_La/publication/316190868_Autonomous_Robotic_System_using_Non-Destructive_Evaluation_methods_for_Bridge_Deck_Inspection/links/58fb75e30f7e9ba3ba523d10/Autonomous-Robotic-System-using-Non-Destructive-Evaluation-methods-for-Bridge-Deck-Inspection.pdf" target="_blank">[Preprint]</a>
 
