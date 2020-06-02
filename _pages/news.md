@@ -6,9 +6,13 @@ redirect_from:
   - /wordpress/news/
 ---
 
+## 2020-06-01
+
+Our paper "Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization"-a joint work with Dr. Lam Nguyen (IBM Research) and Dr. Quoc Tran-Dinh (UNC Chapel Hill)- has been accepted for publication at the International Conference on Machine Learning (ICML).
+
 ## 2020-05-03
 
-The paper "ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization"-a joint work with Dr. Lam Nguyen (IBM Research), Dr. Dzung Phan (IBM Research), and Dr. Quoc Tran-Dinh (UNC Chapel Hill)- has been accepted for publication at the Journal of Machine Learning Research (JMLR).
+Our paper "ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization"-a joint work with Dr. Lam Nguyen (IBM Research), Dr. Dzung Phan (IBM Research), and Dr. Quoc Tran-Dinh (UNC Chapel Hill)- has been accepted for publication at the Journal of Machine Learning Research (JMLR).
 
 ## 2020-02-09
 
