@@ -6,6 +6,10 @@ redirect_from:
   - /wordpress/news/
 ---
 
+## 2020-08-14
+
+I have completed my summer internship with IBM Research, Thomas J. Watson Research Center. It is indeed a fantastic experience. I greatly appreciate all my colleges especially my mentors (Dzung T. Phan and Lam M. Nguyen) and my supervisor (Roman Vaculin) for their help and it is my honor to be working with them during the summer.
+
 ## 2020-06-01
 
 Our paper "Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization"-a joint work with Dr. Lam Nguyen (IBM Research) and Dr. Quoc Tran-Dinh (UNC Chapel Hill)- has been accepted for publication at the International Conference on Machine Learning (ICML).
