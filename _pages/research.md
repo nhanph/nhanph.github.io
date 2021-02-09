@@ -18,6 +18,10 @@ Stochastic optimization methods for machine learning, deep learning, and reinfor
 
 ## Publications
 
+- D. T. Phan, L. M. Nguyen, P. Murali, **N. H. Pham**, H. Liu, J. Kalagnanam. <span style="color:blue">Regression  Optimization  for  System-level  Production  Control.</span> *American Control Conference (ACC)*, 2021.
+
+- Q. Tran-Dinh, **N. H. Pham**, D. T. Phan, and L. M. Nguyen. <span style="color:blue">A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization.</span> *Mathematical Programming*, 2021. <a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank">[Preprint]</a>
+
 - Q. Tran-Dinh, **N. H. Pham**, and L. M. Nguyen. <span style="color:blue">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization.</span> *The 37th International Conference on Machine Learning*, 2020 <a href="https://arxiv.org/pdf/2002.07290" target="_blank">[Preprint]</a> <a href="https://github.com/unc-optimization/SGN" target="_blank">[Python Code]</a>
 
 - **N. H. Pham**, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh. <span style="color:blue">ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization.</span> *Journal of Machine Learning Research*, 21:110, 1-48 , 2020. <a href="https://arxiv.org/pdf/1902.05679" target="_blank">[Preprint]</a> <a href="https://github.com/unc-optimization/StochasticProximalMethods" target="_blank">[Python Code]</a>
@@ -39,5 +43,3 @@ Stochastic optimization methods for machine learning, deep learning, and reinfor
 - T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg. <span style="color:blue">Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning.</span> *arXiv:2002.02873*, 2020 <a href="https://arxiv.org/pdf/2002.02873" target="_blank">[Preprint]</a>
 
 - T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J.  Romberg. <span style="color:blue">Finite-Time Analysis of Stochastic Gradient Descent under Markov Randomness.</span> *arXiv:2003.10973*, 2020 <a href="https://arxiv.org/pdf/2003.10973" target="_blank">[Preprint]</a>
-
-- Q. Tran-Dinh, **N. H. Pham**, D. T. Phan, and L. M. Nguyen. <span style="color:blue">A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization.</span> *arXiv:1907.03793*, 2019. (Under review for Mathematical Programming) <a href="https://arxiv.org/pdf/1907.03793" target="_blank">[Preprint]</a>
