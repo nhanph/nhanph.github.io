@@ -40,6 +40,8 @@ Stochastic optimization methods for machine learning, deep learning, and reinfor
 
 ## Preprints
 
+- **N. H. Pham**, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh. <span style="color:blue">Federated Learning with Randomized Douglas-Rachford Splitting Methods.</span> *arXiv:2103.03452*, 2021 <a href="https://arxiv.org/abs/2103.03452" target="_blank">[Preprint]</a>
+
 - T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg. <span style="color:blue">Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning.</span> *arXiv:2002.02873*, 2020 <a href="https://arxiv.org/pdf/2002.02873" target="_blank">[Preprint]</a>
 
 - T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J.  Romberg. <span style="color:blue">Finite-Time Analysis of Stochastic Gradient Descent under Markov Randomness.</span> *arXiv:2003.10973*, 2020 <a href="https://arxiv.org/pdf/2003.10973" target="_blank">[Preprint]</a>

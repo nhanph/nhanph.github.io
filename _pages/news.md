@@ -6,7 +6,15 @@ redirect_from:
   - /wordpress/news/
 ---
 
-## 2020-01-24
+## 2021-03-12
+
+Together with Lam Nguyen, Dzung Phan (IBM Research) and Quoc Tran-Dinh (UNC Chapel Hill), we have completed the manuscript "Federated Learning with Randomized Douglas-Rachford Splitting Methods". 
+
+## 2021-01-24
+
+Our paper "Regression Optimization for System-level Production Control"-joint work with Dzung Phan (IBM Research), Lam Nguyen (IBM Research), Pavankumar Murali (IBM Research), Hongsheng Liu (UNC Chapel Hill), and Jayant Kalagnanam (IBM Research)- has been accepted to the 2021 American Control Conference (ACC).
+
+## 2021-01-24
 
 Our paper "Regression Optimization for System-level Production Control"-joint work with Dzung Phan (IBM Research), Lam Nguyen (IBM Research), Pavankumar Murali (IBM Research), Hongsheng Liu (UNC Chapel Hill), and Jayant Kalagnanam (IBM Research)- has been accepted to the 2021 American Control Conference (ACC).
 
