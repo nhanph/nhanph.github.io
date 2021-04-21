@@ -8,7 +8,7 @@ redirect_from:
 
 ## 2021-03-15
 
-I will be a Machine Learning at <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology Inc.</a>. this summer. I am excited to help create smart products for agriculture.
+I will be a Machine Learning Intern at <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology Inc.</a>. this summer. I am excited to help create smart products for agriculture.
 
 ## 2021-03-12
 
