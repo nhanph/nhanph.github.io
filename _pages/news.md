@@ -29,7 +29,7 @@ Our paper "A Hybrid Stochastic Optimization Framework for Stochastic Composite N
 
 ## 2020-08-14
 
-I have completed my summer internship with IBM Research, Thomas J. Watson Research Center. It is indeed a fantastic experience. I greatly appreciate all my colleges especially my mentors (Dzung T. Phan and Lam M. Nguyen) and my supervisor (Roman Vaculin) for their help and it is my honor to be working with them during the summer.
+I have completed my summer internship with IBM Research, Thomas J. Watson Research Center. It is indeed a fantastic experience. I greatly appreciate all my colleges especially my mentors (Dzung T. Phan and Lam M. Nguyen) and my supervisor (Roman Vaculin).
 
 ## 2020-06-01
 
