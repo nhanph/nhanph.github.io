@@ -6,6 +6,10 @@ redirect_from:
   - /wordpress/news/
 ---
 
+## 2021-09-30
+
+Our manuscript <span style="color:blue">FedDR -- Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization.</span> have been accepted at the 35th Conference on Neural Information Processing Systems. This is a joint work with **Lam Nguyen**, **Dzung Phan** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill). <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a>
+
 ## 2021-08-08
 
 I have completed my summer internship as a machine learning intern with Blue River Technology Inc. where I had a chance to work on interesting problems of applying machine learning for agriculture. I greatly appreciate all my colleges especially my mentors Chris Patwick and Ben Cline for their help during my internship.
