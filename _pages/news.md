@@ -6,6 +6,10 @@ redirect_from:
   - /wordpress/news/
 ---
 
+## 2021-12-28
+
+From Jan 4th, I will be a Research Scientist at the IBM Thomas J. Watson Research Center in Yorktown Heights. Super excited for this new adventure!
+
 ## 2021-09-30
 
 Our manuscript <span style="color:blue">FedDR -- Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization.</span> have been accepted at the 35th Conference on Neural Information Processing Systems. This is a joint work with **Lam Nguyen**, **Dzung Phan** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill). <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a>
