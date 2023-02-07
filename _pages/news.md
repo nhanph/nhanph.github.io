@@ -8,7 +8,7 @@ redirect_from:
 
 ## 2023-02-06
 
-My collegues and I will be organizing a tutorial/lab forum "LSHA2: Automated AI for Decision Optimization with Reinforcement Learning" at <a href="[https://arxiv.org/pdf/2103.03452.pdf](https://aaai-23.aaai.org/)" target="_blank">AAAI 2023</a>.
+My collegues and I will be organizing a tutorial/lab forum "LSHA2: Automated AI for Decision Optimization with Reinforcement Learning" at <a href="https://aaai-23.aaai.org/" target="_blank">AAAI 2023</a>.
 
 I will also be the Session Chair of **ML: Optimization 1** at AAAI 2023 on Feb 10, 2023.
  
