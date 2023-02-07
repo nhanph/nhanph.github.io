@@ -6,6 +6,16 @@ redirect_from:
   - /wordpress/news/
 ---
 
+## 2023-02-06
+
+My collegues and I will be organizing a tutorial/lab forum "LSHA2: Automated AI for Decision Optimization with Reinforcement Learning" at <a href="[https://arxiv.org/pdf/2103.03452.pdf](https://aaai-23.aaai.org/)" target="_blank">AAAI 2023</a>.
+
+I will also be the Session Chair of **ML: Optimization 1** at AAAI 2023 on Feb 10, 2023.
+ 
+## 2022-09-28
+
+The patent "A systematic approach for evaluating robustness of cooperative multi-agent reinforcement learning" has been filed on Sept 28, 2022. This is a joint work with Lam M. Nguyen, Jie Chen, Thanh-Lam Hoang, Subhro Das.
+
 ## 2021-12-28
 
 From Jan 4th, I will be a Research Scientist at the IBM Thomas J. Watson Research Center in Yorktown Heights. Super excited for this new adventure!
