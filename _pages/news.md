@@ -6,6 +6,34 @@ redirect_from:
   - /wordpress/news/
 ---
 
+## 2026-02
+
+**Multilingual Text2SQL Now in Production**: I'm excited to announce that multilingual Text2SQL capabilities are now available across all IBM Cloud and AWS production regions for IBM watsonx.data intelligence SaaS. Users can now interact with data using natural language queries in English and Japanese (with more languages coming), making data insights accessible to a global workforce.
+
+## 2025-12
+
+**IBM Outstanding Technical Achievement Award**: Received the IBM Outstanding Technical Achievement Award for achieving first place on the BIRD Leaderboard with IBM Granite Text-to-SQL models.
+
+**IBM Growth Award 2025**: Received IBM Growth Award for advancing Text2SQL service within watsonx.data intelligence.
+
+**IBM Research Accomplishments 2025 - A-level**: NL2Insights achieved Product and Client-0 Adoption & Impact recognition. Our fully automated Text2SQL pipeline now powers watsonx.data, BI Assistant, and Process Mining, generating over 200,000 SQL queries across 1,000+ databases at enterprise scale.
+
+## 2025-05
+
+**Paper Accepted at UAI 2025**: Our paper <span style="color:blue">The Consistency Hypothesis in Uncertainty Quantification for Large Language Models</span> has been accepted at the Forty-First Conference on Uncertainty in Artificial Intelligence (UAI 2025). Joint work with Q. Xiao, D. Bhattacharjya, B. Ganesan, R. Marinescu, K. Mirylenka, M. Glass, and J. Lee.
+
+## 2024-12
+
+**IBM Research Accomplishments 2024 - A-level**: IBM Granite fine-tuned Text-to-SQL models sweep top spots in BIRD Leaderboard. Our Granite-20B and Granite-34B models achieved first place in both tracks, outperforming larger models like GPT-4 and GPT-4o. This success drove renewed interest from major industry players including Google, Alibaba, and ByteDance. Models were featured at THINK'24 and deployed on BAM and Watsonx.ai platforms.
+
+## 2024-04
+
+**Promotion to Staff Research Scientist**: I have been promoted to Staff Research Scientist at IBM Research, Thomas J. Watson Research Center.
+
+## 2023-09
+
+**Paper Accepted at ICDM 2023**: Our paper <span style="color:blue">Evaluating Robustness of Cooperative MARL: A Model-based Approach</span> has been accepted at the 2023 IEEE International Conference on Data Mining (ICDM). This is joint work with Dr. Lam M. Nguyen, Dr. Jie Chen, Dr. Hoang Thanh Lam, Dr. Subhro Das, and Dr. Tsui-Wei Weng. <a href="https://ieeexplore.ieee.org/document/10415752" target="_blank">[Paper]</a>
+
 ## 2023-02-06
 
 My collegues and I will be organizing a tutorial/lab forum "LSHA2: Automated AI for Decision Optimization with Reinforcement Learning" at <a href="https://aaai-23.aaai.org/" target="_blank">AAAI 2023</a>.

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nhan H. Pham"
 title_separator          : "-"
 name                     : &name "Nhan H. Pham"
-description              : &description "Research Scientist at IBM Research"
+description              : &description "Staff Research Scientist at IBM Research"
 url                      : https://nhanph.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nhanph.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nhan H. Pham"
   avatar           : "NP_Profile.jpg"
-  bio              : "I am a Research Scientist at the IBM Thomas J. Watson Research Center in Yorktown Heights, NY. My research topics include stochastic methods for non-convex optimization with applications in machine learning, deep learning, and reinforcement learning."
+  bio              : "I am a Staff Research Scientist at the IBM Thomas J. Watson Research Center in Yorktown Heights, NY. My research focuses on Large Language Models (LLMs) for enterprise data management, particularly Text-to-SQL systems. I also work on stochastic optimization methods for machine learning, deep learning, and reinforcement learning."
   location         : "Yorktown Heights, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
