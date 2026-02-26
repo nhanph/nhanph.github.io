@@ -27,7 +27,6 @@ author_profile: true
 - IBM Outstanding Technical Achievement Award - 2026 (NL2Insights Impacting Products and Clients)
 - IBM Research Accomplishments (A-level) - 2025
 - IBM Growth Award - 2025
-- Featured at THINK'24
 
 ---
 
