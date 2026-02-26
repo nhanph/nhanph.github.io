@@ -14,13 +14,14 @@ redirect_from:
 
 ## 2025-12
 
-**IBM Outstanding Technical Achievement Award**: Received the IBM Outstanding Technical Achievement Award for achieving first place on the BIRD Leaderboard with IBM Granite Text-to-SQL models.
-
 **IBM Growth Award 2025**: Received IBM Growth Award for advancing Text2SQL service within watsonx.data intelligence.
 
 **IBM Research Accomplishments 2025 - A-level**: NL2Insights achieved Product and Client-0 Adoption & Impact recognition. Our fully automated Text2SQL pipeline now powers watsonx.data, BI Assistant, and Process Mining, generating over 200,000 SQL queries across 1,000+ databases at enterprise scale.
 
+
 ## 2025-05
+
+**IBM Outstanding Technical Achievement Award**: Received the IBM Outstanding Technical Achievement Award for achieving first place on the BIRD Leaderboard with IBM Granite Text-to-SQL models.
 
 **Paper Accepted at UAI 2025**: Our paper <span style="color:blue">The Consistency Hypothesis in Uncertainty Quantification for Large Language Models</span> has been accepted at the Forty-First Conference on Uncertainty in Artificial Intelligence (UAI 2025). Joint work with Q. Xiao, D. Bhattacharjya, B. Ganesan, R. Marinescu, K. Mirylenka, M. Glass, and J. Lee.
 
