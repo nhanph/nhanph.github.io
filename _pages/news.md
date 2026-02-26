@@ -8,6 +8,8 @@ redirect_from:
 
 ## 2026-02
 
+**IBM Outstanding Technical Achievement Award 2026**: Received the IBM Outstanding Technical Achievement Award for NL2Insights Impacting Products and Clients.
+
 **Multilingual Text2SQL Now in Production**: I'm excited to announce that multilingual Text2SQL capabilities are now available across all IBM Cloud and AWS production regions for IBM watsonx.data intelligence SaaS. Users can now interact with data using natural language queries in English and Japanese (with more languages coming), making data insights accessible to a global workforce.
 
 ## 2025-12

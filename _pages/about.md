@@ -16,6 +16,7 @@ My current research focuses on **Large Language Models (LLMs) for enterprise dat
 
 ## Recent Achievements
 
+- **IBM Outstanding Technical Achievement Award** (2026): For NL2Insights Impacting Products and Clients
 - **#1 on BIRD Leaderboard** (2024): Led IBM Granite Text-to-SQL models to first place in both tracks of the prestigious BIRD benchmark, outperforming larger models like GPT-4 and GPT-4o
 - **IBM Outstanding Technical Achievement Award** (2025): For achieving first place on the BIRD leaderboard
 - **IBM Growth Award** (2025): For advancing Text2SQL service within watsonx.data intelligence
