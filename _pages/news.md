@@ -12,6 +12,10 @@ redirect_from:
 
 **Multilingual Text2SQL Now in Production**: I'm excited to announce that multilingual Text2SQL capabilities are now available across all IBM Cloud and AWS production regions for IBM watsonx.data intelligence SaaS. Users can now interact with data using natural language queries in English and Japanese (with more languages coming), making data insights accessible to a global workforce.
 
+## 2026-01
+
+**Patent Granted**: our patent <span style="color:blue">Site-wide optimization for mixed regression models and mixed control variables</span>, joint work with Dzung Phan and Lam Nguyen from IBM Research, has been granted.
+
 ## 2025-12
 
 **IBM Growth Award 2025**: Received IBM Growth Award for advancing Text2SQL service within watsonx.data intelligence.
