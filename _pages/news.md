@@ -8,7 +8,7 @@ redirect_from:
 
 ## 2026-04-09
 
-<span style="color:blue">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks</span> patent has been filed. This is a joint work with Long Vu, Daniel Snoddy, Tanvi Kaple, Michael Glass, Dharmashankar Subramanian, A. W. Hagleitner.
+Patent <span style="color:blue">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks</span> has been filed. This is a joint work with Long Vu, Daniel Snoddy, Tanvi Kaple, Michael Glass, Dharmashankar Subramanian, A. W. Hagleitner.
 
 ## 2026-02
 
@@ -31,7 +31,7 @@ redirect_from:
 
 ## 2025-08-19
 
-<span style="color:blue">Generating structured query language queries from natural language inputs with schema enrichment</span> patent has been filed. This is a joint work with Mustafa Eyceoz, Gaetano Rossiello, Michael Glass, Nandana Mihindukulasooriya, Alfio Gliozzo, Long Vu, Dharmashankar Subramanian.
+Patent <span style="color:blue">Generating structured query language queries from natural language inputs with schema enrichment</span> has been filed. This is a joint work with Mustafa Eyceoz, Gaetano Rossiello, Michael Glass, Nandana Mihindukulasooriya, Alfio Gliozzo, Long Vu, Dharmashankar Subramanian.
 
 ## 2025-05
 
@@ -41,7 +41,7 @@ redirect_from:
 
 ## 2025-03-26
 
-<span style="color:blue">Database Querying Using Natural Language Processing</span> patent has been filed. This is a joint work with Oktie Hassanzadeh, Dharmashankar Subramanian, Lisa Amini, Gaetano Rossiello, M. Faisal Chowdhury, Long Vu, Tanvi Kaple, Michael Glass.
+Patent <span style="color:blue">Database Querying Using Natural Language Processing</span> has been filed. This is a joint work with Oktie Hassanzadeh, Dharmashankar Subramanian, Lisa Amini, Gaetano Rossiello, M. Faisal Chowdhury, Long Vu, Tanvi Kaple, Michael Glass.
 
 ## 2024-12
 
@@ -49,7 +49,7 @@ redirect_from:
 
 ## 2024-08-22
 
-<span style="color:blue">Fine-tuned generative model</span> patent has been filed. This is a joint work with Elita Lobo, Long Vu, Todd Mummert, Dharmashankar Subramanian.
+Patent <span style="color:blue">Fine-tuned generative model</span> has been filed. This is a joint work with Elita Lobo, Long Vu, Todd Mummert, Dharmashankar Subramanian.
 
 ## 2024-04
 
@@ -57,7 +57,7 @@ redirect_from:
 
 ## 2024-01-11
 
-<span style="color:blue">Combining data selection and reward functions for tuning large language models using reinforcement learning</span> patent has been filed. This is a joint work with Long Vu, Dharmashankar Subramanian, Todd Mummert.
+Patent <span style="color:blue">Combining data selection and reward functions for tuning large language models using reinforcement learning</span> has been filed. This is a joint work with Long Vu, Dharmashankar Subramanian, Todd Mummert.
 
 ## 2023-09
 
@@ -65,15 +65,15 @@ redirect_from:
 
 ## 2023-06-30
 
-<span style="color:blue">Generative modeling and representational learning from multi-sequence alignment and phylogenetic tree data</span> patent has been filed. This is a joint work with Thanh Lam Hoang, Marcos M. Galindo, Gabriele PICCO, Mykhaylo Zayats, Lam M. Nguyen, Marco Sbodio, Dzung T. Phan, Vanessa Garcia.
+Patent <span style="color:blue">Generative modeling and representational learning from multi-sequence alignment and phylogenetic tree data</span> has been filed. This is a joint work with Thanh Lam Hoang, Marcos M. Galindo, Gabriele PICCO, Mykhaylo Zayats, Lam M. Nguyen, Marco Sbodio, Dzung T. Phan, Vanessa Garcia.
 
 ## 2023-06-26
 
-<span style="color:blue">A novel meta-hyperparameter tuning system for RL using sequence model</span> patent has been filed. This is a joint work with Elita Lobo, Dharmashankar Subramanian.
+Patent <span style="color:blue">A novel meta-hyperparameter tuning system for RL using sequence model</span> has been filed. This is a joint work with Elita Lobo, Dharmashankar Subramanian.
 
 ## 2023-06-23
 
-<span style="color:blue">Reinforcement machine learning with multi-level agent search and hyperparameter optimization</span> patent has been filed. This is a joint work with Long Vu, Peter Kirchner, Radu Marinescu, Dharmashankar Subramanian.
+Patent <span style="color:blue">Reinforcement machine learning with multi-level agent search and hyperparameter optimization</span> has been filed. This is a joint work with Long Vu, Peter Kirchner, Radu Marinescu, Dharmashankar Subramanian.
 
 ## 2023-02-06
 
@@ -83,7 +83,7 @@ I will also be the Session Chair of **ML: Optimization 1** at AAAI 2023 on Feb 1
  
 ## 2022-09-28
 
-<span style="color:blue">A systematic approach for evaluating robustness of cooperative multi-agent reinforcement learning</span> patent has been filed on Sept 28, 2022. This is a joint work with Lam M. Nguyen, Jie Chen, Thanh-Lam Hoang, Subhro Das.
+Patent <span style="color:blue">A systematic approach for evaluating robustness of cooperative multi-agent reinforcement learning</span> has been filed on Sept 28, 2022. This is a joint work with Lam M. Nguyen, Jie Chen, Thanh-Lam Hoang, Subhro Das.
 
 ## 2021-12-28
 
@@ -103,7 +103,7 @@ Together with **Lam Nguyen**, **Dzung Phan** (IBM Research) and **Quoc Tran-Dinh
 
 ## 2021-05-21
 
-<span style="color:blue">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables</span> patent has been filed. This is a joint work with Dzung T. Phan, Lam M. Nguyen.
+Patent <span style="color:blue">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables</span> has been filed. This is a joint work with Dzung T. Phan, Lam M. Nguyen.
 
 ## 2021-03-15
 
