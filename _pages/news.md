@@ -6,6 +6,10 @@ redirect_from:
   - /wordpress/news/
 ---
 
+## 2026-04-09
+
+The patent <span style="color:blue">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks</span> has been filed. This is a joint work with Long Vu, Daniel Snoddy, Tanvi Kaple, Michael Glass, Dharmashankar Subramanian, A. W. Hagleitner.
+
 ## 2026-02
 
 **Patent Granted**: our patent <span style="color:blue">System and Method for Combining Data Selection and Reward Function for Tuning LLMs using Reinforcement Learning</span>, joint work with Long Vu, Shankar Subramanian, and Todd Mummert from IBM Research, has been granted.
@@ -25,23 +29,51 @@ redirect_from:
 **IBM Research Accomplishments 2025 - A-level**: NL2Insights achieved Product and Client-0 Adoption & Impact recognition. Our fully automated Text2SQL pipeline now powers watsonx.data, BI Assistant, and Process Mining, generating over 200,000 SQL queries across 1,000+ databases at enterprise scale.
 
 
+## 2025-08-19
+
+The patent <span style="color:blue">Generating structured query language queries from natural language inputs with schema enrichment</span> has been filed. This is a joint work with Mustafa Eyceoz, Gaetano Rossiello, Michael Glass, Nandana Mihindukulasooriya, Alfio Gliozzo, Long Vu, Dharmashankar Subramanian.
+
 ## 2025-05
 
 **IBM Outstanding Technical Achievement Award**: Received the IBM Outstanding Technical Achievement Award for achieving first place on the BIRD Leaderboard with IBM Granite Text-to-SQL models.
 
 **Paper Accepted at UAI 2025**: Our paper <span style="color:blue">The Consistency Hypothesis in Uncertainty Quantification for Large Language Models</span> has been accepted at the Forty-First Conference on Uncertainty in Artificial Intelligence (UAI 2025). Joint work with Q. Xiao, D. Bhattacharjya, B. Ganesan, R. Marinescu, K. Mirylenka, M. Glass, and J. Lee.
 
+## 2025-03-26
+
+The patent <span style="color:blue">Database Querying Using Natural Language Processing</span> has been filed. This is a joint work with Oktie Hassanzadeh, Dharmashankar Subramanian, Lisa Amini, Gaetano Rossiello, M. Faisal Chowdhury, Long Vu, Tanvi Kaple, Michael Glass.
+
 ## 2024-12
 
 **IBM Research Accomplishments 2024 - A-level**: IBM Granite fine-tuned Text-to-SQL models sweep top spots in BIRD Leaderboard. Our Granite-20B and Granite-34B models achieved first place in both tracks, outperforming larger models like GPT-4 and GPT-4o. This success drove renewed interest from major industry players including Google, Alibaba, and ByteDance. Models were featured at THINK'24 and deployed on BAM and Watsonx.ai platforms.
+
+## 2024-08-22
+
+The patent <span style="color:blue">Fine-tuned generative model</span> has been filed. This is a joint work with Elita Lobo, Long Vu, Todd Mummert, Dharmashankar Subramanian.
 
 ## 2024-04
 
 **Promotion to Staff Research Scientist**: I have been promoted to Staff Research Scientist at IBM Research, Thomas J. Watson Research Center.
 
+## 2024-01-11
+
+The patent <span style="color:blue">Combining data selection and reward functions for tuning large language models using reinforcement learning</span> has been filed. This is a joint work with Long Vu, Dharmashankar Subramanian, Todd Mummert.
+
 ## 2023-09
 
 **Paper Accepted at ICDM 2023**: Our paper <span style="color:blue">Evaluating Robustness of Cooperative MARL: A Model-based Approach</span> has been accepted at the 2023 IEEE International Conference on Data Mining (ICDM). This is joint work with Dr. Lam M. Nguyen, Dr. Jie Chen, Dr. Hoang Thanh Lam, Dr. Subhro Das, and Dr. Tsui-Wei Weng. <a href="https://ieeexplore.ieee.org/document/10415752" target="_blank">[Paper]</a>
+
+## 2023-06-30
+
+The patent <span style="color:blue">Generative modeling and representational learning from multi-sequence alignment and phylogenetic tree data</span> has been filed. This is a joint work with Thanh Lam Hoang, Marcos M. Galindo, Gabriele PICCO, Mykhaylo Zayats, Lam M. Nguyen, Marco Sbodio, Dzung T. Phan, Vanessa Garcia.
+
+## 2023-06-26
+
+The patent <span style="color:blue">A novel meta-hyperparameter tuning system for RL using sequence model</span> has been filed. This is a joint work with Elita Lobo, Dharmashankar Subramanian.
+
+## 2023-06-23
+
+The patent <span style="color:blue">Reinforcement machine learning with multi-level agent search and hyperparameter optimization</span> has been filed. This is a joint work with Long Vu, Peter Kirchner, Radu Marinescu, Dharmashankar Subramanian.
 
 ## 2023-02-06
 
@@ -51,7 +83,7 @@ I will also be the Session Chair of **ML: Optimization 1** at AAAI 2023 on Feb 1
  
 ## 2022-09-28
 
-The patent "A systematic approach for evaluating robustness of cooperative multi-agent reinforcement learning" has been filed on Sept 28, 2022. This is a joint work with Lam M. Nguyen, Jie Chen, Thanh-Lam Hoang, Subhro Das.
+Patent <span style="color:blue">A systematic approach for evaluating robustness of cooperative multi-agent reinforcement learning</span> has been filed on Sept 28, 2022. This is a joint work with Lam M. Nguyen, Jie Chen, Thanh-Lam Hoang, Subhro Das.
 
 ## 2021-12-28
 
@@ -68,6 +100,10 @@ I have completed my summer internship as a machine learning intern with Blue Riv
 ## 2021-06-8
 
 Together with **Lam Nguyen**, **Dzung Phan** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill), we have completed the manuscript <span style="color:blue">FedDR -- Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization.</span> <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a>
+
+## 2021-05-21
+
+The patent <span style="color:blue">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables</span> has been filed. This is a joint work with Dzung T. Phan, Lam M. Nguyen.
 
 ## 2021-03-15
 
