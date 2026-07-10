@@ -81,9 +81,9 @@ My collegues and I will be organizing a tutorial/lab forum "LSHA2: Automated AI 
 
 I will also be the Session Chair of **ML: Optimization 1** at AAAI 2023 on Feb 10, 2023.
  
-## 2022-09-28
+## 2022-09-23
 
-Patent <span style="color:blue">A systematic approach for evaluating robustness of cooperative multi-agent reinforcement learning</span> has been filed on Sept 28, 2022. This is a joint work with Lam M. Nguyen, Jie Chen, Thanh-Lam Hoang, Subhro Das.
+Patent <span style="color:blue">Adversarial Attacks for Improving Cooperative Multi-Agent Reinforcement Learning Systems</span> has been filed. This is a joint work with Lam M. Nguyen, Jie Chen, Thanh-Lam Hoang, Subhro Das.
 
 ## 2021-12-28
 
