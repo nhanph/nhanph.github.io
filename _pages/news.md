@@ -87,12 +87,12 @@ redirect_from:
 }
 .tag-patent { background: rgba(8, 81, 156, 0.15); color: #08519C; }
 .tag-award { background: rgba(255, 209, 0, 0.2); color: #9A7800; }
-.tag-milestone { background: rgba(0, 128, 96, 0.15); color: #00734D; }
+.tag-milestone { background: #9ecae1; color: #0067BC; }
 .tag-journal { background: rgba(66, 146, 198, 0.2); color: #2A6F97; }
 .tag-conference { background: rgba(0, 89, 76, 0.2); color: #00594C; }
 .tag-preprint { background: rgba(239, 68, 111, 0.15); color: #C43A5C; }
 .tag-talk { background: rgba(8, 48, 107, 0.15); color: #08306B; }
-.tag-newrole { background: rgba(146, 64, 14, 0.15); color: #92400E; }
+.tag-newrole { background: #DEEBF7; color: #2171B5; }
 
 .news-show-all {
   display: block;
@@ -180,11 +180,11 @@ redirect_from:
 
 <li data-filter="newrole"><span class="news-date">Jan 2022</span><span><span class="news-tag tag-newrole">New Role</span> Started new role as Research Scientist at <a href="https://research.ibm.com/" target="_blank">IBM</a> Thomas J. Watson Research Center, Yorktown Heights, NY.</span></li>
 
-<li data-filter="newrole"><span class="news-date">Dec 2021</span><span><span class="news-tag tag-newrole">New Role</span> Completed PhD in Operations Research in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. <a href="https://cdr.lib.unc.edu/concern/dissertations/qb98mr30t?locale=en" target="_blank">Dissertation</a></span></li>
+<li data-filter="newrole"><span class="news-date">Dec 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Completed PhD in Operations Research in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. <a href="https://cdr.lib.unc.edu/concern/dissertations/qb98mr30t?locale=en" target="_blank">Dissertation</a></span></li>
 
 <li data-filter="publication"><span class="news-date">Sep 2021</span><span><span class="news-tag tag-conference">Conference</span> Our manuscript <span style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</span> accepted at the 35th Conference on Neural Information Processing Systems. Joint work with <strong>Lam Nguyen</strong>, <strong>Dzung Phan</strong> (IBM Research) and <strong>Quoc Tran-Dinh</strong> (UNC Chapel Hill). <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a></span></li>
 
-<li data-filter="newrole"><span class="news-date">Aug 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Finished summer internship at <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology</a>.</span></li>
+<li data-filter="newrole"><span class="news-date">Aug 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Finished summer internship at <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology</a>. Mentored by Ben Cline, supervised by Chris Padwick.</span></li>
 
 <li data-filter="publication"><span class="news-date">Jun 2021</span><span><span class="news-tag tag-preprint">Preprint</span> Completed the manuscript <span style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</span> with <strong>Lam Nguyen</strong>, <strong>Dzung Phan</strong> (IBM Research) and <strong>Quoc Tran-Dinh</strong> (UNC Chapel Hill). <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a></span></li>
 
