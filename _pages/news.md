@@ -171,7 +171,7 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Aug 2024</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Fine-tuned generative model</span> patent filed. <em>E. Lobo, <strong>N. H. Pham</strong>, L. Vu, T. Mummert, and D. Subramanian.</em></span></li>
 
-<li data-filter="newrole"><span class="news-date">Apr 2024</span><span><span class="news-tag tag-newrole">New Role</span> Promoted to Staff Research Scientist at <a href="https://research.ibm.com/" target="_blank">IBM Research</a>, Thomas J. Watson Research Center.</span></li>
+<li data-filter="newrole"><span class="news-date">Apr 2024</span><span><span class="news-tag tag-newrole">New Role</span> Promoted to <strong>Staff Research Scientist</strong> at <a href="https://research.ibm.com/" target="_blank">IBM Research</a>, Thomas J. Watson Research Center.</span></li>
 
 <li data-filter="patent"><span class="news-date">Jan 2024</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Combining data selection and reward functions for tuning large language models using reinforcement learning</span> patent filed. <em>L. Vu, <strong>N. H. Pham</strong>, D. Subramanian, T. Mummert.</em></span></li>
 
@@ -189,9 +189,9 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Sep 2022</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Adversarial Attacks for Improving Cooperative Multi-Agent Reinforcement Learning Systems</span> patent filed. <em><strong>N. H. Pham</strong>, L. M. Nguyen, J. Chen, T. L. Hoang, S. Das.</em></span></li>
 
-<li data-filter="newrole"><span class="news-date">Jan 2022</span><span><span class="news-tag tag-newrole">New Role</span> Started new role as Research Scientist at <a href="https://research.ibm.com/" target="_blank">IBM</a> Thomas J. Watson Research Center, Yorktown Heights, NY.</span></li>
+<li data-filter="newrole"><span class="news-date">Jan 2022</span><span><span class="news-tag tag-newrole">New Role</span> Started new role as <strong>Research Scientist</strong> at <a href="https://research.ibm.com/" target="_blank">IBM</a> Thomas J. Watson Research Center, Yorktown Heights, NY.</span></li>
 
-<li data-filter="newrole"><span class="news-date">Dec 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Completed PhD in Operations Research in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. <a href="https://cdr.lib.unc.edu/concern/dissertations/qb98mr30t?locale=en" target="_blank">Dissertation</a></span></li>
+<li data-filter="newrole"><span class="news-date">Dec 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Completed <strong>PhD in Operations Research</strong> in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. <a href="https://cdr.lib.unc.edu/concern/dissertations/qb98mr30t?locale=en" target="_blank">Dissertation</a></span></li>
 
 <li data-filter="publication"><span class="news-date">Sep 2021</span><span><span class="news-tag tag-conference">Conference</span> Our manuscript <span style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</span> accepted at the 35th Conference on Neural Information Processing Systems. Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen. <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a></span></li>
 
@@ -209,7 +209,7 @@ redirect_from:
 
 <li data-filter="publication"><span class="news-date">Oct 2020</span><span><span class="news-tag tag-journal">Journal</span> Our paper <span style="color:#08306B">A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization</span> accepted for publication at <strong>Mathematical Programming</strong>. Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen. <a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank">[Full paper]</a></span></li>
 
-<li data-filter="newrole"><span class="news-date">Aug 2020</span><span><span class="news-tag tag-milestone">Milestone</span> Finished summer internship at <a href="https://research.ibm.com/" target="_blank">IBM Research</a>, mentored by Dzung T. Phan and Lam M. Nguyen, and supervised by Roman Vaculin.</span></li>
+<li data-filter="newrole"><span class="news-date">Aug 2020</span><span><span class="news-tag tag-milestone">Milestone</span> Finished summer internship at <a href="https://research.ibm.com/" target="_blank">IBM Research</a>. Mentored by Dzung T. Phan and Lam M. Nguyen, and supervised by Roman Vaculin.</span></li>
 
 <li data-filter="publication"><span class="news-date">Jun 2020</span><span><span class="news-tag tag-conference">Conference</span> Our paper <span style="color:#08306B">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</span> accepted for publication at the International Conference on Machine Learning (ICML). Q. Tran-Dinh, <strong>N. H. Pham</strong>, and L. M. Nguyen. <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank">[Full paper]</a></span></li>
 
