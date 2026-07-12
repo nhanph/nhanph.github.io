@@ -87,7 +87,7 @@ redirect_from:
 }
 .tag-patent { background: rgba(8, 81, 156, 0.15); color: #08519C; }
 .tag-award { background: rgba(255, 209, 0, 0.2); color: #9A7800; }
-.tag-milestone { background: #9ecae1; color: #0067BC; }
+.tag-milestone { background: #9ecae1; color: #191970; }
 .tag-journal { background: rgba(66, 146, 198, 0.2); color: #2A6F97; }
 .tag-conference { background: rgba(0, 89, 76, 0.2); color: #00594C; }
 .tag-preprint { background: rgba(239, 68, 111, 0.15); color: #C43A5C; }
