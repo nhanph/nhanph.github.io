@@ -28,6 +28,12 @@ redirect_from:
   cursor: pointer;
   transition: all 0.2s;
 }
+.news-filter-btn[data-filter="patent"],
+.news-filter-btn[data-filter="publication"],
+.news-filter-btn[data-filter="award"] {
+  background: #fff;
+  color: #536878;
+}
 .news-filter-btn:hover {
   border-color: #08306B;
   color: #08306B;
