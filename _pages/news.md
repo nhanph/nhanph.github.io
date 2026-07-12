@@ -43,7 +43,7 @@ redirect_from:
   margin: 0;
   padding: 0;
   max-height: 420px;
-  overflow-y: auto;
+  overflow: hidden;
 }
 .news-list.expanded {
   max-height: none;
@@ -58,6 +58,11 @@ redirect_from:
 }
 .news-list li:last-child {
   border-bottom: none;
+}
+.news-list a,
+.news-list a:visited,
+.news-list a:hover {
+  text-decoration: none !important;
 }
 .news-date {
   flex-shrink: 0;
