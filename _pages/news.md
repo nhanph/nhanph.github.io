@@ -180,6 +180,8 @@ redirect_from:
 
 <li data-filter="publication"><span class="news-date">Sep 2023</span><span><span class="news-tag tag-conference">Conference</span> Our paper <span style="color:#08306B">Evaluating Robustness of Cooperative MARL: A Model-based Approach</span> accepted at the 2023 IEEE International Conference on Data Mining (ICDM). <strong>N. H. Pham</strong>, L. M. Nguyen, J. Chen, H. T. Lam, S. Das, T. W. Weng. <a href="https://ieeexplore.ieee.org/document/10415752" target="_blank">[Paper]</a></span></li>
 
+<li data-filter="award"><span class="news-date">Aug 2023</span><span><span class="news-tag tag-award">Award</span> <strong>IBM 2022 Research Pat Goldberg Memorial Best Paper</strong>: <span style="color:#08306B">A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization</span>. <em>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</em></span></li>
+
 <li data-filter="patent"><span class="news-date">Jun 2023</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Generative modeling and representational learning from multi-sequence alignment and phylogenetic tree data</span> patent filed. <em>T. L. Hoang, M. M. Galindo, G. Picco, M. Zayats, <strong>N. H. Pham</strong>, L. M. Nguyen, M. L. Sbodio, D. T. Phan, and V. L. Garcia.</em></span></li>
 
 <li data-filter="patent"><span class="news-date">Jun 2023</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">A novel meta-hyperparameter tuning system for RL using sequence model</span> patent filed. <em>E. Lobo, <strong>N. H. Pham</strong>, D. Subramanian, and T. Pedapati.</em></span></li>
@@ -229,8 +231,6 @@ redirect_from:
 <li data-filter="publication"><span class="news-date">Jan 2020</span><span><span class="news-tag tag-conference">Conference</span> Our paper <span style="color:#08306B">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning</span> accepted for AISTATS 2020. <strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, P. H. Nguyen, M. van Dijk, and Q. Tran-Dinh. <a href="http://proceedings.mlr.press/v108/pham20a.html" target="_blank">[Full paper]</a></span></li>
 
 <li data-filter="talk"><span class="news-date">Oct 2019</span><span><span class="news-tag tag-talk">Talk</span> <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span>. Oral Presentation: 2019 INFORMS Annual Meeting.</span></li>
-
-<li data-filter="award"><span class="news-date">Aug 2019</span><span><span class="news-tag tag-award">Award</span> Worked with Quoc Tran-Dinh as a SAMSI (The Statistical and Applied Mathematical Sciences Institute) Research Fellow for the 2019 Fall Program on Deep Learning.</span></li>
 
 <li data-filter="publication"><span class="news-date">Jul 2019</span><span><span class="news-tag tag-preprint">Preprint</span> Completed the manuscript <span style="color:#08306B">A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization</span>. Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen. <a href="https://nhanph.github.io/research/" target="_blank">Research page</a>.</span></li>
 
