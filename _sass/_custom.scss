@@ -40,16 +40,15 @@ strong {
 
 .greedy-nav {
   min-width: 0;
+  width: 100%;
   background: transparent;
-  width: auto;
+  display: flex;
+  justify-content: center;
 }
 
 .greedy-nav .visible-links {
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
-  width: auto;
-  margin: 0 auto;
 }
 
 .greedy-nav a,
