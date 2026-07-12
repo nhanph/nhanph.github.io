@@ -170,7 +170,7 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Mar 2025</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Database Querying Using Natural Language Processing</span> patent filed. <em>T. R. Dinger, A. M. Gliozzo, <strong>N. H. Pham</strong>, O. Hassanzadeh, D. Subramanian, L. Amini, G. Rossiello, M. F. M. Chowdhury, L. Vu, T. Kaple, M. Glass.</em></span></li>
 
-<li data-filter="award"><span class="news-date">Dec 2024</span><span><span class="news-tag tag-award">Award</span> Received <strong>IBM Research Accomplishments 2024 (A-level)</strong> for IBM Granite fine-tuned Text-to-SQL models swept top spots in the BIRD Leaderboard &mdash; Granite-20B and Granite-34B took first place in both tracks, outperforming GPT-4 and GPT-4o. Featured at THINK'24 and deployed on BAM and watsonx.ai.</span></li>
+<li data-filter="award"><span class="news-date">Dec 2024</span><span><span class="news-tag tag-award">Award</span> <strong>IBM Research Accomplishments 2024 - A-level</strong>: IBM Granite fine-tuned Text-to-SQL models sweep top spots in BIRD Leaderboard. Our Granite-20B and Granite-34B models achieved first place in both tracks, outperforming larger models like GPT-4 and GPT-4o. This success drove renewed interest from major industry players including Google, Alibaba, and ByteDance. Models were featured at THINK'24 and deployed on BAM and Watsonx.ai platforms.</span></li>
 
 <li data-filter="patent"><span class="news-date">Aug 2024</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Fine-tuned generative model</span> patent filed. <em>E. Lobo, <strong>N. H. Pham</strong>, L. Vu, T. Mummert, and D. Subramanian.</em></span></li>
 
