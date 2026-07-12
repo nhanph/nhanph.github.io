@@ -92,6 +92,7 @@ redirect_from:
 .tag-conference { background: rgba(0, 89, 76, 0.2); color: #00594C; }
 .tag-preprint { background: rgba(239, 68, 111, 0.15); color: #C43A5C; }
 .tag-talk { background: rgba(8, 48, 107, 0.15); color: #08306B; }
+.tag-other { background: rgba(8, 48, 107, 0.15); color: #08306B; }
 .tag-newrole { background: #DEEBF7; color: #2171B5; }
 
 .news-show-all {
@@ -128,7 +129,7 @@ redirect_from:
   <button class="news-filter-btn" data-filter="patent">Patent</button>
   <button class="news-filter-btn" data-filter="publication">Publication</button>
   <button class="news-filter-btn" data-filter="award">Award</button>
-  <button class="news-filter-btn" data-filter="talk">Talk</button>
+  <button class="news-filter-btn" data-filter="talk">Other Activities</button>
   <button class="news-filter-btn" data-filter="newrole">New Role</button>
 </div>
 
@@ -172,9 +173,9 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Jun 2023</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Reinforcement machine learning with multi-level agent search and hyperparameter optimization</span> patent filed. Joint work with Long Vu, Peter Kirchner, Radu Marinescu, Dharmashankar Subramanian.</span></li>
 
-<li data-filter="talk"><span class="news-date">Feb 2023</span><span><span class="news-tag tag-talk">Talk</span> Co-organizing a tutorial/lab forum "LSHA2: Automated AI for Decision Optimization with Reinforcement Learning" at <a href="https://aaai-23.aaai.org/" target="_blank">AAAI 2023</a>.</span></li>
+<li data-filter="talk"><span class="news-date">Feb 2023</span><span><span class="news-tag tag-other">Other</span> Co-organizing a tutorial/lab forum <a href="https://aaai-23.aaai.org/aaai23tutorials/#lsha2" target="_blank">LSHA2: Automated AI for Decision Optimization with Reinforcement Learning</a> at AAAI 2023.</span></li>
 
-<li data-filter="talk"><span class="news-date">Feb 2023</span><span><span class="news-tag tag-talk">Talk</span> Session Chair of <strong>ML: Optimization 1</strong> at AAAI 2023 on Feb 10, 2023.</span></li>
+<li data-filter="talk"><span class="news-date">Feb 2023</span><span><span class="news-tag tag-other">Other</span> Session Chair of <strong>ML: Optimization 1</strong> at <a href="https://aaai-23.aaai.org/" target="_blank">AAAI 2023</a> on Feb 10, 2023.</span></li>
 
 <li data-filter="patent"><span class="news-date">Sep 2022</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Adversarial Attacks for Improving Cooperative Multi-Agent Reinforcement Learning Systems</span> patent filed. Joint work with Lam M. Nguyen, Jie Chen, Thanh-Lam Hoang, Subhro Das.</span></li>
 
@@ -214,7 +215,7 @@ redirect_from:
 
 <li data-filter="publication"><span class="news-date">Jan 2020</span><span><span class="news-tag tag-conference">Conference</span> Our paper <span style="color:#08306B">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning</span> accepted for AISTATS 2020. Joint work with <strong>Lam Nguyen</strong> (IBM Research), <strong>Dzung Phan</strong> (IBM Research), <strong>Phuong-Ha Nguyen</strong> (UConn), <strong>Marten van Dijk</strong> (UConn), and <strong>Quoc Tran-Dinh</strong> (UNC Chapel Hill). <a href="http://proceedings.mlr.press/v108/pham20a.html" target="_blank">[Full paper]</a></span></li>
 
-<li data-filter="talk"><span class="news-date">Oct 2019</span><span><span class="news-tag tag-talk">Talk</span> Traveled to Seattle for the 2019 INFORMS Annual Meeting to present <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span>, joint work with <strong>Lam Nguyen</strong> (IBM Research), <strong>Dzung Phan</strong> (IBM Research), and <strong>Quoc Tran-Dinh</strong> (UNC Chapel Hill).</span></li>
+<li data-filter="talk"><span class="news-date">Oct 2019</span><span><span class="news-tag tag-talk">Talk</span> <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span>. Oral Presentation: 2019 INFORMS Annual Meeting.</span></li>
 
 <li data-filter="award"><span class="news-date">Aug 2019</span><span><span class="news-tag tag-award">Award</span> Worked with Quoc Tran-Dinh as a SAMSI (The Statistical and Applied Mathematical Sciences Institute) Research Fellow for the 2019 Fall Program on Deep Learning.</span></li>
 
