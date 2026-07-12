@@ -124,6 +124,8 @@ author_profile: true
 <div class="project-panel" data-tab="multilingual" markdown="1">
 
 ## Multilingual Text2SQL
+<span style="color:#536878; font-size:0.9rem;">2025 – 2026</span>
+{: .project-subtitle}
 
 **Capability**: Extended Text2SQL to support multiple languages, making data accessible to global workforce.
 
