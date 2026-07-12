@@ -47,7 +47,7 @@ author_profile: true
 
 <div class="project-tab-bar" id="project-tab-bar">
   <button class="project-tab-btn active" data-tab="nl2insights">NL2Insights</button>
-  <button class="project-tab-btn" data-tab="textsql">Text-to-SQL models</button>
+  <button class="project-tab-btn" data-tab="textsql">IBM Granite Text-to-SQL</button>
   <button class="project-tab-btn" data-tab="multilingual">Multilingual Text2SQL</button>
   <button class="project-tab-btn" data-tab="autodo">AutoDO</button>
   <button class="project-tab-btn" data-tab="rl">Reinforcement Learning</button>
