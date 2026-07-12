@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 <style>
-.page__content a.patent-link,
-.page__content a.patent-link:visited,
-.page__content a.patent-link:hover,
-.page__content a.patent-link:active {
+.archive a.patent-link,
+.archive a.patent-link:visited,
+.archive a.patent-link:hover,
+.archive a.patent-link:active {
   text-decoration: none !important;
 }
-.page__content a.patent-link {
+.archive a.patent-link {
   color: #08306B;
 }
-.page__content a.patent-link:visited {
+.archive a.patent-link:visited {
   color: #6B83A6;
 }
 </style>
