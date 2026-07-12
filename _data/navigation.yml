@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "About"
+    url: /
+
   - title: "News"
     url: /news/
 
@@ -10,8 +13,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Patents"
-    url: /patents/
+#   - title: "Patents"
+#     url: /patents/
 
 #   - title: "Talks"
 #     url: /talks/
