@@ -132,6 +132,7 @@ author_profile: true
 <div class="project-panel" data-tab="autodo" markdown="1">
 
 ## AutoDO: Automated Decision Optimization
+<span style="color:#536878; font-size:0.9rem;">Jan. 2022 – Mar. 2023</span>
 
 **Overview**: An end-to-end automated system for solving sequential decision-making problems using data and knowledge-driven approaches.
 
@@ -139,8 +140,6 @@ author_profile: true
 - Designed application framework and system architecture
 - Demonstrated effectiveness through comprehensive benchmarking
 - **Available on IBM API Hub portal** for enterprise use
-
-**Timeline**: Jan. 2022 – Mar. 2023
 
 **Recognition**: Tutorial/Lab organizer at AAAI 2023: "Automated AI For Decision Optimization with Reinforcement Learning"
 
