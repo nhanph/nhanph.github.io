@@ -65,7 +65,7 @@ Q. Tran-Dinh, **N. H. Pham**, D. T. Phan, and L. M. Nguyen.
 Q. Tran-Dinh, **N. H. Pham**, and L. M. Nguyen.<br>
 <a href="https://github.com/unc-optimization/SGN" target="_blank">[Python Code]</a>
 
-- <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization.</a> *Journal of Machine Learning Research (<strong style="color:#08306B">JMLR</strong>).*<br>
+- <a href="https://www.jmlr.org/papers/v21/19-248.html" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization.</a> *Journal of Machine Learning Research (<strong style="color:#08306B">JMLR</strong>).*<br>
 **N. H. Pham**, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.<br>
 <a href="https://github.com/unc-optimization/StochasticProximalMethods" target="_blank">[Python Code]</a>
 

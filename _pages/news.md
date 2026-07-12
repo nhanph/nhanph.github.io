@@ -202,7 +202,7 @@ redirect_from:
 
 <li data-filter="newrole"><span class="news-date">May 2020</span><span><span class="news-tag tag-newrole">Career Update</span> Joined <a href="https://research.ibm.com/" target="_blank">IBM Research</a> as Research Intern.</span></li>
 
-<li data-filter="publication"><span class="news-date">May 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</a> <em>accepted for Journal of Machine Learning Research (<strong>JMLR</strong>).</em><br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.</span></li>
+<li data-filter="publication"><span class="news-date">May 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="https://www.jmlr.org/papers/v21/19-248.html" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</a> <em>accepted for Journal of Machine Learning Research (<strong>JMLR</strong>).</em><br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.</span></li>
 
 <li data-filter="publication"><span class="news-date">Mar 2020</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/abs/2003.10973" target="_blank" style="color:#08306B">Finite-time analysis of stochastic gradient descent under markov randomness</a>.<br>T. T. Doan, L. M. Nguyen, <strong>N. H. Pham</strong>, and J. Romberg.</span></li>
 
