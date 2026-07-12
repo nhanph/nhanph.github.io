@@ -18,6 +18,9 @@ author_profile: true
 .archive a.patent-link:visited {
   color: #6B83A6;
 }
+.archive a.patent-link:hover {
+  color: #4292C6;
+}
 </style>
 
 1. <span style="color:#08306B">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks.</span> L. H. Vu, D. Snoddy, T. R. Kaple, T. R. Dinger, **N. H. Pham**, M. R. Glass, D. Subramanian, A. W. Hagleitner. Filed on April 9, 2026.
