@@ -9,7 +9,52 @@ author_profile: true
 .page__title {
   display: none;
 }
+
+.project-tab-bar {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 18px;
+  flex-wrap: wrap;
+}
+.project-tab-btn {
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 5px 14px;
+  border: 1.5px solid rgba(8, 48, 107, 0.2);
+  border-radius: 20px;
+  background: none;
+  color: #4F758B;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.project-tab-btn:hover {
+  border-color: #08306B;
+  color: #08306B;
+}
+.project-tab-btn.active {
+  background: #08306B;
+  border-color: #08306B;
+  color: #fff;
+}
+
+.project-panel {
+  display: none;
+}
+.project-panel.active {
+  display: block;
+}
 </style>
+
+<div class="project-tab-bar" id="project-tab-bar">
+  <button class="project-tab-btn active" data-tab="nl2insights">NL2Insights</button>
+  <button class="project-tab-btn" data-tab="textsql">Text-to-SQL models</button>
+  <button class="project-tab-btn" data-tab="multilingual">Multilingual Text2SQL</button>
+  <button class="project-tab-btn" data-tab="autodo">AutoDO</button>
+  <button class="project-tab-btn" data-tab="rl">Reinforcement Learning</button>
+  <button class="project-tab-btn" data-tab="fl">Federated Learning</button>
+</div>
+
+<div class="project-panel active" data-tab="nl2insights" markdown="1">
 
 ## NL2Insights: Enterprise Text-to-SQL at Scale
 
@@ -34,7 +79,9 @@ author_profile: true
 - IBM Research Accomplishments (A-level) - 2025
 - IBM Growth Award - 2025
 
----
+</div>
+
+<div class="project-panel" data-tab="textsql" markdown="1">
 
 ## BIRD Leaderboard: #1 in Text-to-SQL Benchmark
 
@@ -62,7 +109,9 @@ author_profile: true
 - Featured at THINK'24 (IBM's flagship conference)
 - Deployed on BAM and Watsonx.ai platforms
 
----
+</div>
+
+<div class="project-panel" data-tab="multilingual" markdown="1">
 
 ## Multilingual Text2SQL
 
@@ -78,7 +127,9 @@ author_profile: true
 - Enables non-English speakers to query databases in their native language
 - Automatic conversion to optimized SQL regardless of input language
 
----
+</div>
+
+<div class="project-panel" data-tab="autodo" markdown="1">
 
 ## AutoDO: Automated Decision Optimization
 
@@ -93,7 +144,9 @@ author_profile: true
 
 **Recognition**: Tutorial/Lab organizer at AAAI 2023: "Automated AI For Decision Optimization with Reinforcement Learning"
 
----
+</div>
+
+<div class="project-panel" data-tab="rl" markdown="1">
 
 ## Evaluating Robustness in Multi-Agent Reinforcement Learning
 
@@ -108,7 +161,9 @@ author_profile: true
 
 **Patent**: Filed patent application on systematic approach for evaluating robustness (Sep. 2022)
 
----
+</div>
+
+<div class="project-panel" data-tab="fl" markdown="1">
 
 ## Federated Learning with Douglas-Rachford Splitting
 
@@ -123,28 +178,22 @@ author_profile: true
 
 **Impact**: Advanced the state-of-the-art in federated optimization for non-convex problems
 
----
+</div>
 
-## Patents & Intellectual Property
+<script>
+(function () {
+  var tabBtns = document.querySelectorAll('#project-tab-bar .project-tab-btn');
+  var panels = document.querySelectorAll('.project-panel');
 
-Filed **9 patent applications** on:
-- Text-to-SQL using LLMs and schema enrichment
-- Database querying using natural language processing
-- Metadata to glossary matching using generative models
-- Reinforcement learning fine-tuning for LLMs
-- Multi-agent reinforcement learning robustness
-- Regression models for system-level optimization
-
----
-
-## Skills & Technologies
-
-**Large Language Models**: Fine-tuning, prompt engineering, reasoning systems, RAG (Retrieval-Augmented Generation)
-
-**Programming**: Python, TensorFlow, Keras, PyTorch, Scikit-learn, C/C++, MATLAB
-
-**ML/AI**: Deep learning, reinforcement learning, federated learning, optimization algorithms
-
-**Databases**: SQL, Text-to-SQL, schema linking, query optimization
-
-**Enterprise AI**: Production deployment, scalability, safety & security, multilingual systems
+  tabBtns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      tabBtns.forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      var tab = btn.getAttribute('data-tab');
+      panels.forEach(function (p) {
+        p.classList.toggle('active', p.getAttribute('data-tab') === tab);
+      });
+    });
+  });
+})();
+</script>
