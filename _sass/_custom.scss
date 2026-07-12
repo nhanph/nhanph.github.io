@@ -14,33 +14,40 @@ strong {
   color: #08519C;
 }
 
-.masthead__title {
-  padding: 0.3em 0 0.2em;
+.masthead__inner-wrap {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 1.5em;
+  row-gap: 0.3em;
+}
 
-  @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-  }
+.masthead__title {
+  padding: 0;
 }
 
 .masthead__title a {
   font-family: 'Playwrite US Trad', cursive;
-  font-size: 3.4rem;
+  font-size: 1.3rem;
   line-height: 1;
   color: #08306B;
+}
+
+.masthead__bracket {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-weight: 700;
 }
 
 .greedy-nav a,
 .greedy-nav .visible-links a,
 .greedy-nav .hidden-links a {
   color: #08306B;
-  font-weight: bold;
-  text-transform: uppercase;
+  font-weight: 600;
+  text-transform: none;
 }
 
 .masthead__menu {
-  @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-  }
+  width: auto;
 }
