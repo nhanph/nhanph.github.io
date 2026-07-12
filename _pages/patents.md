@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 <style>
-.patent-link {
+.page__content a.patent-link {
   color: #4292C6;
   text-decoration: none;
 }
-.patent-link:visited {
+.page__content a.patent-link:visited {
   color: #8EBEDD;
 }
 </style>
