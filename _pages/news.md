@@ -63,6 +63,7 @@ redirect_from:
 .news-list a:visited,
 .news-list a:hover {
   text-decoration: none !important;
+  color: #0F52BA;
 }
 .news-date {
   flex-shrink: 0;
