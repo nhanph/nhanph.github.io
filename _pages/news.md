@@ -155,7 +155,7 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Aug 2024</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Fine-tuned generative model</span> patent filed. Joint work with Elita Lobo, Long Vu, Todd Mummert, Dharmashankar Subramanian.</span></li>
 
-<li data-filter="newrole"><span class="news-date">Apr 2024</span><span><span class="news-tag tag-newrole">New Role</span> Promoted to Staff Research Scientist at IBM Research, Thomas J. Watson Research Center.</span></li>
+<li data-filter="newrole"><span class="news-date">Apr 2024</span><span><span class="news-tag tag-newrole">New Role</span> Promoted to Staff Research Scientist at <a href="https://research.ibm.com/" target="_blank">IBM Research</a>, Thomas J. Watson Research Center.</span></li>
 
 <li data-filter="patent"><span class="news-date">Jan 2024</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Combining data selection and reward functions for tuning large language models using reinforcement learning</span> patent filed. Joint work with Long Vu, Dharmashankar Subramanian, Todd Mummert.</span></li>
 
@@ -173,17 +173,19 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Sep 2022</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Adversarial Attacks for Improving Cooperative Multi-Agent Reinforcement Learning Systems</span> patent filed. Joint work with Lam M. Nguyen, Jie Chen, Thanh-Lam Hoang, Subhro Das.</span></li>
 
-<li data-filter="newrole"><span class="news-date">Dec 2021</span><span><span class="news-tag tag-newrole">New Role</span> Starting Jan 4th, joining the IBM Thomas J. Watson Research Center in Yorktown Heights as a Research Scientist.</span></li>
+<li data-filter="newrole"><span class="news-date">Jan 2022</span><span><span class="news-tag tag-newrole">New Role</span> Started new role as Research Scientist at <a href="https://research.ibm.com/" target="_blank">IBM</a> Thomas J. Watson Research Center, Yorktown Heights, NY.</span></li>
+
+<li data-filter="newrole"><span class="news-date">Dec 2021</span><span><span class="news-tag tag-newrole">New Role</span> Completed PhD in Operations Research in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. <a href="https://cdr.lib.unc.edu/concern/dissertations/qb98mr30t?locale=en" target="_blank">Dissertation</a></span></li>
 
 <li data-filter="publication"><span class="news-date">Sep 2021</span><span><span class="news-tag tag-conference">Conference</span> Our manuscript <span style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</span> accepted at the 35th Conference on Neural Information Processing Systems. Joint work with <strong>Lam Nguyen</strong>, <strong>Dzung Phan</strong> (IBM Research) and <strong>Quoc Tran-Dinh</strong> (UNC Chapel Hill). <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a></span></li>
 
-<li data-filter="newrole"><span class="news-date">Aug 2021</span><span><span class="news-tag tag-newrole">New Role</span> Completed summer internship as a machine learning intern with Blue River Technology Inc., working on applying machine learning to agriculture.</span></li>
+<li data-filter="newrole"><span class="news-date">Aug 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Finished summer internship at <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology</a>.</span></li>
 
 <li data-filter="publication"><span class="news-date">Jun 2021</span><span><span class="news-tag tag-preprint">Preprint</span> Completed the manuscript <span style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</span> with <strong>Lam Nguyen</strong>, <strong>Dzung Phan</strong> (IBM Research) and <strong>Quoc Tran-Dinh</strong> (UNC Chapel Hill). <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a></span></li>
 
 <li data-filter="patent"><span class="news-date">May 2021</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables</span> patent filed. Joint work with Dzung T. Phan, Lam M. Nguyen.</span></li>
 
-<li data-filter="newrole"><span class="news-date">Mar 2021</span><span><span class="news-tag tag-newrole">New Role</span> Will be a Machine Learning Intern at <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology Inc.</a> this summer.</span></li>
+<li data-filter="newrole"><span class="news-date">May 2021</span><span><span class="news-tag tag-newrole">New Role</span> Joined <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology</a> as Machine Learning Intern.</span></li>
 
 <li data-filter="publication"><span class="news-date">Mar 2021</span><span><span class="news-tag tag-preprint">Preprint</span> Completed the manuscript <span style="color:#08306B">Federated Learning with Randomized Douglas-Rachford Splitting Methods</span> with <strong>Lam Nguyen</strong>, <strong>Dzung Phan</strong> (IBM Research) and <strong>Quoc Tran-Dinh</strong> (UNC Chapel Hill). <a href="https://arxiv.org/pdf/2103.03452v1.pdf" target="_blank">[Preprint]</a></span></li>
 
@@ -191,9 +193,11 @@ redirect_from:
 
 <li data-filter="publication"><span class="news-date">Oct 2020</span><span><span class="news-tag tag-journal">Journal</span> Our paper <span style="color:#08306B">A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization</span> accepted for publication at <strong>Mathematical Programming</strong>. Joint work with <strong>Quoc Tran-Dinh</strong> (UNC Chapel Hill), <strong>Lam Nguyen</strong> and <strong>Dzung Phan</strong> (IBM Research). <a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank">[Full paper]</a></span></li>
 
-<li data-filter="newrole"><span class="news-date">Aug 2020</span><span><span class="news-tag tag-newrole">New Role</span> Completed summer internship with IBM Research, Thomas J. Watson Research Center, mentored by Dzung T. Phan and Lam M. Nguyen, and supervised by Roman Vaculin.</span></li>
+<li data-filter="newrole"><span class="news-date">Aug 2020</span><span><span class="news-tag tag-milestone">Milestone</span> Finished summer internship at <a href="https://research.ibm.com/" target="_blank">IBM Research</a>, mentored by Dzung T. Phan and Lam M. Nguyen, and supervised by Roman Vaculin.</span></li>
 
 <li data-filter="publication"><span class="news-date">Jun 2020</span><span><span class="news-tag tag-conference">Conference</span> Our paper <span style="color:#08306B">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</span> accepted for publication at the International Conference on Machine Learning (ICML). Joint work with <strong>Lam Nguyen</strong> (IBM Research) and <strong>Quoc Tran-Dinh</strong> (UNC Chapel Hill). <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank">[Full paper]</a></span></li>
+
+<li data-filter="newrole"><span class="news-date">May 2020</span><span><span class="news-tag tag-newrole">New Role</span> Joined <a href="https://research.ibm.com/" target="_blank">IBM Research</a> as Research Intern.</span></li>
 
 <li data-filter="publication"><span class="news-date">May 2020</span><span><span class="news-tag tag-journal">Journal</span> Our paper <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span> accepted for publication at the Journal of Machine Learning Research (JMLR). Joint work with <strong>Lam Nguyen</strong> (IBM Research), <strong>Dzung Phan</strong> (IBM Research), and <strong>Quoc Tran-Dinh</strong> (UNC Chapel Hill). <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank">[Full paper]</a></span></li>
 
@@ -212,6 +216,8 @@ redirect_from:
 <li data-filter="publication"><span class="news-date">Jul 2019</span><span><span class="news-tag tag-preprint">Preprint</span> Completed the manuscript <span style="color:#08306B">A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization</span> with <strong>Lam Nguyen</strong> (IBM Research), <strong>Dzung Phan</strong> (IBM Research), and <strong>Quoc Tran-Dinh</strong> (UNC Chapel Hill). <a href="https://nhanph.github.io/research/" target="_blank">Research page</a>.</span></li>
 
 <li data-filter="publication"><span class="news-date">Feb 2019</span><span><span class="news-tag tag-preprint">Preprint</span> Completed the manuscript <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span> with <strong>Lam Nguyen</strong> (IBM Research), <strong>Dzung Phan</strong> (IBM Research), and <strong>Quoc Tran-Dinh</strong> (UNC Chapel Hill). <a href="https://nhanph.github.io/research/" target="_blank">Research page</a>.</span></li>
+
+<li data-filter="newrole"><span class="news-date">Aug 2017</span><span><span class="news-tag tag-newrole">New Role</span> Started PhD in Operations Research at University of North Carolina at Chapel Hill &middot; Chapel Hill, NC, USA. Under supervision of professor <a href="https://quoctd.web.unc.edu/" target="_blank">Quoc Tran-Dinh</a>.</span></li>
 
 </ul>
 
