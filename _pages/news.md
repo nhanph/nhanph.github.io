@@ -141,7 +141,7 @@ redirect_from:
   <button class="news-filter-btn" data-filter="publication">Publication</button>
   <button class="news-filter-btn" data-filter="award">Award</button>
   <button class="news-filter-btn" data-filter="talk">Other Activities</button>
-  <button class="news-filter-btn" data-filter="newrole">New Role</button>
+  <button class="news-filter-btn" data-filter="newrole">Career Update</button>
 </div>
 
 <ul class="news-list" id="news-list">
@@ -180,7 +180,7 @@ redirect_from:
 
 <li data-filter="award"><span class="news-date">Jul 2024</span><span><span class="news-tag tag-milestone">Milestone</span> <a href="https://research.ibm.com/blog/granite-LLM-text-to-SQL?mhsrc=ibmsearch_a&amp;mhq=%20IBM%20Granite%20fine-tuned%20Text-to-SQL" target="_blank">IBM&rsquo;s text-to-SQL generator</a> takes top place on a benchmark for handling complex database queries.</span></li>
 
-<li data-filter="newrole"><span class="news-date">Apr 2024</span><span><span class="news-tag tag-newrole">New Role</span> Promoted to <strong>Staff Research Scientist</strong> at <a href="https://research.ibm.com/" target="_blank">IBM</a> Thomas J. Watson Research Center.</span></li>
+<li data-filter="newrole"><span class="news-date">Apr 2024</span><span><span class="news-tag tag-newrole">Career Update</span> Promoted to <strong>Staff Research Scientist</strong> at <a href="https://research.ibm.com/" target="_blank">IBM</a> Thomas J. Watson Research Center.</span></li>
 
 <li data-filter="patent"><span class="news-date">Jan 2024</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Combining data selection and reward functions for tuning large language models using reinforcement learning</span><br>L. Vu, <strong>N. H. Pham</strong>, D. Subramanian, T. Mummert.</span></li>
 
@@ -200,7 +200,7 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Sep 2022</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Adversarial Attacks for Improving Cooperative Multi-Agent Reinforcement Learning Systems</span><br><strong>N. H. Pham</strong>, L. M. Nguyen, J. Chen, T. L. Hoang, S. Das.</span></li>
 
-<li data-filter="newrole"><span class="news-date">Jan 2022</span><span><span class="news-tag tag-newrole">New Role</span> Started new role as <strong>Research Scientist</strong> at <a href="https://research.ibm.com/" target="_blank">IBM</a> Thomas J. Watson Research Center, Yorktown Heights, NY.</span></li>
+<li data-filter="newrole"><span class="news-date">Jan 2022</span><span><span class="news-tag tag-newrole">Career Update</span> Started new role as <strong>Research Scientist</strong> at <a href="https://research.ibm.com/" target="_blank">IBM</a> Thomas J. Watson Research Center, Yorktown Heights, NY.</span></li>
 
 <li data-filter="newrole"><span class="news-date">Dec 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Completed <strong>PhD in Operations Research</strong> in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. <a href="https://cdr.lib.unc.edu/concern/dissertations/qb98mr30t?locale=en" target="_blank">Dissertation</a></span></li>
 
@@ -212,7 +212,7 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">May 2021</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables</span><br>D. T. Phan, <strong>N. H. Pham</strong>, L. M. Nguyen.</span></li>
 
-<li data-filter="newrole"><span class="news-date">May 2021</span><span><span class="news-tag tag-newrole">New Role</span> Joined <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology</a> as Machine Learning Intern.</span></li>
+<li data-filter="newrole"><span class="news-date">May 2021</span><span><span class="news-tag tag-newrole">Career Update</span> Joined <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology</a> as Machine Learning Intern.</span></li>
 
 <li data-filter="publication"><span class="news-date">Mar 2021</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/2103.03452v1.pdf" target="_blank" style="color:#08306B">Federated Learning with Randomized Douglas-Rachford Splitting Methods</a>.<br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
 
@@ -224,7 +224,7 @@ redirect_from:
 
 <li data-filter="publication"><span class="news-date">Jun 2020</span><span><span class="news-tag tag-conference">Conference</span> <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank" style="color:#08306B">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</a> <em>accepted for the 37th International Conference on Machine Learning (<strong>ICML 2020</strong>).</em><br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, and L. M. Nguyen.</span></li>
 
-<li data-filter="newrole"><span class="news-date">May 2020</span><span><span class="news-tag tag-newrole">New Role</span> Joined <a href="https://research.ibm.com/" target="_blank">IBM Research</a> as Research Intern.</span></li>
+<li data-filter="newrole"><span class="news-date">May 2020</span><span><span class="news-tag tag-newrole">Career Update</span> Joined <a href="https://research.ibm.com/" target="_blank">IBM Research</a> as Research Intern.</span></li>
 
 <li data-filter="publication"><span class="news-date">May 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</a> <em>accepted for Journal of Machine Learning Research (<strong>JMLR</strong>).</em><br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.</span></li>
 
@@ -244,7 +244,7 @@ redirect_from:
 
 <li data-filter="publication"><span class="news-date">Feb 2019</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/1902.05679.pdf" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</a>.<br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.</span></li>
 
-<li data-filter="newrole"><span class="news-date">Aug 2017</span><span><span class="news-tag tag-newrole">New Role</span> Started PhD in Operations Research at University of North Carolina at Chapel Hill &middot; Chapel Hill, NC, USA. Under supervision of professor <a href="https://quoctd.web.unc.edu/" target="_blank">Quoc Tran-Dinh</a>.</span></li>
+<li data-filter="newrole"><span class="news-date">Aug 2017</span><span><span class="news-tag tag-newrole">Career Update</span> Started PhD in Operations Research at University of North Carolina at Chapel Hill &middot; Chapel Hill, NC, USA. Under supervision of professor <a href="https://quoctd.web.unc.edu/" target="_blank">Quoc Tran-Dinh</a>.</span></li>
 
 </ul>
 
