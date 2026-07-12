@@ -38,4 +38,4 @@ author_profile: true
 
 9. **N. H. Pham**, L. M. Nguyen, J. Chen, T. L. Hoang, S. Das. <span style="color:#08306B">A systematic approach for evaluating robustness of cooperative multi-agent reinforcement learning.</span> Filed on Sep. 28, 2022.
 
-10. D. T. Phan, **N. H. Pham**, L. M. Nguyen. <a class="patent-link" href="https://patents.google.com/patent/US12518174/en" target="_blank">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables.</a> Filed on May 25, 2021. Granted on Jan. 6, 2026.
+10. D. T. Phan, **N. H. Pham**, L. M. Nguyen. <a class="patent-link" href="https://patents.google.com/patent/US12518174/en" target="_blank">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables.</a> Filed on May 25, 2021. Granted on Jan. 6, 2026. Patent US12518174B2
