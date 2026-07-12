@@ -153,19 +153,19 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">System and Method for Combining Data Selection and Reward Function for Tuning LLMs using Reinforcement Learning</span> patent granted. <em>L. Vu, <strong>N. H. Pham</strong>, D. Subramanian, T. Mummert.</em></span></li>
 
-<li data-filter="award"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-award">Award</span> Received the IBM Outstanding Technical Achievement Award for NL2Insights Impacting Products and Clients.</span></li>
+<li data-filter="award"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-award">Award</span> Received the <strong>IBM Outstanding Technical Achievement Award</strong> for NL2Insights Impacting Products and Clients.</span></li>
 
 <li data-filter="award"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-milestone">Milestone</span> Multilingual Text2SQL capabilities are now available across all IBM Cloud and AWS production regions for IBM watsonx.data intelligence SaaS, supporting English and Japanese with more languages coming.</span></li>
 
 <li data-filter="patent"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Site-wide optimization for mixed regression models and mixed control variables</span> patent granted. <em>D. T. Phan, <strong>N. H. Pham</strong>, L. M. Nguyen.</em></span></li>
 
-<li data-filter="award"><span class="news-date">Dec 2025</span><span><span class="news-tag tag-award">Award</span> Received IBM Growth Award for advancing Text2SQL service within watsonx.data intelligence.</span></li>
+<li data-filter="award"><span class="news-date">Dec 2025</span><span><span class="news-tag tag-award">Award</span> Received <strong>IBM Growth Award</strong> for advancing Text2SQL service within watsonx.data intelligence.</span></li>
 
-<li data-filter="award"><span class="news-date">Dec 2025</span><span><span class="news-tag tag-award">Award</span> NL2Insights achieved Product and Client-0 Adoption &amp; Impact recognition in IBM Research Accomplishments 2025 (A-level), powering watsonx.data, BI Assistant, and Process Mining with 200,000+ SQL queries across 1,000+ databases.</span></li>
+<li data-filter="award"><span class="news-date">Dec 2025</span><span><span class="news-tag tag-award">Award</span> <strong>IBM Research Accomplishments 2025 - A-level</strong>: NL2Insights achieved Product and Client-0 Adoption &amp; Impact recognition. Our fully automated Text2SQL pipeline now powers watsonx.data, BI Assistant, and Process Mining, generating over 200,000 SQL queries across 1,000+ databases at enterprise scale.</span></li>
 
 <li data-filter="patent"><span class="news-date">Aug 2025</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Generating structured query language queries from natural language inputs with schema enrichment</span> patent filed. <em>M. Eyceoz, G. Rossiello, A. M. Gliozzo, M. R. Glass, N. Mihindukulasooriya, <strong>N. H. Pham</strong>, L. H. Vu, D. Subramanian, F. M. Chowdhury.</em></span></li>
 
-<li data-filter="award"><span class="news-date">May 2025</span><span><span class="news-tag tag-award">Award</span> Received the IBM Outstanding Technical Achievement Award for achieving first place on the BIRD Leaderboard with IBM Granite Text-to-SQL models.</span></li>
+<li data-filter="award"><span class="news-date">May 2025</span><span><span class="news-tag tag-award">Award</span> Received the <strong>IBM Outstanding Technical Achievement Award</strong> for achieving first place on the BIRD Leaderboard with IBM Granite Text-to-SQL models.</span></li>
 
 <li data-filter="publication"><span class="news-date">May 2025</span><span><span class="news-tag tag-conference">Conference</span> Our paper <span style="color:#08306B">The Consistency Hypothesis in Uncertainty Quantification for Large Language Models</span> accepted at the Forty-First Conference on Uncertainty in Artificial Intelligence (UAI 2025). Q. Xiao, D. Bhattacharjya, B. Ganesan, R. Marinescu, K. Mirylenka, <strong>N. H. Pham</strong>, M. Glass, and J. Lee.</span></li>
 
