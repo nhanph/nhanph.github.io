@@ -25,14 +25,6 @@ function showhide(id) {
 - **Multi-agent reinforcement learning** and robustness evaluation
 - **Federated learning** and distributed optimization
 
-## Recent Highlights
-
-- **IBM Outstanding Technical Achievement Award (2026)**: For NL2Insights Impacting Products and Clients
-- **#1 on BIRD Leaderboard (2024)**: IBM Granite Text-to-SQL models achieved first place in both tracks, outperforming GPT-4 and GPT-4o
-- **NL2Insights Production Impact**: 200,000+ SQL queries generated across 1,000+ databases, powering watsonx.data, BI Assistant, and Process Mining
-- **Multilingual Text2SQL (2026)**: Enabled production deployment across all IBM Cloud and AWS regions
-- **6 IBM Awards (2024-2026)**: Two Outstanding Technical Achievement Awards, Growth Award, and multiple Research Accomplishments
-
 ## Publications
 
 ### 2026

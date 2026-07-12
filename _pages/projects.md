@@ -92,7 +92,7 @@ author_profile: true
 <div class="project-panel" data-tab="textsql" markdown="1">
 
 ## BIRD Leaderboard: #1 in Text-to-SQL Benchmark
-<span style="color:#536878; font-size:0.9rem;">2023 – 2025</span>
+<span style="color:#536878; font-size:0.9rem;">2023 – 2024</span>
 {: .project-subtitle}
 
 **Achievement**: Led IBM Granite Text-to-SQL models to **first place in both tracks** of the prestigious BIRD (BIg Bench for LaRge-scale Database Grounded Text-to-SQL Evaluation) leaderboard.
