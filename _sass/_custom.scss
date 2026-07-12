@@ -14,18 +14,13 @@ strong {
   color: #08519C;
 }
 
-.masthead__inner-wrap {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: flex-start;
-  column-gap: 1.5em;
-  row-gap: 0.3em;
-}
-
 .masthead__title {
-  padding: 0;
+  padding: 0.3em 0 0.2em;
+
+  @include breakpoint($large) {
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+  }
 }
 
 .masthead__title a {
@@ -44,5 +39,8 @@ strong {
 }
 
 .masthead__menu {
-  width: auto;
+  @include breakpoint($large) {
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+  }
 }
