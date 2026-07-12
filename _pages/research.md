@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 .page__title {
-  text-transform: uppercase;
+  display: none;
 }
 </style>
 

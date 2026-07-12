@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 .page__title {
-  text-transform: uppercase;
+  display: none;
 }
 .archive a.patent-link,
 .archive a.patent-link:visited,

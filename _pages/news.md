@@ -8,7 +8,7 @@ redirect_from:
 
 <style>
 .page__title {
-  text-transform: uppercase;
+  display: none;
 }
 </style>
 
