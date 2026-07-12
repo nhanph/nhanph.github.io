@@ -43,6 +43,12 @@ author_profile: true
 .project-panel.active {
   display: block;
 }
+.project-panel h2 {
+  margin-bottom: 0.25em;
+}
+.project-subtitle {
+  margin-top: 0.2em;
+}
 </style>
 
 <div class="project-tab-bar" id="project-tab-bar">
@@ -133,6 +139,7 @@ author_profile: true
 
 ## AutoDO: Automated Decision Optimization
 <span style="color:#536878; font-size:0.9rem;">Jan. 2022 – Mar. 2023</span>
+{: .project-subtitle}
 
 **Overview**: An end-to-end automated system for solving sequential decision-making problems using data and knowledge-driven approaches.
 
