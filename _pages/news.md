@@ -102,6 +102,7 @@ redirect_from:
 .tag-talk { background: rgba(8, 48, 107, 0.15); color: #08306B; }
 .tag-other { background: rgba(8, 48, 107, 0.15); color: #08306B; }
 .tag-workshop { background: rgba(8, 48, 107, 0.15); color: #08306B; }
+.tag-tutorial { background: rgba(8, 48, 107, 0.15); color: #08306B; }
 .tag-demo { background: rgba(8, 48, 107, 0.15); color: #08306B; }
 .tag-newrole { background: #DEEBF7; color: #2171B5; }
 
@@ -151,13 +152,13 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Apr 2026</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks</span><br>L. H. Vu, D. Snoddy, T. R. Kaple, T. R. Dinger, <strong>N. H. Pham</strong>, M. R. Glass, D. Subramanian, A. W. Hagleitner.</span></li>
 
-<li data-filter="patent"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-patent">Patent Granted</span> <a href="https://patents.google.com/patent/US12566929/en" target="_blank" style="color:#08306B">System and Method for Combining Data Selection and Reward Function for Tuning LLMs using Reinforcement Learning</a> Patent US12566929B2.<br>L. Vu, <strong>N. H. Pham</strong>, D. Subramanian, T. Mummert.</span></li>
+<li data-filter="patent"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-patent">Patent Granted</span> <a href="https://patents.google.com/patent/US12566929/en" target="_blank" style="color:#08306B">System and Method for Combining Data Selection and Reward Function for Tuning LLMs using Reinforcement Learning</a>. Patent US12566929B2.<br>L. Vu, <strong>N. H. Pham</strong>, D. Subramanian, T. Mummert.</span></li>
 
 <li data-filter="award"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-award">Award</span> Received <strong>IBM Outstanding Technical Achievement Award</strong> for NL2Insights Impacting Products and Clients.</span></li>
 
 <li data-filter="award"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-milestone">Milestone</span> Multilingual Text2SQL capabilities are now available across all IBM Cloud and AWS production regions for IBM watsonx.data intelligence SaaS, supporting English and Japanese with more languages coming.</span></li>
 
-<li data-filter="patent"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-patent">Patent Granted</span> <a href="https://patents.google.com/patent/US12518174/en" target="_blank" style="color:#08306B">Site-wide optimization for mixed regression models and mixed control variables</a> Patent US12518174B2.<br>D. T. Phan, <strong>N. H. Pham</strong>, L. M. Nguyen.</span></li>
+<li data-filter="patent"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-patent">Patent Granted</span> <a href="https://patents.google.com/patent/US12518174/en" target="_blank" style="color:#08306B">Site-wide optimization for mixed regression models and mixed control variables</a>. Patent US12518174B2.<br>D. T. Phan, <strong>N. H. Pham</strong>, L. M. Nguyen.</span></li>
 
 <li data-filter="talk"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-workshop">Workshop</span> <span style="color:#08306B">Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles</span> <em>accepted for AAAI 2026 Workshop on Assessing and Improving Reliability of Foundation Models in the Real World (<strong>AAAI 2026 Workshop</strong>).</em><br>W. Ma, D. Bhattacharjya, J. Lee, <strong>N. H. Pham</strong>, H. Kokel, Q. Ji.</span></li>
 
@@ -193,7 +194,7 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Jun 2023</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Reinforcement machine learning with multi-level agent search and hyperparameter optimization</span><br>L. Vu, P. Kirchner, R. Marinescu, D. Subramanian, and <strong>N. H. Pham</strong>.</span></li>
 
-<li data-filter="talk"><span class="news-date">Feb 2023</span><span><span class="news-tag tag-workshop">Workshop</span> Co-organizing a tutorial/lab forum <a href="https://aaai-23.aaai.org/aaai23tutorials/#lsha2" target="_blank">LSHA2: Automated AI for Decision Optimization with Reinforcement Learning</a> at AAAI 2023.</span></li>
+<li data-filter="talk"><span class="news-date">Feb 2023</span><span><span class="news-tag tag-tutorial">Tutorial</span> Co-organizing a tutorial/lab forum <a href="https://aaai-23.aaai.org/aaai23tutorials/#lsha2" target="_blank">LSHA2: Automated AI for Decision Optimization with Reinforcement Learning</a> at AAAI 2023.</span></li>
 
 <li data-filter="talk"><span class="news-date">Feb 2023</span><span><span class="news-tag tag-other">Other</span> Session Chair of <strong>ML: Optimization 1</strong> at <a href="https://aaai-23.aaai.org/" target="_blank">AAAI 2023</a> on Feb 10, 2023.</span></li>
 
