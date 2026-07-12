@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 <style>
+.page__title {
+  text-transform: uppercase;
+}
 .archive a.patent-link,
 .archive a.patent-link:visited,
 .archive a.patent-link:hover,

@@ -5,6 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+.page__title {
+  text-transform: uppercase;
+}
+</style>
+
 <script>
 function showhide(id) {
   var e = document.getElementById(id);

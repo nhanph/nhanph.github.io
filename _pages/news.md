@@ -6,6 +6,12 @@ redirect_from:
   - /wordpress/news/
 ---
 
+<style>
+.page__title {
+  text-transform: uppercase;
+}
+</style>
+
 ## 2026-04-09
 
 Patent <span style="color:#08306B">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks</span> has been filed. This is a joint work with Long Vu, Daniel Snoddy, Tanvi Kaple, Michael Glass, Dharmashankar Subramanian, A. W. Hagleitner.

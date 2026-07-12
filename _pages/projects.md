@@ -5,6 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
+<style>
+.page__title {
+  text-transform: uppercase;
+}
+</style>
+
 ## NL2Insights: Enterprise Text-to-SQL at Scale
 
 **Overview**: NL2Insights is a fully automated pipeline for converting natural language to SQL queries, powering flagship IBM products and transforming how enterprises interact with their data.
