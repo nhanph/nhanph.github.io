@@ -61,6 +61,7 @@ redirect_from:
   padding: 11px 0;
   border-bottom: 1px solid rgba(8, 48, 107, 0.08);
   font-size: 0.95rem;
+  color: #536878;
 }
 .news-list li:last-child {
   border-bottom: none;
