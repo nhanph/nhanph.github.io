@@ -27,7 +27,7 @@ strong {
 
 .masthead__title a {
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 2.2rem;
+  font-size: 3.4rem;
   letter-spacing: 0.06em;
   color: #08306B;
 }
@@ -41,19 +41,22 @@ strong {
 .greedy-nav {
   min-width: 0;
   background: transparent;
+  width: auto;
 }
 
 .greedy-nav .visible-links {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  width: auto;
+  margin: 0 auto;
 }
 
 .greedy-nav a,
 .greedy-nav .visible-links a,
 .greedy-nav .hidden-links a {
   font-family: 'Jost', sans-serif;
-  font-size: 0.95rem;
+  font-size: 0.75rem;
   font-weight: 500;
   letter-spacing: 0.05em;
   color: #08306B;
