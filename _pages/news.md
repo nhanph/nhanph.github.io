@@ -136,49 +136,49 @@ redirect_from:
 
 <ul class="news-list" id="news-list">
 
-<li data-filter="patent"><span class="news-date">Apr 2026</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks</span> patent filed. Joint work with Long Vu, Daniel Snoddy, Tanvi Kaple, Michael Glass, Dharmashankar Subramanian, A. W. Hagleitner.</span></li>
+<li data-filter="patent"><span class="news-date">Apr 2026</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks</span> patent filed. L. H. Vu, D. Snoddy, T. R. Kaple, T. R. Dinger, <strong>N. H. Pham</strong>, M. R. Glass, D. Subramanian, A. W. Hagleitner.</span></li>
 
-<li data-filter="patent"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">System and Method for Combining Data Selection and Reward Function for Tuning LLMs using Reinforcement Learning</span> patent granted. Joint work with Long Vu, Shankar Subramanian, and Todd Mummert from IBM Research.</span></li>
+<li data-filter="patent"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">System and Method for Combining Data Selection and Reward Function for Tuning LLMs using Reinforcement Learning</span> patent granted. L. Vu, <strong>N. H. Pham</strong>, D. Subramanian, T. Mummert.</span></li>
 
 <li data-filter="award"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-award">Award</span> Received the IBM Outstanding Technical Achievement Award for NL2Insights Impacting Products and Clients.</span></li>
 
 <li data-filter="award"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-milestone">Milestone</span> Multilingual Text2SQL capabilities are now available across all IBM Cloud and AWS production regions for IBM watsonx.data intelligence SaaS, supporting English and Japanese with more languages coming.</span></li>
 
-<li data-filter="patent"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Site-wide optimization for mixed regression models and mixed control variables</span> patent granted. Joint work with Dzung Phan and Lam Nguyen from IBM Research.</span></li>
+<li data-filter="patent"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Site-wide optimization for mixed regression models and mixed control variables</span> patent granted. D. T. Phan, <strong>N. H. Pham</strong>, L. M. Nguyen.</span></li>
 
 <li data-filter="award"><span class="news-date">Dec 2025</span><span><span class="news-tag tag-award">Award</span> Received IBM Growth Award for advancing Text2SQL service within watsonx.data intelligence.</span></li>
 
 <li data-filter="award"><span class="news-date">Dec 2025</span><span><span class="news-tag tag-award">Award</span> NL2Insights achieved Product and Client-0 Adoption &amp; Impact recognition in IBM Research Accomplishments 2025 (A-level), powering watsonx.data, BI Assistant, and Process Mining with 200,000+ SQL queries across 1,000+ databases.</span></li>
 
-<li data-filter="patent"><span class="news-date">Aug 2025</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Generating structured query language queries from natural language inputs with schema enrichment</span> patent filed. Joint work with Mustafa Eyceoz, Gaetano Rossiello, Michael Glass, Nandana Mihindukulasooriya, Alfio Gliozzo, Long Vu, Dharmashankar Subramanian.</span></li>
+<li data-filter="patent"><span class="news-date">Aug 2025</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Generating structured query language queries from natural language inputs with schema enrichment</span> patent filed. M. Eyceoz, G. Rossiello, A. M. Gliozzo, M. R. Glass, N. Mihindukulasooriya, <strong>N. H. Pham</strong>, L. H. Vu, D. Subramanian, F. M. Chowdhury.</span></li>
 
 <li data-filter="award"><span class="news-date">May 2025</span><span><span class="news-tag tag-award">Award</span> Received the IBM Outstanding Technical Achievement Award for achieving first place on the BIRD Leaderboard with IBM Granite Text-to-SQL models.</span></li>
 
 <li data-filter="publication"><span class="news-date">May 2025</span><span><span class="news-tag tag-conference">Conference</span> Our paper <span style="color:#08306B">The Consistency Hypothesis in Uncertainty Quantification for Large Language Models</span> accepted at the Forty-First Conference on Uncertainty in Artificial Intelligence (UAI 2025). Joint work with Q. Xiao, D. Bhattacharjya, B. Ganesan, R. Marinescu, K. Mirylenka, M. Glass, and J. Lee.</span></li>
 
-<li data-filter="patent"><span class="news-date">Mar 2025</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Database Querying Using Natural Language Processing</span> patent filed. Joint work with Oktie Hassanzadeh, Dharmashankar Subramanian, Lisa Amini, Gaetano Rossiello, M. Faisal Chowdhury, Long Vu, Tanvi Kaple, Michael Glass.</span></li>
+<li data-filter="patent"><span class="news-date">Mar 2025</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Database Querying Using Natural Language Processing</span> patent filed. T. R. Dinger, A. M. Gliozzo, <strong>N. H. Pham</strong>, O. Hassanzadeh, D. Subramanian, L. Amini, G. Rossiello, M. F. M. Chowdhury, L. Vu, T. Kaple, M. Glass.</span></li>
 
 <li data-filter="award"><span class="news-date">Dec 2024</span><span><span class="news-tag tag-award">Award</span> IBM Granite fine-tuned Text-to-SQL models swept top spots in the BIRD Leaderboard in IBM Research Accomplishments 2024 (A-level) &mdash; Granite-20B and Granite-34B took first place in both tracks, outperforming GPT-4 and GPT-4o. Featured at THINK'24 and deployed on BAM and watsonx.ai.</span></li>
 
-<li data-filter="patent"><span class="news-date">Aug 2024</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Fine-tuned generative model</span> patent filed. Joint work with Elita Lobo, Long Vu, Todd Mummert, Dharmashankar Subramanian.</span></li>
+<li data-filter="patent"><span class="news-date">Aug 2024</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Fine-tuned generative model</span> patent filed. E. Lobo, <strong>N. H. Pham</strong>, L. Vu, T. Mummert, and D. Subramanian.</span></li>
 
 <li data-filter="newrole"><span class="news-date">Apr 2024</span><span><span class="news-tag tag-newrole">New Role</span> Promoted to Staff Research Scientist at <a href="https://research.ibm.com/" target="_blank">IBM Research</a>, Thomas J. Watson Research Center.</span></li>
 
-<li data-filter="patent"><span class="news-date">Jan 2024</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Combining data selection and reward functions for tuning large language models using reinforcement learning</span> patent filed. Joint work with Long Vu, Dharmashankar Subramanian, Todd Mummert.</span></li>
+<li data-filter="patent"><span class="news-date">Jan 2024</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Combining data selection and reward functions for tuning large language models using reinforcement learning</span> patent filed. L. Vu, <strong>N. H. Pham</strong>, D. Subramanian, T. Mummert.</span></li>
 
 <li data-filter="publication"><span class="news-date">Sep 2023</span><span><span class="news-tag tag-conference">Conference</span> Our paper <span style="color:#08306B">Evaluating Robustness of Cooperative MARL: A Model-based Approach</span> accepted at the 2023 IEEE International Conference on Data Mining (ICDM). Joint work with Dr. Lam M. Nguyen, Dr. Jie Chen, Dr. Hoang Thanh Lam, Dr. Subhro Das, and Dr. Tsui-Wei Weng. <a href="https://ieeexplore.ieee.org/document/10415752" target="_blank">[Paper]</a></span></li>
 
-<li data-filter="patent"><span class="news-date">Jun 2023</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Generative modeling and representational learning from multi-sequence alignment and phylogenetic tree data</span> patent filed. Joint work with Thanh Lam Hoang, Marcos M. Galindo, Gabriele Picco, Mykhaylo Zayats, Lam M. Nguyen, Marco Sbodio, Dzung T. Phan, Vanessa Garcia.</span></li>
+<li data-filter="patent"><span class="news-date">Jun 2023</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Generative modeling and representational learning from multi-sequence alignment and phylogenetic tree data</span> patent filed. T. L. Hoang, M. M. Galindo, G. Picco, M. Zayats, <strong>N. H. Pham</strong>, L. M. Nguyen, M. L. Sbodio, D. T. Phan, and V. L. Garcia.</span></li>
 
-<li data-filter="patent"><span class="news-date">Jun 2023</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">A novel meta-hyperparameter tuning system for RL using sequence model</span> patent filed. Joint work with Elita Lobo, Dharmashankar Subramanian.</span></li>
+<li data-filter="patent"><span class="news-date">Jun 2023</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">A novel meta-hyperparameter tuning system for RL using sequence model</span> patent filed. E. Lobo, <strong>N. H. Pham</strong>, D. Subramanian, and T. Pedapati.</span></li>
 
-<li data-filter="patent"><span class="news-date">Jun 2023</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Reinforcement machine learning with multi-level agent search and hyperparameter optimization</span> patent filed. Joint work with Long Vu, Peter Kirchner, Radu Marinescu, Dharmashankar Subramanian.</span></li>
+<li data-filter="patent"><span class="news-date">Jun 2023</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Reinforcement machine learning with multi-level agent search and hyperparameter optimization</span> patent filed. L. Vu, P. Kirchner, R. Marinescu, D. Subramanian, and <strong>N. H. Pham</strong>.</span></li>
 
 <li data-filter="talk"><span class="news-date">Feb 2023</span><span><span class="news-tag tag-other">Other</span> Co-organizing a tutorial/lab forum <a href="https://aaai-23.aaai.org/aaai23tutorials/#lsha2" target="_blank">LSHA2: Automated AI for Decision Optimization with Reinforcement Learning</a> at AAAI 2023.</span></li>
 
 <li data-filter="talk"><span class="news-date">Feb 2023</span><span><span class="news-tag tag-other">Other</span> Session Chair of <strong>ML: Optimization 1</strong> at <a href="https://aaai-23.aaai.org/" target="_blank">AAAI 2023</a> on Feb 10, 2023.</span></li>
 
-<li data-filter="patent"><span class="news-date">Sep 2022</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Adversarial Attacks for Improving Cooperative Multi-Agent Reinforcement Learning Systems</span> patent filed. Joint work with Lam M. Nguyen, Jie Chen, Thanh-Lam Hoang, Subhro Das.</span></li>
+<li data-filter="patent"><span class="news-date">Sep 2022</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Adversarial Attacks for Improving Cooperative Multi-Agent Reinforcement Learning Systems</span> patent filed. <strong>N. H. Pham</strong>, L. M. Nguyen, J. Chen, T. L. Hoang, S. Das.</span></li>
 
 <li data-filter="newrole"><span class="news-date">Jan 2022</span><span><span class="news-tag tag-newrole">New Role</span> Started new role as Research Scientist at <a href="https://research.ibm.com/" target="_blank">IBM</a> Thomas J. Watson Research Center, Yorktown Heights, NY.</span></li>
 
@@ -190,7 +190,7 @@ redirect_from:
 
 <li data-filter="publication"><span class="news-date">Jun 2021</span><span><span class="news-tag tag-preprint">Preprint</span> Completed the manuscript <span style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</span> with Lam Nguyen, Dzung Phan (IBM Research) and Quoc Tran-Dinh (UNC Chapel Hill). <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a></span></li>
 
-<li data-filter="patent"><span class="news-date">May 2021</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables</span> patent filed. Joint work with Dzung T. Phan, Lam M. Nguyen.</span></li>
+<li data-filter="patent"><span class="news-date">May 2021</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables</span> patent filed. D. T. Phan, <strong>N. H. Pham</strong>, L. M. Nguyen.</span></li>
 
 <li data-filter="newrole"><span class="news-date">May 2021</span><span><span class="news-tag tag-newrole">New Role</span> Joined <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology</a> as Machine Learning Intern.</span></li>
 
