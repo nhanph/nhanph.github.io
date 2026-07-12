@@ -10,10 +10,55 @@ strong {
   color: #08519C;
 }
 
+.masthead {
+  border-bottom-style: dashed;
+}
+
+.masthead__inner-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.masthead__title {
+  padding: 0.4em 0 0.5em;
+  text-align: center;
+}
+
+.masthead__title a {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 2.2rem;
+  letter-spacing: 0.06em;
+  color: #08306B;
+}
+
+.masthead__menu {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.greedy-nav {
+  min-width: 0;
+  background: transparent;
+}
+
+.greedy-nav .visible-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .greedy-nav a,
 .greedy-nav .visible-links a,
 .greedy-nav .hidden-links a {
+  font-family: 'Jost', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
   color: #08306B;
-  font-weight: bold;
-  text-transform: uppercase;
+}
+
+.greedy-nav .visible-links li {
+  padding: 0 0.9em;
 }
