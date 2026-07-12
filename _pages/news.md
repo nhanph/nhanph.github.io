@@ -68,7 +68,7 @@ redirect_from:
 .news-date {
   flex-shrink: 0;
   width: 90px;
-  color: #D3D3D3;
+  color: #536878;
   font-weight: 600;
   font-size: 0.85rem;
   padding-top: 1px;
