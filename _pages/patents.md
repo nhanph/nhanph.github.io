@@ -5,6 +5,16 @@ permalink: /patents/
 author_profile: true
 ---
 
+<style>
+.patent-link {
+  color: blue;
+  text-decoration: none;
+}
+.patent-link:visited {
+  color: #6699ff;
+}
+</style>
+
 1. L. H. Vu, D. Snoddy, T. R. Kaple, T. R. Dinger, **N. H. Pham**, M. R. Glass, D. Subramanian, A. W. Hagleitner. <span style="color:blue">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks.</span> Filed on April 9, 2026.
 
 2. M. Eyceoz, G. Rossiello, A. M. Gliozzo, M. R. Glass, N. Mihindukulasooriya, **N. H. Pham**, L. H. Vu, D. Subramanian, F. M. Chowdhury. <span style="color:blue">Generating structured query language queries from natural language inputs with schema enrichment.</span> Filed on Aug. 19, 2025.
@@ -23,4 +33,4 @@ author_profile: true
 
 9. **N. H. Pham**, L. M. Nguyen, J. Chen, T. L. Hoang, S. Das. <span style="color:blue">A systematic approach for evaluating robustness of cooperative multi-agent reinforcement learning.</span> Filed on Sep. 28, 2022.
 
-10. D. T. Phan, **N. H. Pham**, L. M. Nguyen. <a href="https://patents.google.com/patent/US12518174/en" target="_blank"><span style="color:blue">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables.</span></a> Filed on May 25, 2021. Granted on Jan. 6, 2026.
+10. D. T. Phan, **N. H. Pham**, L. M. Nguyen. <a class="patent-link" href="https://patents.google.com/patent/US12518174/en" target="_blank">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables.</a> Filed on May 25, 2021. Granted on Jan. 6, 2026.
