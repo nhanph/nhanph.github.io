@@ -8,11 +8,11 @@ redirect_from:
 
 ## 2026-04-09
 
-Patent <span style="color:#4292C6">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks</span> has been filed. This is a joint work with Long Vu, Daniel Snoddy, Tanvi Kaple, Michael Glass, Dharmashankar Subramanian, A. W. Hagleitner.
+Patent <span style="color:#08306B">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks</span> has been filed. This is a joint work with Long Vu, Daniel Snoddy, Tanvi Kaple, Michael Glass, Dharmashankar Subramanian, A. W. Hagleitner.
 
 ## 2026-02
 
-**Patent Granted**: our patent <span style="color:#4292C6">System and Method for Combining Data Selection and Reward Function for Tuning LLMs using Reinforcement Learning</span>, joint work with Long Vu, Shankar Subramanian, and Todd Mummert from IBM Research, has been granted.
+**Patent Granted**: our patent <span style="color:#08306B">System and Method for Combining Data Selection and Reward Function for Tuning LLMs using Reinforcement Learning</span>, joint work with Long Vu, Shankar Subramanian, and Todd Mummert from IBM Research, has been granted.
 
 **IBM Outstanding Technical Achievement Award 2026**: Received the IBM Outstanding Technical Achievement Award for NL2Insights Impacting Products and Clients.
 
@@ -20,7 +20,7 @@ Patent <span style="color:#4292C6">Generating Dynamic Few-Shot Examples for Ente
 
 ## 2026-01
 
-**Patent Granted**: our patent <span style="color:#4292C6">Site-wide optimization for mixed regression models and mixed control variables</span>, joint work with Dzung Phan and Lam Nguyen from IBM Research, has been granted.
+**Patent Granted**: our patent <span style="color:#08306B">Site-wide optimization for mixed regression models and mixed control variables</span>, joint work with Dzung Phan and Lam Nguyen from IBM Research, has been granted.
 
 ## 2025-12
 
@@ -31,17 +31,17 @@ Patent <span style="color:#4292C6">Generating Dynamic Few-Shot Examples for Ente
 
 ## 2025-08-19
 
-Patent <span style="color:#4292C6">Generating structured query language queries from natural language inputs with schema enrichment</span> has been filed. This is a joint work with Mustafa Eyceoz, Gaetano Rossiello, Michael Glass, Nandana Mihindukulasooriya, Alfio Gliozzo, Long Vu, Dharmashankar Subramanian.
+Patent <span style="color:#08306B">Generating structured query language queries from natural language inputs with schema enrichment</span> has been filed. This is a joint work with Mustafa Eyceoz, Gaetano Rossiello, Michael Glass, Nandana Mihindukulasooriya, Alfio Gliozzo, Long Vu, Dharmashankar Subramanian.
 
 ## 2025-05
 
 **IBM Outstanding Technical Achievement Award**: Received the IBM Outstanding Technical Achievement Award for achieving first place on the BIRD Leaderboard with IBM Granite Text-to-SQL models.
 
-**Paper Accepted at UAI 2025**: Our paper <span style="color:#4292C6">The Consistency Hypothesis in Uncertainty Quantification for Large Language Models</span> has been accepted at the Forty-First Conference on Uncertainty in Artificial Intelligence (UAI 2025). Joint work with Q. Xiao, D. Bhattacharjya, B. Ganesan, R. Marinescu, K. Mirylenka, M. Glass, and J. Lee.
+**Paper Accepted at UAI 2025**: Our paper <span style="color:#08306B">The Consistency Hypothesis in Uncertainty Quantification for Large Language Models</span> has been accepted at the Forty-First Conference on Uncertainty in Artificial Intelligence (UAI 2025). Joint work with Q. Xiao, D. Bhattacharjya, B. Ganesan, R. Marinescu, K. Mirylenka, M. Glass, and J. Lee.
 
 ## 2025-03-26
 
-Patent <span style="color:#4292C6">Database Querying Using Natural Language Processing</span> has been filed. This is a joint work with Oktie Hassanzadeh, Dharmashankar Subramanian, Lisa Amini, Gaetano Rossiello, M. Faisal Chowdhury, Long Vu, Tanvi Kaple, Michael Glass.
+Patent <span style="color:#08306B">Database Querying Using Natural Language Processing</span> has been filed. This is a joint work with Oktie Hassanzadeh, Dharmashankar Subramanian, Lisa Amini, Gaetano Rossiello, M. Faisal Chowdhury, Long Vu, Tanvi Kaple, Michael Glass.
 
 ## 2024-12
 
@@ -49,7 +49,7 @@ Patent <span style="color:#4292C6">Database Querying Using Natural Language Proc
 
 ## 2024-08-22
 
-Patent <span style="color:#4292C6">Fine-tuned generative model</span> has been filed. This is a joint work with Elita Lobo, Long Vu, Todd Mummert, Dharmashankar Subramanian.
+Patent <span style="color:#08306B">Fine-tuned generative model</span> has been filed. This is a joint work with Elita Lobo, Long Vu, Todd Mummert, Dharmashankar Subramanian.
 
 ## 2024-04
 
@@ -57,23 +57,23 @@ Patent <span style="color:#4292C6">Fine-tuned generative model</span> has been f
 
 ## 2024-01-11
 
-Patent <span style="color:#4292C6">Combining data selection and reward functions for tuning large language models using reinforcement learning</span> has been filed. This is a joint work with Long Vu, Dharmashankar Subramanian, Todd Mummert.
+Patent <span style="color:#08306B">Combining data selection and reward functions for tuning large language models using reinforcement learning</span> has been filed. This is a joint work with Long Vu, Dharmashankar Subramanian, Todd Mummert.
 
 ## 2023-09
 
-**Paper Accepted at ICDM 2023**: Our paper <span style="color:#4292C6">Evaluating Robustness of Cooperative MARL: A Model-based Approach</span> has been accepted at the 2023 IEEE International Conference on Data Mining (ICDM). This is joint work with Dr. Lam M. Nguyen, Dr. Jie Chen, Dr. Hoang Thanh Lam, Dr. Subhro Das, and Dr. Tsui-Wei Weng. <a href="https://ieeexplore.ieee.org/document/10415752" target="_blank">[Paper]</a>
+**Paper Accepted at ICDM 2023**: Our paper <span style="color:#08306B">Evaluating Robustness of Cooperative MARL: A Model-based Approach</span> has been accepted at the 2023 IEEE International Conference on Data Mining (ICDM). This is joint work with Dr. Lam M. Nguyen, Dr. Jie Chen, Dr. Hoang Thanh Lam, Dr. Subhro Das, and Dr. Tsui-Wei Weng. <a href="https://ieeexplore.ieee.org/document/10415752" target="_blank">[Paper]</a>
 
 ## 2023-06-30
 
-Patent <span style="color:#4292C6">Generative modeling and representational learning from multi-sequence alignment and phylogenetic tree data</span> has been filed. This is a joint work with Thanh Lam Hoang, Marcos M. Galindo, Gabriele PICCO, Mykhaylo Zayats, Lam M. Nguyen, Marco Sbodio, Dzung T. Phan, Vanessa Garcia.
+Patent <span style="color:#08306B">Generative modeling and representational learning from multi-sequence alignment and phylogenetic tree data</span> has been filed. This is a joint work with Thanh Lam Hoang, Marcos M. Galindo, Gabriele PICCO, Mykhaylo Zayats, Lam M. Nguyen, Marco Sbodio, Dzung T. Phan, Vanessa Garcia.
 
 ## 2023-06-26
 
-Patent <span style="color:#4292C6">A novel meta-hyperparameter tuning system for RL using sequence model</span> has been filed. This is a joint work with Elita Lobo, Dharmashankar Subramanian.
+Patent <span style="color:#08306B">A novel meta-hyperparameter tuning system for RL using sequence model</span> has been filed. This is a joint work with Elita Lobo, Dharmashankar Subramanian.
 
 ## 2023-06-23
 
-Patent <span style="color:#4292C6">Reinforcement machine learning with multi-level agent search and hyperparameter optimization</span> has been filed. This is a joint work with Long Vu, Peter Kirchner, Radu Marinescu, Dharmashankar Subramanian.
+Patent <span style="color:#08306B">Reinforcement machine learning with multi-level agent search and hyperparameter optimization</span> has been filed. This is a joint work with Long Vu, Peter Kirchner, Radu Marinescu, Dharmashankar Subramanian.
 
 ## 2023-02-06
 
@@ -83,7 +83,7 @@ I will also be the Session Chair of **ML: Optimization 1** at AAAI 2023 on Feb 1
  
 ## 2022-09-23
 
-Patent <span style="color:#4292C6">Adversarial Attacks for Improving Cooperative Multi-Agent Reinforcement Learning Systems</span> has been filed. This is a joint work with Lam M. Nguyen, Jie Chen, Thanh-Lam Hoang, Subhro Das.
+Patent <span style="color:#08306B">Adversarial Attacks for Improving Cooperative Multi-Agent Reinforcement Learning Systems</span> has been filed. This is a joint work with Lam M. Nguyen, Jie Chen, Thanh-Lam Hoang, Subhro Das.
 
 ## 2021-12-28
 
@@ -91,7 +91,7 @@ From Jan 4th, I will be a Research Scientist at the IBM Thomas J. Watson Researc
 
 ## 2021-09-30
 
-Our manuscript <span style="color:#4292C6">FedDR -- Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization.</span> have been accepted at the 35th Conference on Neural Information Processing Systems. This is a joint work with **Lam Nguyen**, **Dzung Phan** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill). <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a>
+Our manuscript <span style="color:#08306B">FedDR -- Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization.</span> have been accepted at the 35th Conference on Neural Information Processing Systems. This is a joint work with **Lam Nguyen**, **Dzung Phan** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill). <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a>
 
 ## 2021-08-08
 
@@ -99,11 +99,11 @@ I have completed my summer internship as a machine learning intern with Blue Riv
 
 ## 2021-06-8
 
-Together with **Lam Nguyen**, **Dzung Phan** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill), we have completed the manuscript <span style="color:#4292C6">FedDR -- Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization.</span> <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a>
+Together with **Lam Nguyen**, **Dzung Phan** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill), we have completed the manuscript <span style="color:#08306B">FedDR -- Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization.</span> <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank">[Preprint]</a>
 
 ## 2021-05-21
 
-Patent <span style="color:#4292C6">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables</span> has been filed. This is a joint work with Dzung T. Phan, Lam M. Nguyen.
+Patent <span style="color:#08306B">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables</span> has been filed. This is a joint work with Dzung T. Phan, Lam M. Nguyen.
 
 ## 2021-03-15
 
@@ -111,16 +111,16 @@ I will be a Machine Learning Intern at <a href="https://www.bluerivertechnology.
 
 ## 2021-03-12
 
-Together with **Lam Nguyen**, **Dzung Phan** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill), we have completed the manuscript <span style="color:#4292C6">Federated Learning with Randomized Douglas-Rachford Splitting Methods.</span> <a href="https://arxiv.org/pdf/2103.03452v1.pdf" target="_blank">[Preprint]</a>
+Together with **Lam Nguyen**, **Dzung Phan** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill), we have completed the manuscript <span style="color:#08306B">Federated Learning with Randomized Douglas-Rachford Splitting Methods.</span> <a href="https://arxiv.org/pdf/2103.03452v1.pdf" target="_blank">[Preprint]</a>
 
 ## 2021-01-24
 
-Our paper <span style="color:#4292C6">Regression Optimization for System-level Production Control</span> - joint work with **Dzung Phan** (IBM Research), **Lam Nguyen** (IBM Research), **Pavankumar Murali** (IBM Research), **Hongsheng Liu** (UNC Chapel Hill), and **Jayant Kalagnanam** (IBM Research)- has been accepted to the **2021 American Control Conference (ACC)**. <a href="https://ieeexplore.ieee.org/document/9482638" target="_blank">[Full paper]</a>
+Our paper <span style="color:#08306B">Regression Optimization for System-level Production Control</span> - joint work with **Dzung Phan** (IBM Research), **Lam Nguyen** (IBM Research), **Pavankumar Murali** (IBM Research), **Hongsheng Liu** (UNC Chapel Hill), and **Jayant Kalagnanam** (IBM Research)- has been accepted to the **2021 American Control Conference (ACC)**. <a href="https://ieeexplore.ieee.org/document/9482638" target="_blank">[Full paper]</a>
 
 
 ## 2020-10-12
 
-Our paper <span style="color:#4292C6">A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization</span> - a joint work with **Quoc Tran-Dinh** (UNC Chapel Hill), **Lam Nguyen** and **Dzung Phan** (IBM Research) - has been accepted for publication at **Mathematical Programming**.  <a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank">[Full paper]</a>
+Our paper <span style="color:#08306B">A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization</span> - a joint work with **Quoc Tran-Dinh** (UNC Chapel Hill), **Lam Nguyen** and **Dzung Phan** (IBM Research) - has been accepted for publication at **Mathematical Programming**.  <a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank">[Full paper]</a>
 
 ## 2020-08-14
 
@@ -128,29 +128,29 @@ I have completed my summer internship with IBM Research, Thomas J. Watson Resear
 
 ## 2020-06-01
 
-Our paper <span style="color:#4292C6">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</span> - a joint work with **Lam Nguyen** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill)- has been accepted for publication at the **International Conference on Machine Learning (ICML)**. <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank">[Full paper]</a>
+Our paper <span style="color:#08306B">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</span> - a joint work with **Lam Nguyen** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill)- has been accepted for publication at the **International Conference on Machine Learning (ICML)**. <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank">[Full paper]</a>
 
 ## 2020-05-03
 
-Our paper <span style="color:#4292C6">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span> - a joint work with **Lam Nguyen** (IBM Research), **Dzung Phan** (IBM Research), and **Quoc Tran-Dinh** (UNC Chapel Hill) - has been accepted for publication at the **Journal of Machine Learning Research (JMLR)**. <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank">[Full paper]</a>
+Our paper <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span> - a joint work with **Lam Nguyen** (IBM Research), **Dzung Phan** (IBM Research), and **Quoc Tran-Dinh** (UNC Chapel Hill) - has been accepted for publication at the **Journal of Machine Learning Research (JMLR)**. <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank">[Full paper]</a>
 
 ## 2020-02-09
 
-Together with **Lam Nguyen** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill), we have completed the manuscript <span style="color:#4292C6">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</span>. <a href="https://arxiv.org/pdf/2002.07290.pdf" target="_blank">[Preprint]</a>
+Together with **Lam Nguyen** (IBM Research) and **Quoc Tran-Dinh** (UNC Chapel Hill), we have completed the manuscript <span style="color:#08306B">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</span>. <a href="https://arxiv.org/pdf/2002.07290.pdf" target="_blank">[Preprint]</a>
 
 Another manuscript is out "Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning", joint work with **Thinh Doan** (GA Tech), **Lam Nguyen** (IBM Research), **Justin Romberg** (GA Tech). <a href="https://arxiv.org/pdf/2103.03452v1.pdf" target="_blank">[Preprint]</a>
 
 ## 2020-01-23
 
-Our manuscript <span style="color:#4292C6">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span> has been accepted for publication at **Journal of Machine Learning Research (JMLR)** with minor revision. <a href="https://arxiv.org/pdf/1902.05679.pdf" target="_blank">[Preprint]</a>
+Our manuscript <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span> has been accepted for publication at **Journal of Machine Learning Research (JMLR)** with minor revision. <a href="https://arxiv.org/pdf/1902.05679.pdf" target="_blank">[Preprint]</a>
 
 ## 2020-01-07
 
-Our paper <span style="color:#4292C6">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning</span> has been accepted for AISTATS 2020. This is a joint work with **Lam Nguyen** (IBM Research), **Dzung Phan** (IBM Research), **Phuong-Ha Nguyen** (UConn), **Marten van Dijk** (UConn), and **Quoc Tran-Dinh** (UNC Chapel Hill). <a href="http://proceedings.mlr.press/v108/pham20a.html" target="_blank">[Full paper]</a>
+Our paper <span style="color:#08306B">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning</span> has been accepted for AISTATS 2020. This is a joint work with **Lam Nguyen** (IBM Research), **Dzung Phan** (IBM Research), **Phuong-Ha Nguyen** (UConn), **Marten van Dijk** (UConn), and **Quoc Tran-Dinh** (UNC Chapel Hill). <a href="http://proceedings.mlr.press/v108/pham20a.html" target="_blank">[Full paper]</a>
 
 ## 2019-10-19
 
-This year I will travel to Seattle for the 2019 INFORMS Annual Meeting to present <span style="color:#4292C6">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span>, a joint work with **Lam Nguyen** (IBM Research), **Dzung Phan** (IBM Research), and **Quoc Tran-Dinh** (UNC Chapel Hill).
+This year I will travel to Seattle for the 2019 INFORMS Annual Meeting to present <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span>, a joint work with **Lam Nguyen** (IBM Research), **Dzung Phan** (IBM Research), and **Quoc Tran-Dinh** (UNC Chapel Hill).
 
 ## 2019-08-15
 
@@ -158,8 +158,8 @@ I will be working with  Quoc Tran-Dinh as a **SAMSI (The Statistical and Applied
 
 ## 2019-07-08
 
-Together with **Lam Nguyen** (IBM Research), **Dzung Phan** (IBM Research), and **Quoc Tran-Dinh** (UNC Chapel Hill), we have completed the manuscript <span style="color:#4292C6">A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization</span>. Checkout my <a href="https://nhanph.github.io/research/" target="_blank">research page</a> for more details.
+Together with **Lam Nguyen** (IBM Research), **Dzung Phan** (IBM Research), and **Quoc Tran-Dinh** (UNC Chapel Hill), we have completed the manuscript <span style="color:#08306B">A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization</span>. Checkout my <a href="https://nhanph.github.io/research/" target="_blank">research page</a> for more details.
 
 ## 2019-02-15
 
-Together with **Lam Nguyen** (IBM Research), **Dzung Phan** (IBM Research), and **Quoc Tran-Dinh** (UNC Chapel Hill), we have completed the manuscript <span style="color:#4292C6">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span>. Checkout my <a href="https://nhanph.github.io/research/" target="_blank">research page</a> for more details.
+Together with **Lam Nguyen** (IBM Research), **Dzung Phan** (IBM Research), and **Quoc Tran-Dinh** (UNC Chapel Hill), we have completed the manuscript <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span>. Checkout my <a href="https://nhanph.github.io/research/" target="_blank">research page</a> for more details.
