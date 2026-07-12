@@ -145,9 +145,9 @@ redirect_from:
 
 <ul class="news-list" id="news-list">
 
-<li data-filter="talk"><span class="news-date">Jul 2026</span><span><span class="news-tag tag-workshop">Workshop</span> <span style="color:#08306B">Mixed-Policy GRPO for Text-to-SQL with Off-Policy Data Generation.</span> <em>M. Sterbentz, M. Glass, <strong>N. H. Pham</strong>, D. Subramanian, K. J. Hammond.</em> Workshop on Structured Understanding, Retrieval, and Generation in the LLM Era (2026) - SURGeLLM 2026.</span></li>
+<li data-filter="talk"><span class="news-date">Jul 2026</span><span><span class="news-tag tag-workshop">Workshop</span> <span style="color:#08306B">Mixed-Policy GRPO for Text-to-SQL with Off-Policy Data Generation.</span> <em>accepted for Workshop on Structured Understanding, Retrieval, and Generation in the LLM Era (<strong>SURGeLLM 2026</strong>).</em><br>M. Sterbentz, M. Glass, <strong>N. H. Pham</strong>, D. Subramanian, K. J. Hammond.</span></li>
 
-<li data-filter="talk"><span class="news-date">Jun 2026</span><span><span class="news-tag tag-demo">Demo</span> <a href="https://research.ibm.com/publications/text-to-sql-evaluation-toolkit" target="_blank" style="color:#08306B">Text-to-SQL Evaluation Toolkit</a> accepted at 52nd International Conference on Very Large Data Bases - <a href="https://vldb.org/2026/demonstrations.html" target="_blank">VLDB 2026 Demo Track</a>. <em>Oktie Hassanzadeh (IBM Research)*; Yotam Perlitz (IBM); <strong>Nhan Pham</strong> (IBM); Tanvi Kaple (IBM); Karolina Źróbek (IBM); Long Vu (IBM); Michael Glass (IBM); Dharmashankar Subramanian (IBM); Mohammadreza Pourreza (University of Alberta); Davood Rafiei (University of Alberta)</em></span></li>
+<li data-filter="talk"><span class="news-date">Jun 2026</span><span><span class="news-tag tag-demo">Demo</span> <a href="https://research.ibm.com/publications/text-to-sql-evaluation-toolkit" target="_blank" style="color:#08306B">Text-to-SQL Evaluation Toolkit</a> <em>accepted for 52nd International Conference on Very Large Data Bases (<strong><a href="https://vldb.org/2026/demonstrations.html" target="_blank">VLDB 2026 Demo Track</a></strong>).</em><br>Oktie Hassanzadeh (IBM Research)*; Yotam Perlitz (IBM); <strong>Nhan Pham</strong> (IBM); Tanvi Kaple (IBM); Karolina Źróbek (IBM); Long Vu (IBM); Michael Glass (IBM); Dharmashankar Subramanian (IBM); Mohammadreza Pourreza (University of Alberta); Davood Rafiei (University of Alberta)</span></li>
 
 <li data-filter="patent"><span class="news-date">Apr 2026</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks</span> <em>L. H. Vu, D. Snoddy, T. R. Kaple, T. R. Dinger, <strong>N. H. Pham</strong>, M. R. Glass, D. Subramanian, A. W. Hagleitner.</em></span></li>
 
@@ -158,6 +158,8 @@ redirect_from:
 <li data-filter="award"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-milestone">Milestone</span> Multilingual Text2SQL capabilities are now available across all IBM Cloud and AWS production regions for IBM watsonx.data intelligence SaaS, supporting English and Japanese with more languages coming.</span></li>
 
 <li data-filter="patent"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-patent">Patent Granted</span> <a href="https://patents.google.com/patent/US12518174/en" target="_blank" style="color:#08306B">Site-wide optimization for mixed regression models and mixed control variables</a> <em>D. T. Phan, <strong>N. H. Pham</strong>, L. M. Nguyen.</em> Patent US12518174B2.</span></li>
+
+<li data-filter="talk"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-workshop">Workshop</span> <span style="color:#08306B">Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles</span> <em>accepted for the <strong>AAAI 2026 Workshop on Assessing and Improving Reliability of Foundation Models in the Real World</strong>.</em><br>W. Ma, D. Bhattacharjya, J. Lee, <strong>N. H. Pham</strong>, H. Kokel, Q. Ji.</span></li>
 
 <li data-filter="award"><span class="news-date">Dec 2025</span><span><span class="news-tag tag-award">Award</span> Received <strong>IBM Growth Award</strong> for advancing Text2SQL service within watsonx.data intelligence.</span></li>
 
@@ -201,7 +203,7 @@ redirect_from:
 
 <li data-filter="newrole"><span class="news-date">Dec 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Completed <strong>PhD in Operations Research</strong> in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. <a href="https://cdr.lib.unc.edu/concern/dissertations/qb98mr30t?locale=en" target="_blank">Dissertation</a></span></li>
 
-<li data-filter="publication"><span class="news-date">Sep 2021</span><span><span class="news-tag tag-conference">Conference</span> <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank" style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</a> <em>accepted for 35th Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>).</em><br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
+<li data-filter="publication"><span class="news-date">Sep 2021</span><span><span class="news-tag tag-conference">Conference</span> <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank" style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</a> <em>accepted for the 35th Conference on Neural Information Processing Systems (<strong>NeurIPS 2021</strong>).</em><br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
 
 <li data-filter="newrole"><span class="news-date">Aug 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Finished summer internship at <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology</a>. Mentored by Ben Cline, supervised by Chris Padwick.</span></li>
 
@@ -219,7 +221,7 @@ redirect_from:
 
 <li data-filter="newrole"><span class="news-date">Aug 2020</span><span><span class="news-tag tag-milestone">Milestone</span> Finished summer internship at <a href="https://research.ibm.com/" target="_blank">IBM Research</a>. Mentored by Dzung T. Phan and Lam M. Nguyen, and supervised by Roman Vaculin.</span></li>
 
-<li data-filter="publication"><span class="news-date">Jun 2020</span><span><span class="news-tag tag-conference">Conference</span> <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank" style="color:#08306B">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</a> <em>accepted for International Conference on Machine Learning (<strong>ICML</strong>).</em><br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, and L. M. Nguyen.</span></li>
+<li data-filter="publication"><span class="news-date">Jun 2020</span><span><span class="news-tag tag-conference">Conference</span> <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank" style="color:#08306B">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</a> <em>accepted for the 37th International Conference on Machine Learning (<strong>ICML 2020</strong>).</em><br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, and L. M. Nguyen.</span></li>
 
 <li data-filter="newrole"><span class="news-date">May 2020</span><span><span class="news-tag tag-newrole">New Role</span> Joined <a href="https://research.ibm.com/" target="_blank">IBM Research</a> as Research Intern.</span></li>
 
@@ -233,7 +235,7 @@ redirect_from:
 
 <li data-filter="publication"><span class="news-date">Jan 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="https://arxiv.org/pdf/1902.05679.pdf" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</a> <em>accepted for Journal of Machine Learning Research (<strong>JMLR</strong>).</em><br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.</span></li>
 
-<li data-filter="publication"><span class="news-date">Jan 2020</span><span><span class="news-tag tag-conference">Conference</span> <a href="http://proceedings.mlr.press/v108/pham20a.html" target="_blank" style="color:#08306B">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning</a> <em>accepted for <strong>AISTATS 2020</strong>.</em><br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, P. H. Nguyen, M. van Dijk, and Q. Tran-Dinh.</span></li>
+<li data-filter="publication"><span class="news-date">Jan 2020</span><span><span class="news-tag tag-conference">Conference</span> <a href="http://proceedings.mlr.press/v108/pham20a.html" target="_blank" style="color:#08306B">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning</a> <em>accepted for the 23rd International Conference on Artificial Intelligence and Statistics (<strong>AISTATS 2020</strong>).</em><br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, P. H. Nguyen, M. van Dijk, and Q. Tran-Dinh.</span></li>
 
 <li data-filter="talk"><span class="news-date">Oct 2019</span><span><span class="news-tag tag-talk">Talk</span> <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span>. Oral Presentation: 2019 INFORMS Annual Meeting.</span></li>
 
