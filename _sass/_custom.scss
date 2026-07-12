@@ -61,7 +61,8 @@ strong {
 
 .greedy-nav .visible-links {
   display: flex;
-  justify-content: flex-end;
+  width: fit-content;
+  margin-left: auto;
 }
 
 .greedy-nav .visible-links li {
