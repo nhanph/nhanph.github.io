@@ -26,6 +26,7 @@ strong {
 
 .masthead__title {
   padding: 0;
+  flex-shrink: 0;
 }
 
 .masthead__title a {
@@ -50,4 +51,17 @@ strong {
 
 .masthead__menu {
   width: auto;
+  flex-shrink: 0;
+}
+
+.greedy-nav {
+  min-width: 0;
+}
+
+.greedy-nav .visible-links {
+  display: flex;
+}
+
+.greedy-nav .visible-links li {
+  display: block;
 }
