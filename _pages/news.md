@@ -170,9 +170,11 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Mar 2025</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Database Querying Using Natural Language Processing</span> patent filed. <em>T. R. Dinger, A. M. Gliozzo, <strong>N. H. Pham</strong>, O. Hassanzadeh, D. Subramanian, L. Amini, G. Rossiello, M. F. M. Chowdhury, L. Vu, T. Kaple, M. Glass.</em></span></li>
 
-<li data-filter="award"><span class="news-date">Dec 2024</span><span><span class="news-tag tag-award">Award</span> IBM Granite fine-tuned Text-to-SQL models swept top spots in the BIRD Leaderboard in IBM Research Accomplishments 2024 (A-level) &mdash; Granite-20B and Granite-34B took first place in both tracks, outperforming GPT-4 and GPT-4o. Featured at THINK'24 and deployed on BAM and watsonx.ai.</span></li>
+<li data-filter="award"><span class="news-date">Dec 2024</span><span><span class="news-tag tag-award">Award</span> Received <strong>IBM Research Accomplishments 2024 (A-level)</strong> for IBM Granite fine-tuned Text-to-SQL models swept top spots in the BIRD Leaderboard &mdash; Granite-20B and Granite-34B took first place in both tracks, outperforming GPT-4 and GPT-4o. Featured at THINK'24 and deployed on BAM and watsonx.ai.</span></li>
 
 <li data-filter="patent"><span class="news-date">Aug 2024</span><span><span class="news-tag tag-patent">Patent</span> <span style="color:#08306B">Fine-tuned generative model</span> patent filed. <em>E. Lobo, <strong>N. H. Pham</strong>, L. Vu, T. Mummert, and D. Subramanian.</em></span></li>
+
+<li data-filter="award"><span class="news-date">Jul 2024</span><span><span class="news-tag tag-milestone">Milestone</span> <a href="https://research.ibm.com/blog/granite-LLM-text-to-SQL?mhsrc=ibmsearch_a&amp;mhq=%20IBM%20Granite%20fine-tuned%20Text-to-SQL" target="_blank">IBM&rsquo;s text-to-SQL generator</a> takes top place on a benchmark for handling complex database queries.</span></li>
 
 <li data-filter="newrole"><span class="news-date">Apr 2024</span><span><span class="news-tag tag-newrole">New Role</span> Promoted to <strong>Staff Research Scientist</strong> at <a href="https://research.ibm.com/" target="_blank">IBM</a> Thomas J. Watson Research Center.</span></li>
 
