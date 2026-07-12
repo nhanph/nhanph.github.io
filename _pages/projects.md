@@ -63,6 +63,8 @@ author_profile: true
 <div class="project-panel active" data-tab="nl2insights" markdown="1">
 
 ## NL2Insights: Enterprise Text-to-SQL at Scale
+<span style="color:#536878; font-size:0.9rem;">2025 – present</span>
+{: .project-subtitle}
 
 **Overview**: NL2Insights is a fully automated pipeline for converting natural language to SQL queries, powering flagship IBM products and transforming how enterprises interact with their data.
 
@@ -90,6 +92,8 @@ author_profile: true
 <div class="project-panel" data-tab="textsql" markdown="1">
 
 ## BIRD Leaderboard: #1 in Text-to-SQL Benchmark
+<span style="color:#536878; font-size:0.9rem;">2023 – 2025</span>
+{: .project-subtitle}
 
 **Achievement**: Led IBM Granite Text-to-SQL models to **first place in both tracks** of the prestigious BIRD (BIg Bench for LaRge-scale Database Grounded Text-to-SQL Evaluation) leaderboard.
 
@@ -138,7 +142,7 @@ author_profile: true
 <div class="project-panel" data-tab="autodo" markdown="1">
 
 ## AutoDO: Automated Decision Optimization
-<span style="color:#536878; font-size:0.9rem;">Jan. 2022 – Mar. 2023</span>
+<span style="color:#536878; font-size:0.9rem;">2022 – 2023</span>
 {: .project-subtitle}
 
 **Overview**: An end-to-end automated system for solving sequential decision-making problems using data and knowledge-driven approaches.
@@ -155,6 +159,8 @@ author_profile: true
 <div class="project-panel" data-tab="rl" markdown="1">
 
 ## Evaluating Robustness in Multi-Agent Reinforcement Learning
+<span style="color:#536878; font-size:0.9rem;">2021 – 2023</span>
+{: .project-subtitle}
 
 **Innovation**: Proposed the **first model-based adversarial attacks (cMBA)** for cooperative multi-agent reinforcement learning.
 
@@ -172,6 +178,8 @@ author_profile: true
 <div class="project-panel" data-tab="fl" markdown="1">
 
 ## Federated Learning with Douglas-Rachford Splitting
+<span style="color:#536878; font-size:0.9rem;">2020 – 2021</span>
+{: .project-subtitle}
 
 **Innovation**: Proposed FedDR and asyncFedDR algorithms for federated learning with **best-known communication complexity**.
 
