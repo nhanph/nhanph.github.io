@@ -50,16 +50,18 @@ strong {
 }
 
 .masthead__menu {
-  width: auto;
-  flex-shrink: 0;
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .greedy-nav {
   min-width: 0;
+  width: 100%;
 }
 
 .greedy-nav .visible-links {
   display: flex;
+  justify-content: flex-end;
 }
 
 .greedy-nav .visible-links li {
