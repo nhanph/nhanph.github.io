@@ -29,13 +29,10 @@ redirect_from:
   transition: all 0.2s;
 }
 .news-filter-btn[data-filter="patent"],
+.news-filter-btn[data-filter="publication"],
 .news-filter-btn[data-filter="award"] {
   background: #fff;
   color: #536878;
-}
-.news-filter-btn[data-filter="publication"] {
-  background: #0067BC;
-  color: #F0F8FF;
 }
 .news-filter-btn:hover {
   border-color: #08306B;
@@ -100,7 +97,7 @@ redirect_from:
 .tag-award { background: rgba(255, 209, 0, 0.2); color: #9A7800; }
 .tag-milestone { background: #9ecae1; color: #191970; }
 .tag-journal { background: rgba(66, 146, 198, 0.2); color: #2A6F97; }
-.tag-conference { background: rgba(0, 89, 76, 0.2); color: #00594C; }
+.tag-conference { background: #0067BC; color: #F0F8FF; }
 .tag-preprint { background: rgba(239, 68, 111, 0.15); color: #C43A5C; }
 .tag-talk { background: rgba(8, 48, 107, 0.15); color: #08306B; }
 .tag-other { background: rgba(8, 48, 107, 0.15); color: #08306B; }
@@ -170,7 +167,7 @@ redirect_from:
 
 <li data-filter="award"><span class="news-date">May 2025</span><span><span class="news-tag tag-award">Award</span> Received the <strong>IBM Outstanding Technical Achievement Award</strong> for achieving first place on the BIRD Leaderboard with IBM Granite Text-to-SQL models.</span></li>
 
-<li data-filter="publication"><span class="news-date">May 2025</span><span><span class="news-tag tag-conference">Conference</span> <span style="color:#08306B">The Consistency Hypothesis in Uncertainty Quantification for Large Language Models</span> accepted for <strong>Forty-First Conference on Uncertainty in Artificial Intelligence (UAI 2025)</strong>. <em>Q. Xiao, D. Bhattacharjya, B. Ganesan, R. Marinescu, K. Mirylenka, <strong>N. H. Pham</strong>, M. Glass, and J. Lee.</em></span></li>
+<li data-filter="publication"><span class="news-date">May 2025</span><span><span class="news-tag tag-conference">Conference</span> <span style="color:#08306B">The Consistency Hypothesis in Uncertainty Quantification for Large Language Models</span> <em>accepted for Forty-First Conference on Uncertainty in Artificial Intelligence (<strong>UAI 2025</strong>).</em><br>Q. Xiao, D. Bhattacharjya, B. Ganesan, R. Marinescu, K. Mirylenka, <strong>N. H. Pham</strong>, M. Glass, and J. Lee.</span></li>
 
 <li data-filter="patent"><span class="news-date">Mar 2025</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Database Querying Using Natural Language Processing</span> <em>T. R. Dinger, A. M. Gliozzo, <strong>N. H. Pham</strong>, O. Hassanzadeh, D. Subramanian, L. Amini, G. Rossiello, M. F. M. Chowdhury, L. Vu, T. Kaple, M. Glass.</em></span></li>
 
@@ -184,7 +181,7 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Jan 2024</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Combining data selection and reward functions for tuning large language models using reinforcement learning</span> <em>L. Vu, <strong>N. H. Pham</strong>, D. Subramanian, T. Mummert.</em></span></li>
 
-<li data-filter="publication"><span class="news-date">Sep 2023</span><span><span class="news-tag tag-conference">Conference</span> <a href="https://ieeexplore.ieee.org/document/10415752" target="_blank" style="color:#08306B">Evaluating Robustness of Cooperative MARL: A Model-based Approach</a> accepted for <strong>2023 IEEE International Conference on Data Mining (ICDM)</strong>. <em><strong>N. H. Pham</strong>, L. M. Nguyen, J. Chen, H. T. Lam, S. Das, T. W. Weng.</em></span></li>
+<li data-filter="publication"><span class="news-date">Sep 2023</span><span><span class="news-tag tag-conference">Conference</span> <a href="https://ieeexplore.ieee.org/document/10415752" target="_blank" style="color:#08306B">Evaluating Robustness of Cooperative MARL: A Model-based Approach</a> <em>accepted for 2023 IEEE International Conference on Data Mining (<strong>ICDM</strong>).</em><br><strong>N. H. Pham</strong>, L. M. Nguyen, J. Chen, H. T. Lam, S. Das, T. W. Weng.</span></li>
 
 <li data-filter="award"><span class="news-date">Aug 2023</span><span><span class="news-tag tag-award">Award</span> <strong>IBM 2022 Research Pat Goldberg Memorial Best Paper</strong>: <span style="color:#08306B">A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization</span>. <em>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</em></span></li>
 
@@ -204,43 +201,45 @@ redirect_from:
 
 <li data-filter="newrole"><span class="news-date">Dec 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Completed <strong>PhD in Operations Research</strong> in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. <a href="https://cdr.lib.unc.edu/concern/dissertations/qb98mr30t?locale=en" target="_blank">Dissertation</a></span></li>
 
-<li data-filter="publication"><span class="news-date">Sep 2021</span><span><span class="news-tag tag-conference">Conference</span> <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank" style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</a> accepted for <strong>35th Conference on Neural Information Processing Systems</strong>. <em>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</em></span></li>
+<li data-filter="publication"><span class="news-date">Sep 2021</span><span><span class="news-tag tag-conference">Conference</span> <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank" style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</a> <em>accepted for 35th Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>).</em><br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
 
 <li data-filter="newrole"><span class="news-date">Aug 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Finished summer internship at <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology</a>. Mentored by Ben Cline, supervised by Chris Padwick.</span></li>
 
-<li data-filter="publication"><span class="news-date">Jun 2021</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank" style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</a>. Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
+<li data-filter="publication"><span class="news-date">Jun 2021</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank" style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</a>.<br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
 
 <li data-filter="patent"><span class="news-date">May 2021</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables</span> <em>D. T. Phan, <strong>N. H. Pham</strong>, L. M. Nguyen.</em></span></li>
 
 <li data-filter="newrole"><span class="news-date">May 2021</span><span><span class="news-tag tag-newrole">New Role</span> Joined <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology</a> as Machine Learning Intern.</span></li>
 
-<li data-filter="publication"><span class="news-date">Mar 2021</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/2103.03452v1.pdf" target="_blank" style="color:#08306B">Federated Learning with Randomized Douglas-Rachford Splitting Methods</a>. Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
+<li data-filter="publication"><span class="news-date">Mar 2021</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/2103.03452v1.pdf" target="_blank" style="color:#08306B">Federated Learning with Randomized Douglas-Rachford Splitting Methods</a>.<br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
 
-<li data-filter="publication"><span class="news-date">Jan 2021</span><span><span class="news-tag tag-conference">Conference</span> <a href="https://ieeexplore.ieee.org/document/9482638" target="_blank" style="color:#08306B">Regression Optimization for System-level Production Control</a> accepted for <strong>2021 American Control Conference (ACC)</strong>. <em>D. T. Phan, L. M. Nguyen, P. Murali, <strong>N. H. Pham</strong>, H. Liu, J. Kalagnanam.</em></span></li>
+<li data-filter="publication"><span class="news-date">Jan 2021</span><span><span class="news-tag tag-conference">Conference</span> <a href="https://ieeexplore.ieee.org/document/9482638" target="_blank" style="color:#08306B">Regression Optimization for System-level Production Control</a> <em>accepted for 2021 American Control Conference (<strong>ACC</strong>).</em><br>D. T. Phan, L. M. Nguyen, P. Murali, <strong>N. H. Pham</strong>, H. Liu, J. Kalagnanam.</span></li>
 
-<li data-filter="publication"><span class="news-date">Oct 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank" style="color:#08306B">A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization</a> accepted for <strong>Mathematical Programming</strong>. <em>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</em></span></li>
+<li data-filter="publication"><span class="news-date">Oct 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank" style="color:#08306B">A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization</a> <em>accepted for <strong>Mathematical Programming</strong>.</em><br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
 
 <li data-filter="newrole"><span class="news-date">Aug 2020</span><span><span class="news-tag tag-milestone">Milestone</span> Finished summer internship at <a href="https://research.ibm.com/" target="_blank">IBM Research</a>. Mentored by Dzung T. Phan and Lam M. Nguyen, and supervised by Roman Vaculin.</span></li>
 
-<li data-filter="publication"><span class="news-date">Jun 2020</span><span><span class="news-tag tag-conference">Conference</span> <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank" style="color:#08306B">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</a> accepted for <strong>International Conference on Machine Learning (ICML)</strong>. <em>Q. Tran-Dinh, <strong>N. H. Pham</strong>, and L. M. Nguyen.</em></span></li>
+<li data-filter="publication"><span class="news-date">Jun 2020</span><span><span class="news-tag tag-conference">Conference</span> <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank" style="color:#08306B">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</a> <em>accepted for International Conference on Machine Learning (<strong>ICML</strong>).</em><br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, and L. M. Nguyen.</span></li>
 
 <li data-filter="newrole"><span class="news-date">May 2020</span><span><span class="news-tag tag-newrole">New Role</span> Joined <a href="https://research.ibm.com/" target="_blank">IBM Research</a> as Research Intern.</span></li>
 
-<li data-filter="publication"><span class="news-date">May 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</a> accepted for <strong>Journal of Machine Learning Research (JMLR)</strong>. <em><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.</em></span></li>
+<li data-filter="publication"><span class="news-date">May 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="http://proceedings.mlr.press/v119/tran-dinh20a.html" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</a> <em>accepted for Journal of Machine Learning Research (<strong>JMLR</strong>).</em><br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.</span></li>
 
-<li data-filter="publication"><span class="news-date">Feb 2020</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/2002.07290.pdf" target="_blank" style="color:#08306B">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</a>. Q. Tran-Dinh, <strong>N. H. Pham</strong>, and L. M. Nguyen.</span></li>
+<li data-filter="publication"><span class="news-date">Mar 2020</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/abs/2003.10973" target="_blank" style="color:#08306B">Finite-time analysis of stochastic gradient descent under markov randomness</a>.<br>T. T. Doan, L. M. Nguyen, <strong>N. H. Pham</strong>, and J. Romberg.</span></li>
 
-<li data-filter="publication"><span class="news-date">Feb 2020</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/2103.03452v1.pdf" target="_blank" style="color:#08306B">Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning</a>. T. T. Doan, L. M. Nguyen, <strong>N. H. Pham</strong>, and J. Romberg.</span></li>
+<li data-filter="publication"><span class="news-date">Feb 2020</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/2002.07290.pdf" target="_blank" style="color:#08306B">Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization</a>.<br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, and L. M. Nguyen.</span></li>
 
-<li data-filter="publication"><span class="news-date">Jan 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="https://arxiv.org/pdf/1902.05679.pdf" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</a> accepted for <strong>Journal of Machine Learning Research (JMLR)</strong>. <em><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.</em></span></li>
+<li data-filter="publication"><span class="news-date">Feb 2020</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/2103.03452v1.pdf" target="_blank" style="color:#08306B">Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning</a>.<br>T. T. Doan, L. M. Nguyen, <strong>N. H. Pham</strong>, and J. Romberg.</span></li>
 
-<li data-filter="publication"><span class="news-date">Jan 2020</span><span><span class="news-tag tag-conference">Conference</span> <a href="http://proceedings.mlr.press/v108/pham20a.html" target="_blank" style="color:#08306B">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning</a> accepted for <strong>AISTATS 2020</strong>. <em><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, P. H. Nguyen, M. van Dijk, and Q. Tran-Dinh.</em></span></li>
+<li data-filter="publication"><span class="news-date">Jan 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="https://arxiv.org/pdf/1902.05679.pdf" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</a> <em>accepted for Journal of Machine Learning Research (<strong>JMLR</strong>).</em><br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.</span></li>
+
+<li data-filter="publication"><span class="news-date">Jan 2020</span><span><span class="news-tag tag-conference">Conference</span> <a href="http://proceedings.mlr.press/v108/pham20a.html" target="_blank" style="color:#08306B">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning</a> <em>accepted for <strong>AISTATS 2020</strong>.</em><br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, P. H. Nguyen, M. van Dijk, and Q. Tran-Dinh.</span></li>
 
 <li data-filter="talk"><span class="news-date">Oct 2019</span><span><span class="news-tag tag-talk">Talk</span> <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span>. Oral Presentation: 2019 INFORMS Annual Meeting.</span></li>
 
-<li data-filter="publication"><span class="news-date">Jul 2019</span><span><span class="news-tag tag-preprint">Preprint</span> <span style="color:#08306B">A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization</span>. Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
+<li data-filter="publication"><span class="news-date">Jul 2019</span><span><span class="news-tag tag-preprint">Preprint</span> <span style="color:#08306B">A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization</span>.<br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
 
-<li data-filter="publication"><span class="news-date">Feb 2019</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/1902.05679.pdf" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</a>. <strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.</span></li>
+<li data-filter="publication"><span class="news-date">Feb 2019</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/1902.05679.pdf" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</a>.<br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.</span></li>
 
 <li data-filter="newrole"><span class="news-date">Aug 2017</span><span><span class="news-tag tag-newrole">New Role</span> Started PhD in Operations Research at University of North Carolina at Chapel Hill &middot; Chapel Hill, NC, USA. Under supervision of professor <a href="https://quoctd.web.unc.edu/" target="_blank">Quoc Tran-Dinh</a>.</span></li>
 
