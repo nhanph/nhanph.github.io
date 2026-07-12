@@ -10,57 +10,18 @@ strong {
   color: #08519C;
 }
 
-.masthead {
-  border-bottom-style: dashed;
-}
-
-.masthead__inner-wrap {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 .masthead__title {
-  padding: 0.4em 0 0.5em;
-  text-align: center;
+  padding: 0.6em 0 0.2em;
 }
 
 .masthead__title a {
-  font-family: 'Julius Sans One', sans-serif;
-  font-size: 3.4rem;
-  letter-spacing: 0.06em;
   color: #08306B;
-}
-
-.masthead__menu {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-
-.greedy-nav {
-  min-width: 0;
-  width: 100%;
-  background: transparent;
-  display: flex;
-  justify-content: center;
-}
-
-.greedy-nav .visible-links {
-  display: flex;
-  flex-wrap: wrap;
 }
 
 .greedy-nav a,
 .greedy-nav .visible-links a,
 .greedy-nav .hidden-links a {
-  font-family: 'Jost', sans-serif;
-  font-size: 0.75rem;
-  font-weight: 500;
-  letter-spacing: 0.05em;
   color: #08306B;
-}
-
-.greedy-nav .visible-links li {
-  padding: 0 0.9em;
+  font-weight: bold;
+  text-transform: uppercase;
 }
