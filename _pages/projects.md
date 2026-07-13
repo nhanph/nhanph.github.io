@@ -86,11 +86,11 @@ author_profile: false
 
 <div class="project-panel active" data-tab="multilingual" markdown="1">
 
-## Multilingual Text2SQL
-
 <div class="project-body">
 <div class="project-date">2025 – 2026</div>
 <div class="project-desc" markdown="1">
+
+## Multilingual Text2SQL
 
 **Capability**: Extended Text2SQL to support multiple languages, making data accessible to global workforce.
 
@@ -113,11 +113,11 @@ author_profile: false
 
 <div class="project-panel" data-tab="nl2insights" markdown="1">
 
-## NL2Insights: Enterprise Text-to-SQL at Scale
-
 <div class="project-body">
 <div class="project-date">2024 – 2026</div>
 <div class="project-desc" markdown="1">
+
+## NL2Insights: Enterprise Text-to-SQL at Scale
 
 **Overview**: NL2Insights is a fully automated pipeline for converting natural language to SQL queries, powering flagship IBM products and transforming how enterprises interact with their data.
 
@@ -150,11 +150,11 @@ author_profile: false
 
 <div class="project-panel" data-tab="textsql" markdown="1">
 
-## BIRD Leaderboard: #1 in Text-to-SQL Benchmark
-
 <div class="project-body">
 <div class="project-date">2023 – 2024</div>
 <div class="project-desc" markdown="1">
+
+## BIRD Leaderboard: #1 in Text-to-SQL Benchmark
 
 **Achievement**: Led IBM Granite Text-to-SQL models to **first place in both tracks** of the prestigious BIRD (BIg Bench for LaRge-scale Database Grounded Text-to-SQL Evaluation) leaderboard.
 
@@ -190,11 +190,11 @@ author_profile: false
 
 <div class="project-panel" data-tab="autodo" markdown="1">
 
-## AutoDO: Automated Decision Optimization
-
 <div class="project-body">
 <div class="project-date">2022 – 2023</div>
 <div class="project-desc" markdown="1">
+
+## AutoDO: Automated Decision Optimization
 
 **Overview**: An end-to-end automated system for solving sequential decision-making problems using data and knowledge-driven approaches.
 
@@ -213,11 +213,11 @@ author_profile: false
 
 <div class="project-panel" data-tab="rl" markdown="1">
 
-## Evaluating Robustness in Multi-Agent Reinforcement Learning
-
 <div class="project-body">
 <div class="project-date">2021 – 2023</div>
 <div class="project-desc" markdown="1">
+
+## Evaluating Robustness in Multi-Agent Reinforcement Learning
 
 **Innovation**: Proposed the **first model-based adversarial attacks (cMBA)** for cooperative multi-agent reinforcement learning.
 
@@ -238,11 +238,11 @@ author_profile: false
 
 <div class="project-panel" data-tab="fl" markdown="1">
 
-## Federated Learning with Douglas-Rachford Splitting
-
 <div class="project-body">
 <div class="project-date">2020 – 2021</div>
 <div class="project-desc" markdown="1">
+
+## Federated Learning with Douglas-Rachford Splitting
 
 **Innovation**: Proposed FedDR and asyncFedDR algorithms for federated learning with **best-known communication complexity**.
 
