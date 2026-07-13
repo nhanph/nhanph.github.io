@@ -199,7 +199,7 @@ redirect_from:
 
 <li data-filter="talk"><span class="news-date">Nov 2020</span><span><span class="news-tag tag-talk">Talk</span> <span style="color:#08306B">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning</span>. Oral Presentation: INFORMS Annual Meeting 2020.</span></li>
 
-<li data-filter="publication"><span class="news-date">Oct 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank" style="color:#08306B">A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization</a> <em>accepted for <strong>Mathematical Programming</strong>.</em><br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
+<li data-filter="publication"><span class="news-date">Oct 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank" style="color:#08306B">A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization</a> <em>accepted for Mathematical Programming (<strong>Math. Program</strong>).</em><br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
 
 <li data-filter="newrole"><span class="news-date">Aug 2020</span><span><span class="news-tag tag-milestone">Milestone</span> Finished summer internship at <a href="https://research.ibm.com/" target="_blank">IBM Research</a>. Mentored by Dzung T. Phan and Lam M. Nguyen, and supervised by Roman Vaculin.</span></li>
 

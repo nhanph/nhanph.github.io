@@ -227,7 +227,7 @@ T.-D. D. Phan, **N. H. Pham**, K.-N. Le-Huu, and A.-V. D. Dinh.
 <div class="pub-desc" markdown="1">
 
 <a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank" style="color:#08306B">A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization.</a><br>
-*<strong style="color:#08306B">Mathematical Programming</strong>.*<br>
+*Mathematical Programming (<strong style="color:#08306B">Math. Program</strong>).*<br>
 Q. Tran-Dinh, **N. H. Pham**, D. T. Phan, and L. M. Nguyen.
 
 </div>
