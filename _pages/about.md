@@ -242,7 +242,7 @@ redirect_from:
 
 **Graduate Research Assistant & Graduate Teaching Assistant**<br>
 *University of North Carolina at Chapel Hill*<br>
-*Chapel Hill, NC, USA*
+*Chapel Hill, NC*
 
 </div>
 </div>
