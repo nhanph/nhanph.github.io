@@ -111,11 +111,19 @@ redirect_from:
   margin: 0;
 }
 
+.bio-content {
+  margin-left: 134px;
+}
+
 @media (max-width: 700px) {
   .bio-header {
     flex-direction: column;
     align-items: center;
     text-align: center;
+  }
+
+  .bio-content {
+    margin-left: 0;
   }
 }
 </style>
@@ -128,6 +136,8 @@ redirect_from:
     <p class="bio-intro">I am a Staff Research Scientist at the IBM Thomas J. Watson Research Center in Yorktown Heights, NY. I finished my PhD in Operations Research in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill in 2021 under supervision by Dr. Quoc Tran-Dinh.</p>
   </div>
 </div>
+
+<div class="bio-content" markdown="1">
 
 <div class="bio-tab-bar" id="bio-tab-bar">
   <button class="bio-tab-btn active" data-tab="education">Education</button>
@@ -284,6 +294,8 @@ I also continue research on stochastic optimization methods for machine learning
 **Production deployment, scalability, safety & security, multilingual systems**
 
 </div>
+</div>
+
 </div>
 
 </div>
