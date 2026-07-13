@@ -88,11 +88,12 @@ redirect_from:
   top: -1px;
 }
 .tag-patent { background: rgba(8, 81, 156, 0.15); color: #08519C; }
+.tag-patent-granted { background: rgba(239, 68, 111, 0.15); color: #C43A5C; }
 .tag-award { background: rgba(255, 209, 0, 0.2); color: #9A7800; }
 .tag-milestone { background: #9ecae1; color: #191970; }
 .tag-journal { background: rgba(66, 146, 198, 0.2); color: #2A6F97; }
 .tag-conference { background: #0067BC; color: #F0F8FF; }
-.tag-preprint { background: rgba(239, 68, 111, 0.15); color: #C43A5C; }
+.tag-preprint { background: rgba(8, 81, 156, 0.15); color: #08519C; }
 .tag-talk { background: rgba(8, 48, 107, 0.15); color: #08306B; }
 .tag-other { background: rgba(8, 48, 107, 0.15); color: #08306B; }
 .tag-workshop { background: rgba(8, 48, 107, 0.15); color: #08306B; }
@@ -128,13 +129,13 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Apr 2026</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Generating Dynamic Few-Shot Examples for Enterprise Text-to-SQL Tasks</span><br>L. H. Vu, D. Snoddy, T. R. Kaple, T. R. Dinger, <strong>N. H. Pham</strong>, M. R. Glass, D. Subramanian, A. W. Hagleitner.</span></li>
 
-<li data-filter="patent"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-patent">Patent Granted</span> <a href="https://patents.google.com/patent/US12566929/en" target="_blank" style="color:#08306B">System and Method for Combining Data Selection and Reward Function for Tuning LLMs using Reinforcement Learning</a>. Patent US12566929B2.<br>L. Vu, <strong>N. H. Pham</strong>, D. Subramanian, T. Mummert.</span></li>
+<li data-filter="patent"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-patent-granted">Patent Granted</span> <a href="https://patents.google.com/patent/US12566929/en" target="_blank" style="color:#08306B">System and Method for Combining Data Selection and Reward Function for Tuning LLMs using Reinforcement Learning</a>. Patent US12566929B2.<br>L. Vu, <strong>N. H. Pham</strong>, D. Subramanian, T. Mummert.</span></li>
 
 <li data-filter="award"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-award">Award</span> Received <strong>IBM Outstanding Technical Achievement Award</strong> for NL2Insights Impacting Products and Clients.</span></li>
 
 <li data-filter="award"><span class="news-date">Feb 2026</span><span><span class="news-tag tag-milestone">Milestone</span> Multilingual Text2SQL capabilities are now available across all IBM Cloud and AWS production regions for IBM watsonx.data intelligence SaaS, supporting English and Japanese with more languages coming.</span></li>
 
-<li data-filter="patent"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-patent">Patent Granted</span> <a href="https://patents.google.com/patent/US12518174/en" target="_blank" style="color:#08306B">Site-wide optimization for mixed regression models and mixed control variables</a>. Patent US12518174B2.<br>D. T. Phan, <strong>N. H. Pham</strong>, L. M. Nguyen.</span></li>
+<li data-filter="patent"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-patent-granted">Patent Granted</span> <a href="https://patents.google.com/patent/US12518174/en" target="_blank" style="color:#08306B">Site-wide optimization for mixed regression models and mixed control variables</a>. Patent US12518174B2.<br>D. T. Phan, <strong>N. H. Pham</strong>, L. M. Nguyen.</span></li>
 
 <li data-filter="publication"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-workshop">Workshop</span> <a href="https://openreview.net/forum?id=jfq9DUrW90#discussion" target="_blank" style="color:#08306B">Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles</a> <em>accepted for AAAI 2026 Workshop on Assessing and Improving Reliability of Foundation Models in the Real World (<strong>AAAI 2026 Workshop</strong>).</em><br>W. Ma, D. Bhattacharjya, J. Lee, <strong>N. H. Pham</strong>, H. Kokel, Q. Ji.</span></li>
 
