@@ -108,6 +108,10 @@ T.-D. D. Phan, **N. H. Pham**, K.-N. Le-Huu, and A.-V. D. Dinh.
 
 ## Preprints
 
-- T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg. <span style="color:#08306B">Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning.</span> *arXiv:2002.02873*, 2020 <a href="https://arxiv.org/pdf/2002.02873" target="_blank">[Preprint]</a>
+- <a href="https://arxiv.org/pdf/2002.02873" target="_blank" style="color:#08306B">Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning.</a><br>
+*<strong style="color:#08306B">arXiv:2002.02873</strong>.*<br>
+T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg.
 
-- T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J.  Romberg. <span style="color:#08306B">Finite-Time Analysis of Stochastic Gradient Descent under Markov Randomness.</span> *arXiv:2003.10973*, 2020 <a href="https://arxiv.org/pdf/2003.10973" target="_blank">[Preprint]</a>
+- <a href="https://arxiv.org/pdf/2003.10973" target="_blank" style="color:#08306B">Finite-Time Analysis of Stochastic Gradient Descent under Markov Randomness.</a><br>
+*<strong style="color:#08306B">arXiv:2003.10973</strong>.*<br>
+T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg.
