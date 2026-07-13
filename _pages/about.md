@@ -110,6 +110,9 @@ redirect_from:
 .bio-intro {
   margin: 0;
 }
+.bio-intro + .bio-intro {
+  margin-top: 0.8em;
+}
 
 .bio-content {
   margin-left: 134px;
@@ -137,6 +140,7 @@ redirect_from:
   <div class="bio-header-text">
     <p class="bio-role">Staff Research Scientist &middot; IBM Thomas J. Watson Research Center</p>
     <p class="bio-intro">I am a Staff Research Scientist at the IBM Thomas J. Watson Research Center in Yorktown Heights, NY. I finished my PhD in Operations Research in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill in 2021 under supervision by Dr. Quoc Tran-Dinh.</p>
+    <p class="bio-intro">My current research focuses on <strong>Large Language Models (LLMs) for enterprise data management applications</strong>, particularly building end-to-end Text-to-SQL systems. I lead the development of NL2Insights, an automated pipeline that powers flagship IBM products including watsonx.data intelligence, BI Assistant, and Process Mining. Our system has generated over <strong>200,000 SQL queries across 1,000+ databases</strong> at enterprise scale. I also continue research on stochastic optimization methods for machine learning, deep learning, and reinforcement learning.</p>
   </div>
 </div>
 
@@ -144,7 +148,7 @@ redirect_from:
 
 <div class="bio-tab-bar" id="bio-tab-bar">
   <button class="bio-tab-btn active" data-tab="education">Education</button>
-  <button class="bio-tab-btn" data-tab="research">Current Research</button>
+  <button class="bio-tab-btn" data-tab="experience">Professional Experience</button>
   <button class="bio-tab-btn" data-tab="achievements">Recent Achievements</button>
   <button class="bio-tab-btn" data-tab="skills">Skills & Technologies</button>
 </div>
@@ -186,11 +190,62 @@ redirect_from:
 
 </div>
 
-<div class="bio-panel" data-tab="research" markdown="1">
+<div class="bio-panel" data-tab="experience" markdown="1">
 
-My current research focuses on **Large Language Models (LLMs) for enterprise data management applications**, particularly building end-to-end Text-to-SQL systems. I lead the development of NL2Insights, an automated pipeline that powers flagship IBM products including watsonx.data intelligence, BI Assistant, and Process Mining. Our system has generated over **200,000 SQL queries across 1,000+ databases** at enterprise scale.
+<div class="bio-body">
+<div class="bio-date">2024 – present</div>
+<div class="bio-desc" markdown="1">
 
-I also continue research on stochastic optimization methods for machine learning, deep learning, and reinforcement learning.
+**Staff Research Scientist**<br>
+*IBM Thomas J. Watson Research Center*<br>
+*Yorktown Heights, NY*
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">2022 – 2024</div>
+<div class="bio-desc" markdown="1">
+
+**Research Scientist**<br>
+*IBM Thomas J. Watson Research Center*<br>
+*Yorktown Heights, NY*
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">2021</div>
+<div class="bio-desc" markdown="1">
+
+**Machine Learning Intern**<br>
+*Blue River Technology*<br>
+*Sunnyvale, California*
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">2020</div>
+<div class="bio-desc" markdown="1">
+
+**Research Intern**<br>
+*IBM Thomas J. Watson Research Center*<br>
+*Yorktown Heights, NY*
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">2017 – 2021</div>
+<div class="bio-desc" markdown="1">
+
+**Graduate Research Assistant & Graduate Teaching Assistant**<br>
+*University of North Carolina at Chapel Hill*<br>
+*Chapel Hill, NC, USA*
+
+</div>
+</div>
 
 </div>
 
