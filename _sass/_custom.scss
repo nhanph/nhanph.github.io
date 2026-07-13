@@ -223,7 +223,8 @@ html[data-theme="dark"] {
   .greedy-nav a,
   .greedy-nav .visible-links a,
   .greedy-nav .hidden-links a {
-    filter: brightness(1.6);
+    filter: none;
+    color: #FBFCF8;
   }
 
   .greedy-nav .hidden-links {
