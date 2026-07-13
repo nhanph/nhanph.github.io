@@ -104,8 +104,11 @@ strong {
 }
 
 .page__footer {
-  border-top: 1px dotted #6BAED6;
   background-color: #fff;
+
+  footer {
+    border-top: 1px dotted #6BAED6;
+  }
 }
 
 .page__footer-copyright {
