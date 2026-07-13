@@ -218,7 +218,7 @@ redirect_from:
 
 <li data-filter="publication"><span class="news-date">Jan 2020</span><span><span class="news-tag tag-conference">Conference</span> <a href="http://proceedings.mlr.press/v108/pham20a.html" target="_blank" style="color:#08306B">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning</a> <em>accepted for the 23rd International Conference on Artificial Intelligence and Statistics (<strong>AISTATS 2020</strong>).</em><br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, P. H. Nguyen, M. van Dijk, and Q. Tran-Dinh.</span></li>
 
-<li data-filter="talk"><span class="news-date">Oct 2019</span><span><span class="news-tag tag-talk">Talk</span> <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span>. Oral Presentation: 2019 INFORMS Annual Meeting.</span></li>
+<li data-filter="talk"><span class="news-date">Oct 2019</span><span><span class="news-tag tag-talk">Talk</span> <span style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</span>. Oral Presentation: INFORMS Annual Meeting 2019.</span></li>
 
 <li data-filter="publication"><span class="news-date">Jul 2019</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/abs/1907.03793" target="_blank" style="color:#08306B">A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization</a>.<br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
 
