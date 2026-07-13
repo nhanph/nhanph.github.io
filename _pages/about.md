@@ -131,7 +131,6 @@ redirect_from:
 <div class="bio-header">
   <img src="/images/NP_Profile.jpg" alt="Nhan H. Pham" class="bio-avatar">
   <div class="bio-header-text">
-    <h1 class="bio-name">Nhan H. Pham</h1>
     <p class="bio-role">Staff Research Scientist &middot; IBM Thomas J. Watson Research Center</p>
     <p class="bio-intro">I am a Staff Research Scientist at the IBM Thomas J. Watson Research Center in Yorktown Heights, NY. I finished my PhD in Operations Research in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill in 2021 under supervision by Dr. Quoc Tran-Dinh.</p>
   </div>
