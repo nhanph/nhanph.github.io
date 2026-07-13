@@ -1,7 +1,7 @@
 ---
 permalink: /news/
 title: "News"
-author_profile: true
+author_profile: false
 redirect_from:
   - /wordpress/news/
 ---

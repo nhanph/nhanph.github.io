@@ -10,6 +10,15 @@ strong {
   color: #536878;
 }
 
+#main .page:first-child,
+#main .archive:first-child {
+  @include breakpoint($large) {
+    float: none;
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
 .archive a,
 .page__content a {
   text-decoration: none;
