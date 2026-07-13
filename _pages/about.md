@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Bio"
+excerpt: "Bio"
 author_profile: false
 redirect_from: 
   - /about/
@@ -24,9 +24,3 @@ My current research focuses on **Large Language Models (LLMs) for enterprise dat
 - **Production Impact**: Enabled multilingual Text2SQL capabilities across all IBM Cloud and AWS regions
 
 I also continue research on stochastic optimization methods for machine learning, deep learning, and reinforcement learning.
-
-## Background
-
-I come from Vietnam where I had my bachelor in Computer Engineering from Department of Computer Science and Engineering, Ho Chi Minh City University of Technology (Bach Khoa University). During my undergrad, I was a member of BKIT Hardware Club and participated in the Vietnam Robot Contest under BK4/BKIT Number One team in 2013.
-
-My hobbies are travelling with my wife and exploring new places.
