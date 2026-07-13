@@ -163,3 +163,79 @@ strong {
     text-decoration: none;
   }
 }
+
+.theme-toggle-btn {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1.5px solid rgba(8, 48, 107, 0.2);
+  border-radius: 50%;
+  background: none;
+  color: #08306B;
+  cursor: pointer;
+  transition: all 0.2s;
+
+  &:hover {
+    border-color: #08306B;
+    color: #6BAED6;
+  }
+}
+
+/* ==========================================================================
+   DARK MODE
+   ========================================================================== */
+
+html[data-theme="dark"] {
+  background-color: #12151a;
+
+  body {
+    background-color: #12151a;
+  }
+
+  .page__footer {
+    background-color: #12151a;
+  }
+
+  body,
+  .archive,
+  .page__content {
+    color: #c9d1d9;
+  }
+
+  .archive,
+  .page__content {
+    filter: brightness(1.55) saturate(0.85);
+  }
+
+  .masthead__title a {
+    filter: brightness(1.6);
+  }
+
+  .greedy-nav a,
+  .greedy-nav .visible-links a,
+  .greedy-nav .hidden-links a {
+    filter: brightness(1.6);
+  }
+
+  .theme-toggle-btn {
+    border-color: rgba(107, 174, 214, 0.4);
+    color: #9ecae1;
+
+    &:hover {
+      border-color: #9ecae1;
+      color: #ffffff;
+    }
+  }
+
+  .page__footer-copyright {
+    color: #8b949e;
+  }
+
+  .page__footer-follow .social-icons li a {
+    filter: brightness(1.4);
+  }
+}
