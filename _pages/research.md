@@ -27,6 +27,9 @@ author_profile: false
   flex: 1;
   min-width: 0;
 }
+.pub-desc p:first-child {
+  margin-top: 0;
+}
 
 .pub-tab-bar {
   display: flex;

@@ -63,6 +63,9 @@ redirect_from:
   flex: 1;
   min-width: 0;
 }
+.bio-desc p:first-child {
+  margin-top: 0;
+}
 
 @media (max-width: 700px) {
   .bio-body {
