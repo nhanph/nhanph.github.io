@@ -94,8 +94,8 @@ I am a Staff Research Scientist at the IBM Thomas J. Watson Research Center in Y
 <div class="bio-desc" markdown="1">
 
 **Ph.D. in Operations Research**<br>
-Department of Statistics and Operations Research<br>
-University of North Carolina at Chapel Hill &middot; Chapel Hill, NC, USA
+*Department of Statistics and Operations Research*<br>
+*University of North Carolina at Chapel Hill &middot; Chapel Hill, NC, USA*
 
 </div>
 </div>
@@ -105,8 +105,8 @@ University of North Carolina at Chapel Hill &middot; Chapel Hill, NC, USA
 <div class="bio-desc" markdown="1">
 
 **Graduate Study in Computer Engineering**<br>
-Department of Computer Science and Engineering<br>
-University of Nevada, Reno &middot; Reno, NV, USA
+*Department of Computer Science and Engineering*<br>
+*University of Nevada, Reno &middot; Reno, NV, USA*
 
 </div>
 </div>
@@ -116,8 +116,8 @@ University of Nevada, Reno &middot; Reno, NV, USA
 <div class="bio-desc" markdown="1">
 
 **Bachelor of Engineering (Honor Program) in Computer Engineering**<br>
-Department of Computer Science and Engineering<br>
-Ho Chi Minh City University of Technology &middot; Ho Chi Minh City, Vietnam
+*Department of Computer Science and Engineering*<br>
+*Ho Chi Minh City University of Technology &middot; Ho Chi Minh City, Vietnam*
 
 </div>
 </div>
