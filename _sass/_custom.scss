@@ -122,18 +122,29 @@ strong {
   padding: 0;
 }
 
+.page__footer-follow .social-icons li {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
 .page__footer-follow .social-icons li a {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 32px;
   height: 32px;
+  padding: 0;
   border-radius: 50%;
   background: #08306B;
   color: #fff;
+  font-weight: normal;
+  line-height: 1;
 
   i {
     color: #fff;
+    line-height: 1;
   }
 
   &:hover {
