@@ -13,7 +13,11 @@ author_profile: false
 .pub-body {
   display: flex;
   gap: 16px;
-  margin-bottom: 1em;
+  padding: 11px 0;
+  border-bottom: 1px solid rgba(8, 48, 107, 0.08);
+}
+.pub-body:last-child {
+  border-bottom: none;
 }
 .pub-date {
   flex-shrink: 0;
