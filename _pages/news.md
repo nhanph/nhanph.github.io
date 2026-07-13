@@ -177,7 +177,7 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Sep 2022</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Adversarial Attacks for Improving Cooperative Multi-Agent Reinforcement Learning Systems</span><br><strong>N. H. Pham</strong>, L. M. Nguyen, J. Chen, T. L. Hoang, S. Das.</span></li>
 
-<li data-filter="newrole"><span class="news-date">Jan 2022</span><span><span class="news-tag tag-newrole">Career Update</span> Started new role as <strong>Research Scientist</strong> at <a href="https://research.ibm.com/" target="_blank">IBM</a> Thomas J. Watson Research Center, Yorktown Heights, NY.</span></li>
+<li data-filter="newrole"><span class="news-date">Jan 2022</span><span><span class="news-tag tag-newrole">Career Update</span> Started new role as <strong>Research Scientist</strong> at <a href="https://research.ibm.com/" target="_blank">IBM</a> Thomas J. Watson Research Center &middot; Yorktown Heights, NY.</span></li>
 
 <li data-filter="newrole"><span class="news-date">Dec 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Completed <strong>PhD in Operations Research</strong> in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill. <a href="https://cdr.lib.unc.edu/concern/dissertations/qb98mr30t?locale=en" target="_blank">Dissertation</a></span></li>
 
@@ -225,7 +225,7 @@ redirect_from:
 
 <li data-filter="publication"><span class="news-date">Feb 2019</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/1902.05679.pdf" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework For Stochastic Composite Nonconvex Optimization</a>.<br><strong>N. H. Pham</strong>, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh</span></li>
 
-<li data-filter="newrole"><span class="news-date">Aug 2017</span><span><span class="news-tag tag-newrole">Career Update</span> Started PhD in Operations Research at University of North Carolina at Chapel Hill &middot; Chapel Hill, NC, USA. Under supervision of professor <a href="https://quoctd.web.unc.edu/" target="_blank">Quoc Tran-Dinh</a>.</span></li>
+<li data-filter="newrole"><span class="news-date">Aug 2017</span><span><span class="news-tag tag-newrole">Career Update</span> Started PhD in Operations Research at University of North Carolina at Chapel Hill &middot; Chapel Hill, NC. Under supervision of professor <a href="https://quoctd.web.unc.edu/" target="_blank">Quoc Tran-Dinh</a>.</span></li>
 
 </ul>
 
