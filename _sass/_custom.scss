@@ -102,3 +102,39 @@ strong {
 .greedy-nav .visible-links li {
   display: block;
 }
+
+.page__footer {
+  border-top: 1px dotted #6BAED6;
+}
+
+.page__footer-copyright {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.page__footer-follow .social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.page__footer-follow .social-icons li a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #08306B;
+  color: #fff;
+
+  &:hover {
+    background: #6BAED6;
+    color: #fff !important;
+    text-decoration: none;
+  }
+}
