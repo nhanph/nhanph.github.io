@@ -264,7 +264,7 @@ H. M. La, T. H. Dinh, **N. H. Pham**, Q. P. Ha, and A. Q. Pham.
 <div class="pub-date">2026</div>
 <div class="pub-desc" markdown="1">
 
-<span style="color:#08306B">Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles.</span><br>
+<a href="https://openreview.net/forum?id=jfq9DUrW90#discussion" target="_blank" style="color:#08306B">Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles.</a><br>
 *AAAI 2026 Workshop on Assessing and Improving Reliability of Foundation Models in the Real World (<strong style="color:#08306B">AAAI 2026 Workshop</strong>).*<br>
 W. Ma, D. Bhattacharjya, J. Lee, **N. H. Pham**, H. Kokel, Q. Ji.
 

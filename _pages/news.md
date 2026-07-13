@@ -136,7 +136,7 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-patent">Patent Granted</span> <a href="https://patents.google.com/patent/US12518174/en" target="_blank" style="color:#08306B">Site-wide optimization for mixed regression models and mixed control variables</a>. Patent US12518174B2.<br>D. T. Phan, <strong>N. H. Pham</strong>, L. M. Nguyen.</span></li>
 
-<li data-filter="publication"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-workshop">Workshop</span> <span style="color:#08306B">Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles</span> <em>accepted for AAAI 2026 Workshop on Assessing and Improving Reliability of Foundation Models in the Real World (<strong>AAAI 2026 Workshop</strong>).</em><br>W. Ma, D. Bhattacharjya, J. Lee, <strong>N. H. Pham</strong>, H. Kokel, Q. Ji.</span></li>
+<li data-filter="publication"><span class="news-date">Jan 2026</span><span><span class="news-tag tag-workshop">Workshop</span> <a href="https://openreview.net/forum?id=jfq9DUrW90#discussion" target="_blank" style="color:#08306B">Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles</a> <em>accepted for AAAI 2026 Workshop on Assessing and Improving Reliability of Foundation Models in the Real World (<strong>AAAI 2026 Workshop</strong>).</em><br>W. Ma, D. Bhattacharjya, J. Lee, <strong>N. H. Pham</strong>, H. Kokel, Q. Ji.</span></li>
 
 <li data-filter="award"><span class="news-date">Dec 2025</span><span><span class="news-tag tag-award">Award</span> Received <strong>IBM Growth Award</strong> for advancing Text2SQL service within watsonx.data intelligence.</span></li>
 
