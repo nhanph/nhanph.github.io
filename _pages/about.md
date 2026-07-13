@@ -140,19 +140,10 @@ I also continue research on stochastic optimization methods for machine learning
 </div>
 
 <div class="bio-body">
-<div class="bio-date">2024</div>
+<div class="bio-date">2026</div>
 <div class="bio-desc" markdown="1">
 
-**#1 on BIRD Leaderboard**: Led IBM Granite Text-to-SQL models to first place in both tracks of the prestigious BIRD benchmark, outperforming larger models like GPT-4 and GPT-4o
-
-</div>
-</div>
-
-<div class="bio-body">
-<div class="bio-date">2025</div>
-<div class="bio-desc" markdown="1">
-
-**IBM Outstanding Technical Achievement Award**: For achieving first place on the BIRD leaderboard
+**Production Impact**: Enabled multilingual Text2SQL capabilities across all IBM Cloud and AWS regions
 
 </div>
 </div>
@@ -167,6 +158,15 @@ I also continue research on stochastic optimization methods for machine learning
 </div>
 
 <div class="bio-body">
+<div class="bio-date">2025</div>
+<div class="bio-desc" markdown="1">
+
+**IBM Outstanding Technical Achievement Award**: For achieving first place on the BIRD leaderboard
+
+</div>
+</div>
+
+<div class="bio-body">
 <div class="bio-date">2024-2025</div>
 <div class="bio-desc" markdown="1">
 
@@ -176,10 +176,10 @@ I also continue research on stochastic optimization methods for machine learning
 </div>
 
 <div class="bio-body">
-<div class="bio-date">2026</div>
+<div class="bio-date">2024</div>
 <div class="bio-desc" markdown="1">
 
-**Production Impact**: Enabled multilingual Text2SQL capabilities across all IBM Cloud and AWS regions
+**#1 on BIRD Leaderboard**: Led IBM Granite Text-to-SQL models to first place in both tracks of the prestigious BIRD benchmark, outperforming larger models like GPT-4 and GPT-4o
 
 </div>
 </div>
