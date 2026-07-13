@@ -114,9 +114,9 @@ redirect_from:
 
 <div class="news-filter-bar" id="news-filter-bar">
   <button class="news-filter-btn active" data-filter="all">All</button>
+  <button class="news-filter-btn" data-filter="award">Award</button>
   <button class="news-filter-btn" data-filter="patent">Patent</button>
   <button class="news-filter-btn" data-filter="publication">Publication</button>
-  <button class="news-filter-btn" data-filter="award">Award</button>
   <button class="news-filter-btn" data-filter="talk">Other Activities</button>
   <button class="news-filter-btn" data-filter="newrole">Career Update</button>
 </div>
