@@ -44,6 +44,7 @@ author_profile: false
   display: block;
 }
 .project-panel h2 {
+  margin-top: 0;
   margin-bottom: 0.75em;
 }
 
