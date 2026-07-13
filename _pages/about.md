@@ -10,6 +10,20 @@ redirect_from:
 
 I am a Staff Research Scientist at the IBM Thomas J. Watson Research Center in Yorktown Heights, NY. I finished my PhD in Operations Research in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill in 2021 under supervision by Dr. Quoc Tran-Dinh.
 
+## Education
+
+**Ph.D. in Operations Research** 2017–2021<br>
+Department of Statistics and Operations Research<br>
+University of North Carolina at Chapel Hill &middot; Chapel Hill, NC, USA
+
+**Graduate Study in Computer Engineering** 2015–2017<br>
+Department of Computer Science and Engineering<br>
+University of Nevada, Reno &middot; Reno, NV, USA
+
+**Bachelor of Engineering (Honor Program) in Computer Engineering** 2008–2013<br>
+Department of Computer Science and Engineering<br>
+Ho Chi Minh City University of Technology &middot; Ho Chi Minh City, Vietnam
+
 ## Current Research
 
 My current research focuses on **Large Language Models (LLMs) for enterprise data management applications**, particularly building end-to-end Text-to-SQL systems. I lead the development of NL2Insights, an automated pipeline that powers flagship IBM products including watsonx.data intelligence, BI Assistant, and Process Mining. Our system has generated over **200,000 SQL queries across 1,000+ databases** at enterprise scale.
