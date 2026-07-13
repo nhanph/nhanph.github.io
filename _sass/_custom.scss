@@ -10,6 +10,15 @@ strong {
   color: #536878;
 }
 
+.archive a,
+.page__content a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
 .author__name {
   color: #08519C;
 }
