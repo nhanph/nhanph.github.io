@@ -85,8 +85,6 @@ I am a Staff Research Scientist at the IBM Thomas J. Watson Research Center in Y
 
 <div class="bio-panel active" data-tab="education" markdown="1">
 
-## Education
-
 <div class="bio-body">
 <div class="bio-date">2017 – 2021</div>
 <div class="bio-desc" markdown="1">
@@ -124,8 +122,6 @@ Ho Chi Minh City University of Technology &middot; Ho Chi Minh City, Vietnam
 
 <div class="bio-panel" data-tab="research" markdown="1">
 
-## Current Research
-
 My current research focuses on **Large Language Models (LLMs) for enterprise data management applications**, particularly building end-to-end Text-to-SQL systems. I lead the development of NL2Insights, an automated pipeline that powers flagship IBM products including watsonx.data intelligence, BI Assistant, and Process Mining. Our system has generated over **200,000 SQL queries across 1,000+ databases** at enterprise scale.
 
 I also continue research on stochastic optimization methods for machine learning, deep learning, and reinforcement learning.
@@ -134,14 +130,59 @@ I also continue research on stochastic optimization methods for machine learning
 
 <div class="bio-panel" data-tab="achievements" markdown="1">
 
-## Recent Achievements
+<div class="bio-body">
+<div class="bio-date">2026</div>
+<div class="bio-desc" markdown="1">
 
-- **IBM Outstanding Technical Achievement Award** (2026): For NL2Insights Impacting Products and Clients
-- **#1 on BIRD Leaderboard** (2024): Led IBM Granite Text-to-SQL models to first place in both tracks of the prestigious BIRD benchmark, outperforming larger models like GPT-4 and GPT-4o
-- **IBM Outstanding Technical Achievement Award** (2025): For achieving first place on the BIRD leaderboard
-- **IBM Growth Award** (2025): For advancing Text2SQL service within watsonx.data intelligence
-- **Multiple IBM Research Accomplishments** (2024-2025): For NL2Insights product adoption and BIRD leaderboard success
-- **Production Impact**: Enabled multilingual Text2SQL capabilities across all IBM Cloud and AWS regions
+**IBM Outstanding Technical Achievement Award**: For NL2Insights Impacting Products and Clients
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">2024</div>
+<div class="bio-desc" markdown="1">
+
+**#1 on BIRD Leaderboard**: Led IBM Granite Text-to-SQL models to first place in both tracks of the prestigious BIRD benchmark, outperforming larger models like GPT-4 and GPT-4o
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">2025</div>
+<div class="bio-desc" markdown="1">
+
+**IBM Outstanding Technical Achievement Award**: For achieving first place on the BIRD leaderboard
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">2025</div>
+<div class="bio-desc" markdown="1">
+
+**IBM Growth Award**: For advancing Text2SQL service within watsonx.data intelligence
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">2024-2025</div>
+<div class="bio-desc" markdown="1">
+
+**Multiple IBM Research Accomplishments**: For NL2Insights product adoption and BIRD leaderboard success
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">2026</div>
+<div class="bio-desc" markdown="1">
+
+**Production Impact**: Enabled multilingual Text2SQL capabilities across all IBM Cloud and AWS regions
+
+</div>
+</div>
 
 </div>
 
