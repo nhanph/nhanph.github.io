@@ -31,8 +31,9 @@ author_profile: false
   flex: 1;
   min-width: 0;
 }
-.pub-desc p:first-child {
+.pub-desc p {
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 .pub-tab-bar {
