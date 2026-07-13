@@ -45,6 +45,34 @@ redirect_from:
 .bio-panel h2 {
   margin-bottom: 0.25em;
 }
+
+.bio-body {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 1em;
+}
+.bio-date {
+  flex-shrink: 0;
+  width: 90px;
+  color: #536878;
+  font-weight: 600;
+  font-size: 0.8rem;
+  padding-top: 1px;
+}
+.bio-desc {
+  flex: 1;
+  min-width: 0;
+}
+
+@media (max-width: 700px) {
+  .bio-body {
+    flex-direction: column;
+    gap: 4px;
+  }
+  .bio-date {
+    width: auto;
+  }
+}
 </style>
 
 I am a Staff Research Scientist at the IBM Thomas J. Watson Research Center in Yorktown Heights, NY. I finished my PhD in Operations Research in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill in 2021 under supervision by Dr. Quoc Tran-Dinh.
@@ -59,17 +87,38 @@ I am a Staff Research Scientist at the IBM Thomas J. Watson Research Center in Y
 
 ## Education
 
-**Ph.D. in Operations Research** 2017–2021<br>
+<div class="bio-body">
+<div class="bio-date">2017 – 2021</div>
+<div class="bio-desc" markdown="1">
+
+**Ph.D. in Operations Research**<br>
 Department of Statistics and Operations Research<br>
 University of North Carolina at Chapel Hill &middot; Chapel Hill, NC, USA
 
-**Graduate Study in Computer Engineering** 2015–2017<br>
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">2015 – 2017</div>
+<div class="bio-desc" markdown="1">
+
+**Graduate Study in Computer Engineering**<br>
 Department of Computer Science and Engineering<br>
 University of Nevada, Reno &middot; Reno, NV, USA
 
-**Bachelor of Engineering (Honor Program) in Computer Engineering** 2008–2013<br>
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">2008 – 2013</div>
+<div class="bio-desc" markdown="1">
+
+**Bachelor of Engineering (Honor Program) in Computer Engineering**<br>
 Department of Computer Science and Engineering<br>
 Ho Chi Minh City University of Technology &middot; Ho Chi Minh City, Vietnam
+
+</div>
+</div>
 
 </div>
 
