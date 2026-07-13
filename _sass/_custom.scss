@@ -215,10 +215,18 @@ html[data-theme="dark"] {
     filter: brightness(1.6);
   }
 
+  .greedy-nav {
+    background: transparent;
+  }
+
   .greedy-nav a,
   .greedy-nav .visible-links a,
   .greedy-nav .hidden-links a {
     filter: brightness(1.6);
+  }
+
+  .greedy-nav .hidden-links {
+    background: #12151a;
   }
 
   .theme-toggle-btn {
