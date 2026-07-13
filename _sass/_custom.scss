@@ -249,6 +249,11 @@ html[data-theme="dark"] {
     }
   }
 
+  strong {
+    color: #6BAED6 !important;
+    filter: brightness(0.645) saturate(1.176) !important;
+  }
+
   .news-tag.tag-milestone,
   .news-tag.tag-newrole,
   .news-tag.tag-conference {
