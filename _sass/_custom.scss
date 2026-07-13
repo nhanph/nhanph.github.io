@@ -287,11 +287,19 @@ html[data-theme="dark"] {
     filter: brightness(0.645) saturate(1.176) !important;
   }
 
-  .news-tag.tag-milestone,
-  .news-tag.tag-newrole,
-  .news-tag.tag-conference {
-    background: rgba(107, 174, 214, 0.15) !important;
+  .news-tag.tag-milestone {
+    background: rgba(107, 174, 214, 0.35) !important;
+    color: #eaf4fb !important;
+  }
+
+  .news-tag.tag-newrole {
+    background: rgba(107, 174, 214, 0.12) !important;
     color: #9ecae1 !important;
+  }
+
+  .news-tag.tag-conference {
+    background: #2171B5 !important;
+    color: #F0F8FF !important;
   }
 
   .theme-toggle-btn {
