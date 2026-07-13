@@ -207,16 +207,6 @@ T. D. Le, S. Gibb, **N. H. Pham**, H. M. La, L. Falk, and T. Berendsen.
 </div>
 </div>
 
-<div class="pub-body">
-<div class="pub-date">2013</div>
-<div class="pub-desc" markdown="1">
-
-<span style="color:#08306B">Quadrotor Helicopter: A Practical Design Approach.</span><br>
-*IEICE International Conference on Integrated Circuits, Design and Verification (<strong style="color:#08306B">IEICE</strong>).*<br>
-T.-D. D. Phan, **N. H. Pham**, K.-N. Le-Huu, and A.-V. D. Dinh.
-
-</div>
-</div>
 
 </div>
 
