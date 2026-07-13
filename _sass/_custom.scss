@@ -75,6 +75,10 @@ strong {
   color: #08306B;
 }
 
+.greedy-nav .visible-links a:before {
+  content: none !important;
+}
+
 .greedy-nav a,
 .greedy-nav .visible-links a,
 .greedy-nav .hidden-links a {
