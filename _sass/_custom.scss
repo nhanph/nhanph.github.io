@@ -26,6 +26,10 @@ strong {
   &:hover {
     text-decoration: none;
   }
+
+  &:visited {
+    color: #6BAED6 !important;
+  }
 }
 
 .author__name {
