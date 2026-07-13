@@ -212,7 +212,8 @@ html[data-theme="dark"] {
   }
 
   .masthead__title a {
-    filter: brightness(1.6);
+    filter: none;
+    color: #ffffff;
   }
 
   .greedy-nav {
