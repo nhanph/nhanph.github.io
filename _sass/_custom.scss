@@ -47,7 +47,7 @@ strong {
 }
 
 .masthead {
-  border-bottom: none;
+  border-bottom: 1px dotted #6BAED6;
 }
 
 .masthead__inner-wrap {
@@ -61,10 +61,6 @@ strong {
   padding-left: 0;
   padding-right: 0;
   border-bottom: none;
-  background-image: repeating-linear-gradient(to right, #6BAED6 0, #6BAED6 2px, transparent 2px, transparent 6px);
-  background-position: bottom;
-  background-size: 100% 1px;
-  background-repeat: no-repeat;
 }
 
 .masthead__title {
