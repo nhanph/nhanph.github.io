@@ -93,7 +93,6 @@ redirect_from:
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
-  margin-left: 28px;
   border: 2px solid #6BAED6;
 }
 .bio-name {
@@ -113,7 +112,7 @@ redirect_from:
 }
 
 .bio-content {
-  margin-left: 162px;
+  margin-left: 134px;
 }
 
 @media (max-width: 700px) {
@@ -319,5 +318,44 @@ I also continue research on stochastic optimization methods for machine learning
       });
     });
   });
+})();
+</script>
+
+<script>
+(function () {
+  var nameEl = document.querySelector('.masthead__title a');
+  var avatar = document.querySelector('.bio-avatar');
+  var header = document.querySelector('.bio-header');
+  var content = document.querySelector('.bio-content');
+  if (!nameEl || !avatar || !header || !content) return;
+
+  function align() {
+    avatar.style.marginLeft = '0px';
+    content.style.marginLeft = '';
+
+    if (window.matchMedia('(max-width: 700px)').matches) {
+      return;
+    }
+
+    var nameRect = nameEl.getBoundingClientRect();
+    var avatarRect = avatar.getBoundingClientRect();
+    var headerRect = header.getBoundingClientRect();
+    var nameCenter = nameRect.left + nameRect.width / 2;
+    var desiredLeft = nameCenter - avatarRect.width / 2;
+    var delta = Math.max(0, desiredLeft - avatarRect.left);
+
+    avatar.style.marginLeft = delta + 'px';
+
+    var newAvatarRight = avatarRect.right + delta;
+    var gap = 24;
+    content.style.marginLeft = (newAvatarRight - headerRect.left + gap) + 'px';
+  }
+
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(align);
+  } else {
+    align();
+  }
+  window.addEventListener('resize', align);
 })();
 </script>
