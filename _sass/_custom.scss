@@ -229,11 +229,22 @@ html[data-theme="dark"] {
     background: #12151a;
   }
 
-  .news-filter-btn[data-filter="patent"],
-  .news-filter-btn[data-filter="publication"],
-  .news-filter-btn[data-filter="award"] {
-    background: none;
-    color: #9ecae1;
+  [class*="-filter-btn"],
+  [class*="-tab-btn"] {
+    background: none !important;
+    border-color: rgba(107, 174, 214, 0.35) !important;
+    color: #9ecae1 !important;
+
+    &:hover {
+      border-color: #6BAED6 !important;
+      color: #6BAED6 !important;
+    }
+
+    &.active {
+      background: #6BAED6 !important;
+      border-color: #6BAED6 !important;
+      color: #12151a !important;
+    }
   }
 
   .theme-toggle-btn {
