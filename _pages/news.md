@@ -170,7 +170,7 @@ redirect_from:
 
 <li data-filter="patent"><span class="news-date">Jun 2023</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Reinforcement machine learning with multi-level agent search and hyperparameter optimization</span><br>L. Vu, P. Kirchner, R. Marinescu, D. Subramanian, and <strong>N. H. Pham</strong>.</span></li>
 
-<li data-filter="talk"><span class="news-date">Feb 2023</span><span><span class="news-tag tag-tutorial">Tutorial</span> Co-organizing a tutorial/lab forum <a href="https://aaai-23.aaai.org/aaai23tutorials/#lsha2" target="_blank">LSHA2: Automated AI for Decision Optimization with Reinforcement Learning</a> at AAAI 2023.</span></li>
+<li data-filter="talk"><span class="news-date">Feb 2023</span><span><span class="news-tag tag-tutorial">Tutorial</span> <a href="https://aaai-23.aaai.org/aaai23tutorials/#lsha2" target="_blank" style="color:#08306B">Automated AI For Decision Optimization with Reinforcement Learning</a>. AAAI 2023 Tutorial and Lab Organizer.</span></li>
 
 <li data-filter="talk"><span class="news-date">Feb 2023</span><span><span class="news-tag tag-other">Other</span> Session Chair of <strong>ML: Optimization 1</strong> at <a href="https://aaai-23.aaai.org/" target="_blank">AAAI 2023</a> on Feb 10, 2023.</span></li>
 
