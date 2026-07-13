@@ -93,39 +93,13 @@ function showhide(id) {
 ## Publications
 
 <div class="pub-tab-bar" id="pub-tab-bar">
-  <button class="pub-tab-btn active" data-tab="preprints">Preprints</button>
-  <button class="pub-tab-btn" data-tab="conference">Conference</button>
+  <button class="pub-tab-btn active" data-tab="conference">Conference</button>
   <button class="pub-tab-btn" data-tab="journal">Journal</button>
   <button class="pub-tab-btn" data-tab="workshop">Workshop</button>
+  <button class="pub-tab-btn" data-tab="preprints">Preprints</button>
 </div>
 
-<div class="pub-panel active" data-tab="preprints" markdown="1">
-
-<div class="pub-body">
-<div class="pub-date">2020</div>
-<div class="pub-desc" markdown="1">
-
-<a href="https://arxiv.org/pdf/2002.02873" target="_blank" style="color:#08306B">Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning.</a><br>
-*<strong style="color:#08306B">arXiv:2002.02873</strong>.*<br>
-T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg.
-
-</div>
-</div>
-
-<div class="pub-body">
-<div class="pub-date">2020</div>
-<div class="pub-desc" markdown="1">
-
-<a href="https://arxiv.org/pdf/2003.10973" target="_blank" style="color:#08306B">Finite-Time Analysis of Stochastic Gradient Descent under Markov Randomness.</a><br>
-*<strong style="color:#08306B">arXiv:2003.10973</strong>.*<br>
-T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg.
-
-</div>
-</div>
-
-</div>
-
-<div class="pub-panel" data-tab="conference" markdown="1">
+<div class="pub-panel active" data-tab="conference" markdown="1">
 
 <div class="pub-body">
 <div class="pub-date">2025</div>
@@ -310,6 +284,32 @@ W. Chen, **N. H. Pham**, M. Glass, L. Vu, G. Rossiello, D. Subramanian, S. Pater
 <a href="https://arxiv.org/abs/2502.06759" target="_blank" style="color:#08306B">Rationalization Models for Text-to-SQL.</a><br>
 *ICLR 2025 Workshop on Reasoning and Planning for LLMs (<strong style="color:#08306B">ICLR 2025 Workshop</strong>).*<br>
 G. Rossiello, **N. H. Pham**, M. Glass, J. Lee, D. Subramanian.
+
+</div>
+</div>
+
+</div>
+
+<div class="pub-panel" data-tab="preprints" markdown="1">
+
+<div class="pub-body">
+<div class="pub-date">2020</div>
+<div class="pub-desc" markdown="1">
+
+<a href="https://arxiv.org/pdf/2002.02873" target="_blank" style="color:#08306B">Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning.</a><br>
+*<strong style="color:#08306B">arXiv:2002.02873</strong>.*<br>
+T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg.
+
+</div>
+</div>
+
+<div class="pub-body">
+<div class="pub-date">2020</div>
+<div class="pub-desc" markdown="1">
+
+<a href="https://arxiv.org/pdf/2003.10973" target="_blank" style="color:#08306B">Finite-Time Analysis of Stochastic Gradient Descent under Markov Randomness.</a><br>
+*<strong style="color:#08306B">arXiv:2003.10973</strong>.*<br>
+T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg.
 
 </div>
 </div>
