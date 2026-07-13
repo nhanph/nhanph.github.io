@@ -46,6 +46,10 @@ strong {
   color: #08519C;
 }
 
+.masthead {
+  border-bottom: none;
+}
+
 .masthead__inner-wrap {
   display: flex;
   flex-direction: row;
@@ -54,6 +58,9 @@ strong {
   justify-content: space-between;
   column-gap: 1.5em;
   row-gap: 0.3em;
+  padding-left: 0;
+  padding-right: 0;
+  border-bottom: 1px dotted #6BAED6;
 }
 
 .masthead__title {
