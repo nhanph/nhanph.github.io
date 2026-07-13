@@ -84,6 +84,7 @@ I am a Staff Research Scientist at the IBM Thomas J. Watson Research Center in Y
   <button class="bio-tab-btn active" data-tab="education">Education</button>
   <button class="bio-tab-btn" data-tab="research">Current Research</button>
   <button class="bio-tab-btn" data-tab="achievements">Recent Achievements</button>
+  <button class="bio-tab-btn" data-tab="skills">Skills & Technologies</button>
 </div>
 
 <div class="bio-panel active" data-tab="education" markdown="1">
@@ -183,6 +184,55 @@ I also continue research on stochastic optimization methods for machine learning
 <div class="bio-desc" markdown="1">
 
 **#1 on BIRD Leaderboard**: Led IBM Granite Text-to-SQL models to first place in both tracks of the prestigious BIRD benchmark, outperforming larger models like GPT-4 and GPT-4o
+
+</div>
+</div>
+
+</div>
+
+<div class="bio-panel" data-tab="skills" markdown="1">
+
+<div class="bio-body">
+<div class="bio-date">Large Language Models</div>
+<div class="bio-desc" markdown="1">
+
+Fine-tuning, prompt engineering, reasoning systems, RAG (Retrieval-Augmented Generation)
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">Programming</div>
+<div class="bio-desc" markdown="1">
+
+Python, TensorFlow, Keras, PyTorch, Scikit-learn, C/C++, MATLAB
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">ML/AI</div>
+<div class="bio-desc" markdown="1">
+
+Deep learning, reinforcement learning, federated learning, optimization algorithms
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">Databases</div>
+<div class="bio-desc" markdown="1">
+
+SQL, Text-to-SQL, schema linking, query optimization
+
+</div>
+</div>
+
+<div class="bio-body">
+<div class="bio-date">Enterprise AI</div>
+<div class="bio-desc" markdown="1">
+
+Production deployment, scalability, safety & security, multilingual systems
 
 </div>
 </div>
