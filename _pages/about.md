@@ -196,7 +196,7 @@ I also continue research on stochastic optimization methods for machine learning
 <div class="bio-date">Large Language Models</div>
 <div class="bio-desc" markdown="1">
 
-Fine-tuning, prompt engineering, reasoning systems, RAG (Retrieval-Augmented Generation)
+**Fine-tuning, prompt engineering, reasoning systems, RAG (Retrieval-Augmented Generation)**
 
 </div>
 </div>
@@ -205,7 +205,7 @@ Fine-tuning, prompt engineering, reasoning systems, RAG (Retrieval-Augmented Gen
 <div class="bio-date">Programming</div>
 <div class="bio-desc" markdown="1">
 
-Python, TensorFlow, Keras, PyTorch, Scikit-learn, C/C++, MATLAB
+**Python, TensorFlow, Keras, PyTorch, Scikit-learn, C/C++, MATLAB**
 
 </div>
 </div>
@@ -214,7 +214,7 @@ Python, TensorFlow, Keras, PyTorch, Scikit-learn, C/C++, MATLAB
 <div class="bio-date">ML/AI</div>
 <div class="bio-desc" markdown="1">
 
-Deep learning, reinforcement learning, federated learning, optimization algorithms
+**Deep learning, reinforcement learning, federated learning, optimization algorithms**
 
 </div>
 </div>
@@ -223,7 +223,7 @@ Deep learning, reinforcement learning, federated learning, optimization algorith
 <div class="bio-date">Databases</div>
 <div class="bio-desc" markdown="1">
 
-SQL, Text-to-SQL, schema linking, query optimization
+**SQL, Text-to-SQL, schema linking, query optimization**
 
 </div>
 </div>
@@ -232,7 +232,7 @@ SQL, Text-to-SQL, schema linking, query optimization
 <div class="bio-date">Enterprise AI</div>
 <div class="bio-desc" markdown="1">
 
-Production deployment, scalability, safety & security, multilingual systems
+**Production deployment, scalability, safety & security, multilingual systems**
 
 </div>
 </div>
