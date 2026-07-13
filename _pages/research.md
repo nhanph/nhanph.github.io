@@ -239,7 +239,7 @@ Q. Tran-Dinh, **N. H. Pham**, D. T. Phan, and L. M. Nguyen
 <div class="pub-date">2018</div>
 <div class="pub-desc" markdown="1">
 
-<span style="color:#08306B">Automated Robotic Monitoring and Inspection of Steel Structures and Bridges</span><br>
+<a href="https://www.cambridge.org/core/journals/robotica/article/abs/automated-robotic-monitoring-and-inspection-of-steel-structures-and-bridges/0688D9D07AC8AE41F1F388818CEFB0DB" target="_blank" style="color:#08306B">Automated Robotic Monitoring and Inspection of Steel Structures and Bridges</a><br>
 *<strong style="color:#08306B">Robotica</strong>*<br>
 H. M. La, T. H. Dinh, **N. H. Pham**, Q. P. Ha, and A. Q. Pham
 
