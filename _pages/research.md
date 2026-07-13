@@ -28,6 +28,40 @@ author_profile: false
   min-width: 0;
 }
 
+.pub-tab-bar {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 18px;
+  flex-wrap: wrap;
+}
+.pub-tab-btn {
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 5px 14px;
+  border: 1.5px solid rgba(8, 48, 107, 0.2);
+  border-radius: 20px;
+  background: none;
+  color: #4F758B;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.pub-tab-btn:hover {
+  border-color: #08306B;
+  color: #08306B;
+}
+.pub-tab-btn.active {
+  background: #08306B;
+  border-color: #08306B;
+  color: #fff;
+}
+
+.pub-panel {
+  display: none;
+}
+.pub-panel.active {
+  display: block;
+}
+
 @media (max-width: 700px) {
   .pub-body {
     flex-direction: column;
@@ -55,38 +89,40 @@ function showhide(id) {
 
 ## Publications
 
-<div class="pub-body">
-<div class="pub-date">2026</div>
-<div class="pub-desc" markdown="1">
-
-<span style="color:#08306B">Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles.</span><br>
-*AAAI 2026 Workshop on Assessing and Improving Reliability of Foundation Models in the Real World (<strong style="color:#08306B">AAAI 2026 Workshop</strong>).*<br>
-W. Ma, D. Bhattacharjya, J. Lee, **N. H. Pham**, H. Kokel, Q. Ji.
-
-</div>
+<div class="pub-tab-bar" id="pub-tab-bar">
+  <button class="pub-tab-btn active" data-tab="preprints">Preprints</button>
+  <button class="pub-tab-btn" data-tab="conference">Conference</button>
+  <button class="pub-tab-btn" data-tab="journal">Journal</button>
+  <button class="pub-tab-btn" data-tab="workshop">Workshop</button>
 </div>
 
+<div class="pub-panel active" data-tab="preprints" markdown="1">
+
 <div class="pub-body">
-<div class="pub-date">2025</div>
+<div class="pub-date">2020</div>
 <div class="pub-desc" markdown="1">
 
-<a href="https://arxiv.org/abs/2511.09693" target="_blank" style="color:#08306B">ConstrainedSQL: Training LLMs for Text2SQL via Constrained Reinforcement Learning.</a><br>
-*NeurIPS 2025 Workshop on Efficient Reasoning (<strong style="color:#08306B">NeurIPS 2025 Workshop</strong>).*<br>
-W. Chen, **N. H. Pham**, M. Glass, L. Vu, G. Rossiello, D. Subramanian, S. Paternain.
+<a href="https://arxiv.org/pdf/2002.02873" target="_blank" style="color:#08306B">Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning.</a><br>
+*<strong style="color:#08306B">arXiv:2002.02873</strong>.*<br>
+T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg.
 
 </div>
 </div>
 
 <div class="pub-body">
-<div class="pub-date">2025</div>
+<div class="pub-date">2020</div>
 <div class="pub-desc" markdown="1">
 
-<a href="https://arxiv.org/abs/2502.06759" target="_blank" style="color:#08306B">Rationalization Models for Text-to-SQL.</a><br>
-*ICLR 2025 Workshop on Reasoning and Planning for LLMs (<strong style="color:#08306B">ICLR 2025 Workshop</strong>).*<br>
-G. Rossiello, **N. H. Pham**, M. Glass, J. Lee, D. Subramanian.
+<a href="https://arxiv.org/pdf/2003.10973" target="_blank" style="color:#08306B">Finite-Time Analysis of Stochastic Gradient Descent under Markov Randomness.</a><br>
+*<strong style="color:#08306B">arXiv:2003.10973</strong>.*<br>
+T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg.
 
 </div>
 </div>
+
+</div>
+
+<div class="pub-panel" data-tab="conference" markdown="1">
 
 <div class="pub-body">
 <div class="pub-date">2025</div>
@@ -133,17 +169,6 @@ D. T. Phan, L. M. Nguyen, P. Murali, **N. H. Pham**, H. Liu, J. Kalagnanam.
 </div>
 
 <div class="pub-body">
-<div class="pub-date">2021</div>
-<div class="pub-desc" markdown="1">
-
-<a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank" style="color:#08306B">A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization.</a><br>
-*<strong style="color:#08306B">Mathematical Programming</strong>.*<br>
-Q. Tran-Dinh, **N. H. Pham**, D. T. Phan, and L. M. Nguyen.
-
-</div>
-</div>
-
-<div class="pub-body">
 <div class="pub-date">2020</div>
 <div class="pub-desc" markdown="1">
 
@@ -159,33 +184,10 @@ Q. Tran-Dinh, **N. H. Pham**, and L. M. Nguyen.<br>
 <div class="pub-date">2020</div>
 <div class="pub-desc" markdown="1">
 
-<a href="https://www.jmlr.org/papers/v21/19-248.html" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization.</a><br>
-*Journal of Machine Learning Research (<strong style="color:#08306B">JMLR</strong>).*<br>
-**N. H. Pham**, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.<br>
-<a href="https://github.com/unc-optimization/StochasticProximalMethods" target="_blank">[Python Code]</a>
-
-</div>
-</div>
-
-<div class="pub-body">
-<div class="pub-date">2020</div>
-<div class="pub-desc" markdown="1">
-
 <a href="http://proceedings.mlr.press/v108/pham20a.html" target="_blank" style="color:#08306B">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning.</a><br>
 *The 23rd International Conference on Artificial Intelligence and Statistics (<strong style="color:#08306B">AISTATS 2020</strong>).*<br>
 **N. H. Pham**, L. M. Nguyen, D. T. Phan, P. H. Nguyen, M. van Dijk, and Q. Tran-Dinh.<br>
 <a href="https://github.com/unc-optimization/ProxHSPGA" target="_blank">[Python Code]</a>
-
-</div>
-</div>
-
-<div class="pub-body">
-<div class="pub-date">2018</div>
-<div class="pub-desc" markdown="1">
-
-<span style="color:#08306B">Automated Robotic Monitoring and Inspection of Steel Structures and Bridges.</span><br>
-*<strong style="color:#08306B">Robotica</strong>.*<br>
-H. M. La, T. H. Dinh, **N. H. Pham**, Q. P. Ha, and A. Q. Pham.
 
 </div>
 </div>
@@ -234,12 +236,97 @@ T.-D. D. Phan, **N. H. Pham**, K.-N. Le-Huu, and A.-V. D. Dinh.
 </div>
 </div>
 
-## Preprints
+</div>
 
-- <a href="https://arxiv.org/pdf/2002.02873" target="_blank" style="color:#08306B">Convergence Rates of Accelerated Markov Gradient Descent with Applications in Reinforcement Learning.</a><br>
-*<strong style="color:#08306B">arXiv:2002.02873</strong>.*<br>
-T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg.
+<div class="pub-panel" data-tab="journal" markdown="1">
 
-- <a href="https://arxiv.org/pdf/2003.10973" target="_blank" style="color:#08306B">Finite-Time Analysis of Stochastic Gradient Descent under Markov Randomness.</a><br>
-*<strong style="color:#08306B">arXiv:2003.10973</strong>.*<br>
-T. T. Doan, L. M. Nguyen, **N. H. Pham**, and J. Romberg.
+<div class="pub-body">
+<div class="pub-date">2021</div>
+<div class="pub-desc" markdown="1">
+
+<a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank" style="color:#08306B">A Hybrid Stochastic Optimization Framework for Composite Nonconvex Optimization.</a><br>
+*<strong style="color:#08306B">Mathematical Programming</strong>.*<br>
+Q. Tran-Dinh, **N. H. Pham**, D. T. Phan, and L. M. Nguyen.
+
+</div>
+</div>
+
+<div class="pub-body">
+<div class="pub-date">2020</div>
+<div class="pub-desc" markdown="1">
+
+<a href="https://www.jmlr.org/papers/v21/19-248.html" target="_blank" style="color:#08306B">ProxSARAH: An Efficient Algorithmic Framework for Stochastic Composite Nonconvex Optimization.</a><br>
+*Journal of Machine Learning Research (<strong style="color:#08306B">JMLR</strong>).*<br>
+**N. H. Pham**, L. M. Nguyen, D. T. Phan, and Q. Tran-Dinh.<br>
+<a href="https://github.com/unc-optimization/StochasticProximalMethods" target="_blank">[Python Code]</a>
+
+</div>
+</div>
+
+<div class="pub-body">
+<div class="pub-date">2018</div>
+<div class="pub-desc" markdown="1">
+
+<span style="color:#08306B">Automated Robotic Monitoring and Inspection of Steel Structures and Bridges.</span><br>
+*<strong style="color:#08306B">Robotica</strong>.*<br>
+H. M. La, T. H. Dinh, **N. H. Pham**, Q. P. Ha, and A. Q. Pham.
+
+</div>
+</div>
+
+</div>
+
+<div class="pub-panel" data-tab="workshop" markdown="1">
+
+<div class="pub-body">
+<div class="pub-date">2026</div>
+<div class="pub-desc" markdown="1">
+
+<span style="color:#08306B">Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles.</span><br>
+*AAAI 2026 Workshop on Assessing and Improving Reliability of Foundation Models in the Real World (<strong style="color:#08306B">AAAI 2026 Workshop</strong>).*<br>
+W. Ma, D. Bhattacharjya, J. Lee, **N. H. Pham**, H. Kokel, Q. Ji.
+
+</div>
+</div>
+
+<div class="pub-body">
+<div class="pub-date">2025</div>
+<div class="pub-desc" markdown="1">
+
+<a href="https://arxiv.org/abs/2511.09693" target="_blank" style="color:#08306B">ConstrainedSQL: Training LLMs for Text2SQL via Constrained Reinforcement Learning.</a><br>
+*NeurIPS 2025 Workshop on Efficient Reasoning (<strong style="color:#08306B">NeurIPS 2025 Workshop</strong>).*<br>
+W. Chen, **N. H. Pham**, M. Glass, L. Vu, G. Rossiello, D. Subramanian, S. Paternain.
+
+</div>
+</div>
+
+<div class="pub-body">
+<div class="pub-date">2025</div>
+<div class="pub-desc" markdown="1">
+
+<a href="https://arxiv.org/abs/2502.06759" target="_blank" style="color:#08306B">Rationalization Models for Text-to-SQL.</a><br>
+*ICLR 2025 Workshop on Reasoning and Planning for LLMs (<strong style="color:#08306B">ICLR 2025 Workshop</strong>).*<br>
+G. Rossiello, **N. H. Pham**, M. Glass, J. Lee, D. Subramanian.
+
+</div>
+</div>
+
+</div>
+
+<script>
+(function () {
+  var pubTabBtns = document.querySelectorAll('#pub-tab-bar .pub-tab-btn');
+  var pubPanels = document.querySelectorAll('.pub-panel');
+
+  pubTabBtns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      pubTabBtns.forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      var tab = btn.getAttribute('data-tab');
+      pubPanels.forEach(function (p) {
+        p.classList.toggle('active', p.getAttribute('data-tab') === tab);
+      });
+    });
+  });
+})();
+</script>
