@@ -148,7 +148,7 @@ redirect_from:
 
 <div class="bio-tab-bar" id="bio-tab-bar">
   <button class="bio-tab-btn active" data-tab="education">Education</button>
-  <button class="bio-tab-btn" data-tab="experience">Professional Experience</button>
+  <button class="bio-tab-btn" data-tab="experience">Experience</button>
   <button class="bio-tab-btn" data-tab="achievements">Recent Achievements</button>
   <button class="bio-tab-btn" data-tab="skills">Skills & Technologies</button>
 </div>
