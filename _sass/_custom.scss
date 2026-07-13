@@ -10,6 +10,14 @@ strong {
   color: #536878;
 }
 
+.archive p,
+.archive li,
+.archive .news-list li,
+.page__content p,
+.page__content li {
+  font-size: 0.78rem;
+}
+
 #main .page:first-child,
 #main .archive:first-child {
   @include breakpoint($large) {
