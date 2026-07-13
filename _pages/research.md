@@ -110,7 +110,7 @@ function showhide(id) {
 <div class="pub-date">2025</div>
 <div class="pub-desc" markdown="1">
 
-<span style="color:#08306B">The Consistency Hypothesis in Uncertainty Quantification for Large Language Models.</span><br>
+<a href="https://proceedings.mlr.press/v286/xiao25a.html" target="_blank" style="color:#08306B">The Consistency Hypothesis in Uncertainty Quantification for Large Language Models.</a><br>
 *Forty-First Conference on Uncertainty in Artificial Intelligence (<strong style="color:#08306B">UAI 2025</strong>).*<br>
 Q. Xiao, D. Bhattacharjya, B. Ganesan, R. Marinescu, K. Mirylenka, **N. H. Pham**, M. Glass, and J. Lee.
 
