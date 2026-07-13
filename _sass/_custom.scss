@@ -249,6 +249,13 @@ html[data-theme="dark"] {
     }
   }
 
+  .news-tag.tag-milestone,
+  .news-tag.tag-newrole,
+  .news-tag.tag-conference {
+    background: rgba(107, 174, 214, 0.15) !important;
+    color: #9ecae1 !important;
+  }
+
   .theme-toggle-btn {
     border-color: rgba(107, 174, 214, 0.4);
     color: #9ecae1;
