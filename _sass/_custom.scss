@@ -293,6 +293,11 @@ html[data-theme="dark"] {
   }
 
   .news-tag.tag-newrole {
+    background: rgba(8, 48, 107, 0.15) !important;
+    color: #08306B !important;
+  }
+
+  .news-tag.tag-talk {
     background: rgba(107, 174, 214, 0.12) !important;
     color: #9ecae1 !important;
   }
