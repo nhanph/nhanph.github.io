@@ -76,7 +76,7 @@ redirect_from:
 }
 .news-tag {
   display: inline-block;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.06em;
