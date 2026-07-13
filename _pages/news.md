@@ -71,12 +71,12 @@ redirect_from:
   width: 90px;
   color: #536878;
   font-weight: 600;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   padding-top: 1px;
 }
 .news-tag {
   display: inline-block;
-  font-size: 0.68rem;
+  font-size: 0.8rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.06em;
