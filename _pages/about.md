@@ -93,6 +93,7 @@ redirect_from:
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
+  margin-left: 28px;
   border: 2px solid #6BAED6;
 }
 .bio-name {
@@ -112,7 +113,7 @@ redirect_from:
 }
 
 .bio-content {
-  margin-left: 134px;
+  margin-left: 162px;
 }
 
 @media (max-width: 700px) {
@@ -120,6 +121,10 @@ redirect_from:
     flex-direction: column;
     align-items: center;
     text-align: center;
+  }
+
+  .bio-avatar {
+    margin-left: 0;
   }
 
   .bio-content {
