@@ -52,15 +52,35 @@ author_profile: false
 </style>
 
 <div class="project-tab-bar" id="project-tab-bar">
-  <button class="project-tab-btn active" data-tab="nl2insights">NL2Insights</button>
+  <button class="project-tab-btn active" data-tab="multilingual">Multilingual Text2SQL</button>
+  <button class="project-tab-btn" data-tab="nl2insights">NL2Insights</button>
   <button class="project-tab-btn" data-tab="textsql">IBM Granite Text-to-SQL</button>
-  <button class="project-tab-btn" data-tab="multilingual">Multilingual Text2SQL</button>
   <button class="project-tab-btn" data-tab="autodo">AutoDO</button>
   <button class="project-tab-btn" data-tab="rl">Reinforcement Learning</button>
   <button class="project-tab-btn" data-tab="fl">Federated Learning</button>
 </div>
 
-<div class="project-panel active" data-tab="nl2insights" markdown="1">
+<div class="project-panel active" data-tab="multilingual" markdown="1">
+
+## Multilingual Text2SQL
+<span style="color:#536878; font-size:0.9rem;">2025 – 2026</span>
+{: .project-subtitle}
+
+**Capability**: Extended Text2SQL to support multiple languages, making data accessible to global workforce.
+
+**Deployment**:
+- **Production-ready** across all IBM Cloud and AWS regions
+- Integrated into IBM watsonx.data intelligence SaaS
+- Currently supports English and Japanese (more languages in development)
+
+**Impact**:
+- Breaks language barriers for data interaction
+- Enables non-English speakers to query databases in their native language
+- Automatic conversion to optimized SQL regardless of input language
+
+</div>
+
+<div class="project-panel" data-tab="nl2insights" markdown="1">
 
 ## NL2Insights: Enterprise Text-to-SQL at Scale
 <span style="color:#536878; font-size:0.9rem;">2024 – 2026</span>
@@ -118,26 +138,6 @@ author_profile: false
 - IBM Research Accomplishments (A-level) - 2024
 - Featured at THINK'24 (IBM's flagship conference)
 - Deployed on BAM and Watsonx.ai platforms
-
-</div>
-
-<div class="project-panel" data-tab="multilingual" markdown="1">
-
-## Multilingual Text2SQL
-<span style="color:#536878; font-size:0.9rem;">2025 – 2026</span>
-{: .project-subtitle}
-
-**Capability**: Extended Text2SQL to support multiple languages, making data accessible to global workforce.
-
-**Deployment**:
-- **Production-ready** across all IBM Cloud and AWS regions
-- Integrated into IBM watsonx.data intelligence SaaS
-- Currently supports English and Japanese (more languages in development)
-
-**Impact**:
-- Breaks language barriers for data interaction
-- Enables non-English speakers to query databases in their native language
-- Automatic conversion to optimized SQL regardless of input language
 
 </div>
 
