@@ -82,12 +82,18 @@ strong {
   font-weight: 600;
   text-transform: none;
   text-decoration: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  -webkit-tap-highlight-color: transparent;
 
   &:hover,
   &:focus,
+  &:focus-visible,
   &:active,
   &:visited {
     text-decoration: none !important;
+    outline: none !important;
+    box-shadow: none !important;
   }
 }
 
