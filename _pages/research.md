@@ -35,7 +35,7 @@ W. Ma, D. Bhattacharjya, J. Lee, **N. H. Pham**, H. Kokel, Q. Ji.
 
 ### 2025
 
-- <span style="color:#08306B">ConstrainedSQL: Training LLMs for Text2SQL via Constrained Reinforcement Learning.</span><br>
+- <a href="https://arxiv.org/abs/2511.09693" target="_blank" style="color:#08306B">ConstrainedSQL: Training LLMs for Text2SQL via Constrained Reinforcement Learning.</a><br>
 *NeurIPS 2025 Workshop on Efficient Reasoning (<strong style="color:#08306B">NeurIPS 2025 Workshop</strong>).*<br>
 W. Chen, **N. H. Pham**, M. Glass, L. Vu, G. Rossiello, D. Subramanian, S. Paternain.
 
