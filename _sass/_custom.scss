@@ -229,6 +229,13 @@ html[data-theme="dark"] {
     background: #12151a;
   }
 
+  .news-filter-btn[data-filter="patent"],
+  .news-filter-btn[data-filter="publication"],
+  .news-filter-btn[data-filter="award"] {
+    background: none;
+    color: #9ecae1;
+  }
+
   .theme-toggle-btn {
     border-color: rgba(107, 174, 214, 0.4);
     color: #9ecae1;
