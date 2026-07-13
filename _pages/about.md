@@ -9,6 +9,10 @@ redirect_from:
 ---
 
 <style>
+.page__title {
+  display: none;
+}
+
 .bio-tab-bar {
   display: flex;
   gap: 6px;
@@ -76,9 +80,54 @@ redirect_from:
     width: auto;
   }
 }
+
+.bio-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin-bottom: 1.5em;
+}
+.bio-avatar {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 2px solid #6BAED6;
+}
+.bio-name {
+  margin: 0 0 0.15em 0;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #08306B;
+}
+.bio-role {
+  margin: 0 0 0.6em 0;
+  font-style: italic;
+  color: #4F758B;
+  font-size: 0.95rem;
+}
+.bio-intro {
+  margin: 0;
+}
+
+@media (max-width: 700px) {
+  .bio-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
 </style>
 
-I am a Staff Research Scientist at the IBM Thomas J. Watson Research Center in Yorktown Heights, NY. I finished my PhD in Operations Research in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill in 2021 under supervision by Dr. Quoc Tran-Dinh.
+<div class="bio-header">
+  <img src="/images/NP_Profile.jpg" alt="Nhan H. Pham" class="bio-avatar">
+  <div class="bio-header-text">
+    <h1 class="bio-name">Nhan H. Pham</h1>
+    <p class="bio-role">Staff Research Scientist &middot; IBM Thomas J. Watson Research Center</p>
+    <p class="bio-intro">I am a Staff Research Scientist at the IBM Thomas J. Watson Research Center in Yorktown Heights, NY. I finished my PhD in Operations Research in the Department of Statistics and Operations Research at University of North Carolina at Chapel Hill in 2021 under supervision by Dr. Quoc Tran-Dinh.</p>
+  </div>
+</div>
 
 <div class="bio-tab-bar" id="bio-tab-bar">
   <button class="bio-tab-btn active" data-tab="education">Education</button>

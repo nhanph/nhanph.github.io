@@ -235,6 +235,10 @@ html[data-theme="dark"] {
     color: #ffffff;
   }
 
+  .bio-avatar {
+    filter: brightness(0.645) saturate(1.176) !important;
+  }
+
   .greedy-nav {
     background: transparent;
   }
