@@ -184,6 +184,8 @@ redirect_from:
 
 <li data-filter="newrole"><span class="news-date">Aug 2021</span><span><span class="news-tag tag-milestone">Milestone</span> Finished summer internship at <a href="https://www.bluerivertechnology.com/" target="_blank">Blue River Technology</a>. Mentored by Ben Cline, supervised by Chris Padwick.</span></li>
 
+<li data-filter="talk"><span class="news-date">Jul 2021</span><span><span class="news-tag tag-talk">Talk</span> <span style="color:#08306B">Stochastic Recursive Gradient Algorithms for Stochastic Composite Nonconvex Optimization and Policy Optimization</span>. MIT-IBM Guest Seminar.</span></li>
+
 <li data-filter="publication"><span class="news-date">Jun 2021</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/2103.03452.pdf" target="_blank" style="color:#08306B">FedDR &ndash; Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization</a>.<br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
 
 <li data-filter="patent"><span class="news-date">May 2021</span><span><span class="news-tag tag-patent">Patent Application</span> <span style="color:#08306B">Site-Wide Optimization for Mixed Regression Models and Mixed Control Variables</span><br>D. T. Phan, <strong>N. H. Pham</strong>, L. M. Nguyen.</span></li>
@@ -193,6 +195,8 @@ redirect_from:
 <li data-filter="publication"><span class="news-date">Mar 2021</span><span><span class="news-tag tag-preprint">Preprint</span> <a href="https://arxiv.org/pdf/2103.03452v1.pdf" target="_blank" style="color:#08306B">Federated Learning with Randomized Douglas-Rachford Splitting Methods</a>.<br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
 
 <li data-filter="publication"><span class="news-date">Jan 2021</span><span><span class="news-tag tag-conference">Conference</span> <a href="https://ieeexplore.ieee.org/document/9482638" target="_blank" style="color:#08306B">Regression Optimization for System-level Production Control</a> <em>accepted for 2021 American Control Conference (<strong>ACC</strong>).</em><br>D. T. Phan, L. M. Nguyen, P. Murali, <strong>N. H. Pham</strong>, H. Liu, J. Kalagnanam.</span></li>
+
+<li data-filter="talk"><span class="news-date">Nov 2020</span><span><span class="news-tag tag-talk">Talk</span> <span style="color:#08306B">A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning</span>. Oral Presentation: INFORMS Annual Meeting 2020.</span></li>
 
 <li data-filter="publication"><span class="news-date">Oct 2020</span><span><span class="news-tag tag-journal">Journal</span> <a href="https://link.springer.com/article/10.1007/s10107-020-01583-1" target="_blank" style="color:#08306B">A Hybrid Stochastic Optimization Framework for Stochastic Composite Nonconvex Optimization</a> <em>accepted for <strong>Mathematical Programming</strong>.</em><br>Q. Tran-Dinh, <strong>N. H. Pham</strong>, D. T. Phan, and L. M. Nguyen.</span></li>
 
